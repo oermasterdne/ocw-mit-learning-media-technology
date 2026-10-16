@@ -1,0 +1,5952 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.988 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.988 --> 00:00:03.973 align:middle line:90%
+[RUSTLING]
+
+00:00:03.973 --> 00:00:04.473 align:middle line:90%
+
+
+00:00:04.473 --> 00:00:05.964 align:middle line:90%
+[CLICKING]
+
+00:00:05.964 --> 00:00:12.440 align:middle line:90%
+
+
+00:00:12.440 --> 00:00:15.380 align:middle line:84%
+JUSTIN REICH: We are trying to
+make our way through these four
+
+00:00:15.380 --> 00:00:17.823 align:middle line:90%
+as-yet intractable dilemmas.
+
+00:00:17.823 --> 00:00:20.490 align:middle line:84%
+The last time we met, we talked
+about the curse of the familiar,
+
+00:00:20.490 --> 00:00:22.307 align:middle line:90%
+the ed tech Matthew effect.
+
+00:00:22.307 --> 00:00:24.140 align:middle line:84%
+Today, we're going to
+be looking at the trap
+
+00:00:24.140 --> 00:00:26.995 align:middle line:90%
+of routine assessment.
+
+00:00:26.995 --> 00:00:28.370 align:middle line:84%
+Anybody want to
+try to articulate
+
+00:00:28.370 --> 00:00:33.110 align:middle line:84%
+the core puzzle that's at
+that's at the heart of the trap
+
+00:00:33.110 --> 00:00:34.380 align:middle line:90%
+of routine assessment?
+
+00:00:34.380 --> 00:00:41.990 align:middle line:90%
+
+
+00:00:41.990 --> 00:00:43.790 align:middle line:90%
+What do you got, Dana?
+
+00:00:43.790 --> 00:00:45.620 align:middle line:84%
+AUDIENCE: Kind of
+along the lines of,
+
+00:00:45.620 --> 00:00:51.890 align:middle line:84%
+teachers are teaching students
+a subject, and schools have such
+
+00:00:51.890 --> 00:00:55.820 align:middle line:84%
+an emphasis on final
+exams and what they're
+
+00:00:55.820 --> 00:00:58.348 align:middle line:84%
+preparing for these
+standardized tests,
+
+00:00:58.348 --> 00:00:59.890 align:middle line:84%
+but we're also
+fighting with the idea
+
+00:00:59.890 --> 00:01:01.880 align:middle line:90%
+of what a computer can grade.
+
+00:01:01.880 --> 00:01:04.239 align:middle line:84%
+So if you're trying to
+standardize some sort of way
+
+00:01:04.239 --> 00:01:06.100 align:middle line:84%
+of grading something,
+you can only
+
+00:01:06.100 --> 00:01:08.140 align:middle line:84%
+really focus on
+teaching students things
+
+00:01:08.140 --> 00:01:09.620 align:middle line:90%
+that computers can do.
+
+00:01:09.620 --> 00:01:12.520 align:middle line:84%
+But if a computer can
+already do it, then
+
+00:01:12.520 --> 00:01:15.125 align:middle line:84%
+why is that the emphasis of
+what we're teaching students?
+
+00:01:15.125 --> 00:01:17.750 align:middle line:84%
+So it's kind of the idea that,
+if you look at the Venn diagram,
+
+00:01:17.750 --> 00:01:20.380 align:middle line:84%
+there's this whole other
+half of the subject
+
+00:01:20.380 --> 00:01:24.490 align:middle line:84%
+that ultimately we probably
+should be focusing on.
+
+00:01:24.490 --> 00:01:28.060 align:middle line:84%
+But we are really only talking
+about that overlapping aspect
+
+00:01:28.060 --> 00:01:29.860 align:middle line:84%
+of what students
+we're saying should
+
+00:01:29.860 --> 00:01:32.450 align:middle line:90%
+learn because we can assess it.
+
+00:01:32.450 --> 00:01:34.330 align:middle line:84%
+JUSTIN REICH: Good--
+that the technologies
+
+00:01:34.330 --> 00:01:36.563 align:middle line:84%
+we have for assessment
+constrain what
+
+00:01:36.563 --> 00:01:38.480 align:middle line:84%
+it is that we can assess
+in any kind of scale.
+
+00:01:38.480 --> 00:01:41.980 align:middle line:84%
+Anybody want to add-- what
+else seems important to Dana's
+
+00:01:41.980 --> 00:01:43.290 align:middle line:90%
+initial offering there?
+
+00:01:43.290 --> 00:01:54.983 align:middle line:90%
+
+
+00:01:54.983 --> 00:01:57.400 align:middle line:84%
+AUDIENCE: I think something
+you brought up in the reading,
+
+00:01:57.400 --> 00:02:00.383 align:middle line:84%
+as well, is that there's a
+connection to the labor markets.
+
+00:02:00.383 --> 00:02:03.050 align:middle line:84%
+So schools are supposed to help
+us prepare for the labor market,
+
+00:02:03.050 --> 00:02:05.380 align:middle line:84%
+but we're learning these routine
+things that are being taken over
+
+00:02:05.380 --> 00:02:05.963 align:middle line:90%
+by automation.
+
+00:02:05.963 --> 00:02:07.713 align:middle line:84%
+How is that actually
+doing what the school
+
+00:02:07.713 --> 00:02:09.020 align:middle line:90%
+is supposed to function for?
+
+00:02:09.020 --> 00:02:09.978 align:middle line:90%
+JUSTIN REICH: OK, good.
+
+00:02:09.978 --> 00:02:13.580 align:middle line:84%
+So schools operate in between
+a couple of different things.
+
+00:02:13.580 --> 00:02:18.100 align:middle line:84%
+One is, what do we need kids
+to do changes over time,
+
+00:02:18.100 --> 00:02:21.790 align:middle line:90%
+as we develop new technologies.
+
+00:02:21.790 --> 00:02:23.810 align:middle line:84%
+None of you should teach
+your students-- well,
+
+00:02:23.810 --> 00:02:25.518 align:middle line:84%
+I mean, you shouldn't
+teach your students
+
+00:02:25.518 --> 00:02:27.340 align:middle line:84%
+to operate a loom
+on the basis that
+
+00:02:27.340 --> 00:02:29.480 align:middle line:84%
+will be a source of gainful
+employment for them,
+
+00:02:29.480 --> 00:02:31.647 align:middle line:84%
+although there probably are
+a small number of people
+
+00:02:31.647 --> 00:02:34.720 align:middle line:84%
+who are very profitable
+small business loom operators
+
+00:02:34.720 --> 00:02:37.390 align:middle line:84%
+and particular kinds of things,
+but generally speaking, not
+
+00:02:37.390 --> 00:02:39.430 align:middle line:90%
+a good bet.
+
+00:02:39.430 --> 00:02:42.320 align:middle line:84%
+And so it makes sense that
+as technologies come along,
+
+00:02:42.320 --> 00:02:45.220 align:middle line:84%
+we change the kinds of things
+that we teach to young people.
+
+00:02:45.220 --> 00:02:50.740 align:middle line:84%
+And computers, in
+various ways, once
+
+00:02:50.740 --> 00:02:52.720 align:middle line:84%
+a decade, over
+the last 10 years,
+
+00:02:52.720 --> 00:02:54.610 align:middle line:84%
+cause new kinds of
+problems for us.
+
+00:02:54.610 --> 00:02:57.450 align:middle line:84%
+As computers' capacities
+expand, what we
+
+00:02:57.450 --> 00:03:00.060 align:middle line:84%
+think about teaching
+people changes.
+
+00:03:00.060 --> 00:03:03.657 align:middle line:84%
+At the same time, as
+computers, technologies expand,
+
+00:03:03.657 --> 00:03:05.490 align:middle line:84%
+there's maybe new or
+different kinds of ways
+
+00:03:05.490 --> 00:03:07.200 align:middle line:84%
+that we can use
+them for assessment.
+
+00:03:07.200 --> 00:03:10.920 align:middle line:84%
+And so those two things are
+interplaying with each other
+
+00:03:10.920 --> 00:03:11.705 align:middle line:90%
+all the time.
+
+00:03:11.705 --> 00:03:14.370 align:middle line:90%
+
+
+00:03:14.370 --> 00:03:15.580 align:middle line:90%
+We have some seats up here.
+
+00:03:15.580 --> 00:03:16.870 align:middle line:84%
+There's plenty of
+room could use.
+
+00:03:16.870 --> 00:03:17.537 align:middle line:90%
+Nice to see you.
+
+00:03:17.537 --> 00:03:20.040 align:middle line:90%
+
+
+00:03:20.040 --> 00:03:22.270 align:middle line:84%
+Other introductory things
+that seem important?
+
+00:03:22.270 --> 00:03:22.770 align:middle line:90%
+Omar?
+
+00:03:22.770 --> 00:03:24.850 align:middle line:84%
+AUDIENCE: Yeah, that's
+not to say that--
+
+00:03:24.850 --> 00:03:27.780 align:middle line:84%
+and you mentioned
+this in the reading--
+
+00:03:27.780 --> 00:03:31.530 align:middle line:84%
+we're not trying to say, don't
+teach times tables and stuff
+
+00:03:31.530 --> 00:03:33.840 align:middle line:84%
+like that, where it's
+like stuff that's--
+
+00:03:33.840 --> 00:03:36.090 align:middle line:84%
+yes, computers can
+assess that, but stuff
+
+00:03:36.090 --> 00:03:38.370 align:middle line:84%
+that students need
+fundamentally to build on
+
+00:03:38.370 --> 00:03:40.880 align:middle line:84%
+for other, more complex tasks
+that they will learn down
+
+00:03:40.880 --> 00:03:41.380 align:middle line:90%
+the line.
+
+00:03:41.380 --> 00:03:42.172 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:03:42.172 --> 00:03:44.400 align:middle line:84%
+That makes the whole
+conversation even more
+
+00:03:44.400 --> 00:03:47.130 align:middle line:84%
+complicated because
+there's stuff
+
+00:03:47.130 --> 00:03:50.190 align:middle line:84%
+that we need people to be
+able to do in their lives.
+
+00:03:50.190 --> 00:03:53.730 align:middle line:84%
+There also might be a class of
+things that's called "stuff that
+
+00:03:53.730 --> 00:03:57.920 align:middle line:84%
+you need to learn in order to be
+able to do those complex things,
+
+00:03:57.920 --> 00:04:00.640 align:middle line:84%
+even though computers can
+do those simpler things."
+
+00:04:00.640 --> 00:04:03.670 align:middle line:84%
+So there's some class
+of things that computers
+
+00:04:03.670 --> 00:04:06.323 align:middle line:84%
+can do that we just don't need
+humans to ever do anymore.
+
+00:04:06.323 --> 00:04:08.740 align:middle line:84%
+I think I joked with you all
+that one of the first times I
+
+00:04:08.740 --> 00:04:12.140 align:middle line:84%
+talked with my students at MIT
+about large language models,
+
+00:04:12.140 --> 00:04:15.100 align:middle line:84%
+that somebody said, I'm
+using large language models
+
+00:04:15.100 --> 00:04:17.865 align:middle line:84%
+to do the LaTeX
+formatting of my papers.
+
+00:04:17.865 --> 00:04:18.740 align:middle line:90%
+And it's like, great.
+
+00:04:18.740 --> 00:04:20.120 align:middle line:90%
+Never think about that again.
+
+00:04:20.120 --> 00:04:21.760 align:middle line:84%
+If no student ever
+thinks about that
+
+00:04:21.760 --> 00:04:23.177 align:middle line:84%
+again for the rest
+of their lives,
+
+00:04:23.177 --> 00:04:25.720 align:middle line:84%
+we're probably fine
+as a civilization.
+
+00:04:25.720 --> 00:04:29.450 align:middle line:84%
+But single-digit multiplication
+is not like that.
+
+00:04:29.450 --> 00:04:32.457 align:middle line:84%
+Single-digit multiplication can
+be trivially done by computers,
+
+00:04:32.457 --> 00:04:34.540 align:middle line:84%
+but it's actually quite
+important for human beings
+
+00:04:34.540 --> 00:04:35.040 align:middle line:90%
+to learn.
+
+00:04:35.040 --> 00:04:39.718 align:middle line:84%
+So there's some complexity
+in those kinds of things.
+
+00:04:39.718 --> 00:04:41.260 align:middle line:84%
+Anything else that
+people want to add
+
+00:04:41.260 --> 00:04:47.578 align:middle line:84%
+to just the initial framing of
+the trap of routine assessment?
+
+00:04:47.578 --> 00:04:49.370 align:middle line:84%
+AUDIENCE: I guess just
+to add on even more,
+
+00:04:49.370 --> 00:04:51.650 align:middle line:84%
+there is this aspect
+that our society values
+
+00:04:51.650 --> 00:04:54.860 align:middle line:84%
+these routine assessments
+so that, even though you're
+
+00:04:54.860 --> 00:04:58.940 align:middle line:84%
+trying to change this and branch
+out and expand what we teach
+
+00:04:58.940 --> 00:05:01.010 align:middle line:84%
+students, they're still
+always constrained
+
+00:05:01.010 --> 00:05:02.540 align:middle line:90%
+by the market itself.
+
+00:05:02.540 --> 00:05:04.190 align:middle line:84%
+And ultimately,
+teachers have to fight
+
+00:05:04.190 --> 00:05:06.480 align:middle line:84%
+against that and their
+own independent wishes.
+
+00:05:06.480 --> 00:05:09.548 align:middle line:84%
+So as much as we think you can
+just do it, you can't actually.
+
+00:05:09.548 --> 00:05:10.340 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:05:10.340 --> 00:05:13.070 align:middle line:84%
+So I mean, I think you could
+go to almost any educator
+
+00:05:13.070 --> 00:05:16.460 align:middle line:84%
+and say something along
+the lines of, like, are
+
+00:05:16.460 --> 00:05:19.760 align:middle line:84%
+standardized tests a good
+mechanism for capturing
+
+00:05:19.760 --> 00:05:22.140 align:middle line:84%
+all of the important things
+that students should know?
+
+00:05:22.140 --> 00:05:23.788 align:middle line:90%
+And the answer is, clearly not.
+
+00:05:23.788 --> 00:05:25.580 align:middle line:84%
+There's almost no
+educator in the world who
+
+00:05:25.580 --> 00:05:27.620 align:middle line:90%
+believes that to be the case.
+
+00:05:27.620 --> 00:05:29.870 align:middle line:84%
+There's more debate
+over the question of,
+
+00:05:29.870 --> 00:05:34.070 align:middle line:84%
+do standardized tests capture
+some of the important things
+
+00:05:34.070 --> 00:05:36.980 align:middle line:90%
+that we want students to know?
+
+00:05:36.980 --> 00:05:40.310 align:middle line:84%
+And then a follow-on
+problem that there's then
+
+00:05:40.310 --> 00:05:42.860 align:middle line:84%
+this class of stuff which is
+pretty important for students
+
+00:05:42.860 --> 00:05:45.530 align:middle line:84%
+to know, but we're not
+very good at assessing.
+
+00:05:45.530 --> 00:05:48.770 align:middle line:84%
+And it's hard to prioritize
+those things in education
+
+00:05:48.770 --> 00:05:52.053 align:middle line:84%
+systems because it's hard to
+reward students and reward
+
+00:05:52.053 --> 00:05:54.220 align:middle line:84%
+educators for teaching
+things that we don't know how
+
+00:05:54.220 --> 00:05:56.530 align:middle line:84%
+to measure or don't
+know how to measure
+
+00:05:56.530 --> 00:05:58.340 align:middle line:90%
+in some kind of systemic way.
+
+00:05:58.340 --> 00:06:02.740 align:middle line:84%
+We don't know how to measure
+with the kind of fairness
+
+00:06:02.740 --> 00:06:05.380 align:middle line:84%
+that we would want to use
+for high-stakes assessments
+
+00:06:05.380 --> 00:06:08.342 align:middle line:84%
+for things like graduation
+exams or college entrance exams
+
+00:06:08.342 --> 00:06:09.800 align:middle line:84%
+or other kinds of
+things like that.
+
+00:06:09.800 --> 00:06:12.190 align:middle line:84%
+So all of these are
+parts of systems
+
+00:06:12.190 --> 00:06:14.920 align:middle line:84%
+that get wrestled with
+every day by educators
+
+00:06:14.920 --> 00:06:17.820 align:middle line:84%
+at all different
+kinds of levels.
+
+00:06:17.820 --> 00:06:20.470 align:middle line:84%
+In the United
+States, teachers are
+
+00:06:20.470 --> 00:06:23.962 align:middle line:84%
+unusually responsible for
+wrestling with these issues
+
+00:06:23.962 --> 00:06:26.420 align:middle line:84%
+because we don't have something
+like a national curriculum.
+
+00:06:26.420 --> 00:06:28.840 align:middle line:84%
+We don't even really have
+something like national entrance
+
+00:06:28.840 --> 00:06:32.020 align:middle line:84%
+exams or something
+like that, where
+
+00:06:32.020 --> 00:06:35.290 align:middle line:84%
+the whole system has to
+work together to respond
+
+00:06:35.290 --> 00:06:36.290 align:middle line:90%
+to some of these things.
+
+00:06:36.290 --> 00:06:39.400 align:middle line:84%
+Teachers in the United States
+have unusual discretion
+
+00:06:39.400 --> 00:06:42.430 align:middle line:84%
+for thinking about these
+kinds of challenges.
+
+00:06:42.430 --> 00:06:44.140 align:middle line:84%
+I thought the place
+that I would start
+
+00:06:44.140 --> 00:06:50.380 align:middle line:84%
+with you all is a little bit
+towards what Ty suggested.
+
+00:06:50.380 --> 00:06:56.890 align:middle line:84%
+And we're probably going back
+20-ish years to one of the last
+
+00:06:56.890 --> 00:07:02.350 align:middle line:84%
+times computers really got
+educators and labor economists
+
+00:07:02.350 --> 00:07:03.413 align:middle line:90%
+quite upset.
+
+00:07:03.413 --> 00:07:05.080 align:middle line:84%
+So we're in another
+one of these moments
+
+00:07:05.080 --> 00:07:09.065 align:middle line:84%
+right now with LLMs where
+people are pretty stressed out.
+
+00:07:09.065 --> 00:07:10.940 align:middle line:84%
+How is this going to
+change the labor market?
+
+00:07:10.940 --> 00:07:13.430 align:middle line:84%
+How is this going to change
+what we expect of our students?
+
+00:07:13.430 --> 00:07:15.888 align:middle line:84%
+How should this change school
+systems and things like that?
+
+00:07:15.888 --> 00:07:18.260 align:middle line:84%
+And to me, it's always
+helpful to remember, oh,
+
+00:07:18.260 --> 00:07:19.810 align:middle line:90%
+we've done this before.
+
+00:07:19.810 --> 00:07:23.350 align:middle line:84%
+The introduction of personal
+computers into most households
+
+00:07:23.350 --> 00:07:25.280 align:middle line:84%
+in the United States,
+that was a big deal.
+
+00:07:25.280 --> 00:07:26.980 align:middle line:90%
+It was a big change in the--
+
+00:07:26.980 --> 00:07:29.870 align:middle line:84%
+the introduction of personal
+computers into workplaces,
+
+00:07:29.870 --> 00:07:30.890 align:middle line:90%
+that was a big deal.
+
+00:07:30.890 --> 00:07:32.683 align:middle line:84%
+The introduction
+of the internet,
+
+00:07:32.683 --> 00:07:34.600 align:middle line:84%
+broadband internet
+connection in these spaces,
+
+00:07:34.600 --> 00:07:37.450 align:middle line:84%
+that was a big deal that
+evoked all of these questions
+
+00:07:37.450 --> 00:07:38.950 align:middle line:90%
+in the past.
+
+00:07:38.950 --> 00:07:43.780 align:middle line:84%
+And one of the best summary
+pieces to read from probably--
+
+00:07:43.780 --> 00:07:49.000 align:middle line:84%
+what was the 2015 summary from
+this debate is a paper called
+
+00:07:49.000 --> 00:07:52.330 align:middle line:84%
+"Dancing With Robots" by two
+economists, one who is here,
+
+00:07:52.330 --> 00:07:54.880 align:middle line:84%
+Frank Levy, and another
+who is at Harvard,
+
+00:07:54.880 --> 00:07:57.270 align:middle line:84%
+who was actually my
+advisor, Richard Murnane.
+
+00:07:57.270 --> 00:07:59.550 align:middle line:84%
+This was based on another
+book they wrote called
+
+00:07:59.550 --> 00:08:01.680 align:middle line:90%
+The New Division of Labor.
+
+00:08:01.680 --> 00:08:04.380 align:middle line:84%
+And the original research
+for The New Division of Labor
+
+00:08:04.380 --> 00:08:07.320 align:middle line:84%
+is kind of right when
+personal computers are really
+
+00:08:07.320 --> 00:08:09.630 align:middle line:84%
+starting to widely spread
+in workplaces, in people's
+
+00:08:09.630 --> 00:08:11.460 align:middle line:90%
+homes, and things like that.
+
+00:08:11.460 --> 00:08:15.882 align:middle line:84%
+An early bet that economists
+made was something like--
+
+00:08:15.882 --> 00:08:18.090 align:middle line:84%
+one of the things economists
+think about all the time
+
+00:08:18.090 --> 00:08:19.960 align:middle line:90%
+is, what do jobs require?
+
+00:08:19.960 --> 00:08:22.890 align:middle line:84%
+And education economists then
+start thinking about, OK,
+
+00:08:22.890 --> 00:08:24.390 align:middle line:84%
+what do jobs require,
+and how do you
+
+00:08:24.390 --> 00:08:26.850 align:middle line:84%
+teach people the things that
+the jobs that we actually have
+
+00:08:26.850 --> 00:08:28.650 align:middle line:90%
+require?--
+
+00:08:28.650 --> 00:08:32.549 align:middle line:84%
+that computers are going to
+complement high-wage workers,
+
+00:08:32.549 --> 00:08:35.110 align:middle line:84%
+and they're going to
+replace low-wage workers.
+
+00:08:35.110 --> 00:08:39.240 align:middle line:84%
+That was a pretty early bet that
+a bunch of economists had had.
+
+00:08:39.240 --> 00:08:41.857 align:middle line:84%
+And there was something
+about that to Frank Levy
+
+00:08:41.857 --> 00:08:43.690 align:middle line:84%
+and Richard Murnane
+that didn't smell right.
+
+00:08:43.690 --> 00:08:45.570 align:middle line:84%
+They were like, I
+think it's going
+
+00:08:45.570 --> 00:08:49.590 align:middle line:84%
+to end up being more
+complicated than that.
+
+00:08:49.590 --> 00:08:54.240 align:middle line:84%
+So they thought a lot about
+the specific kinds of things
+
+00:08:54.240 --> 00:08:58.260 align:middle line:84%
+that people did in jobs and
+how those jobs were changing.
+
+00:08:58.260 --> 00:09:02.670 align:middle line:84%
+How many of you have ever
+checked in to get on a flight
+
+00:09:02.670 --> 00:09:05.780 align:middle line:84%
+by talking directly
+to a human being?
+
+00:09:05.780 --> 00:09:07.710 align:middle line:90%
+OK, so it looks like people--
+
+00:09:07.710 --> 00:09:11.050 align:middle line:84%
+how many of you, the majority
+of times you get on a flight,
+
+00:09:11.050 --> 00:09:12.810 align:middle line:90%
+you check in with a machine?
+
+00:09:12.810 --> 00:09:14.843 align:middle line:84%
+OK, so this is
+actually surprising.
+
+00:09:14.843 --> 00:09:16.260 align:middle line:84%
+I'm surprised that
+almost everyone
+
+00:09:16.260 --> 00:09:18.690 align:middle line:84%
+in the room who raised their
+hand said that at least once.
+
+00:09:18.690 --> 00:09:22.230 align:middle line:84%
+When I first put together
+this slide, like 15 years ago
+
+00:09:22.230 --> 00:09:24.940 align:middle line:84%
+or something like that, this
+was a pretty novel experience.
+
+00:09:24.940 --> 00:09:28.170 align:middle line:84%
+So when I was in
+college, you would not
+
+00:09:28.170 --> 00:09:30.660 align:middle line:84%
+interact with a machine at
+all to get onto a flight.
+
+00:09:30.660 --> 00:09:32.130 align:middle line:84%
+You would have
+called the airline
+
+00:09:32.130 --> 00:09:34.420 align:middle line:84%
+or called the travel
+agent to buy a ticket.
+
+00:09:34.420 --> 00:09:35.860 align:middle line:84%
+You would have a
+physical ticket.
+
+00:09:35.860 --> 00:09:36.880 align:middle line:84%
+You would take that
+physical ticket.
+
+00:09:36.880 --> 00:09:38.543 align:middle line:84%
+You would show it
+to a human being.
+
+00:09:38.543 --> 00:09:40.710 align:middle line:84%
+Now, the interesting thing
+about those conversations
+
+00:09:40.710 --> 00:09:43.540 align:middle line:84%
+with human beings was that
+they were highly standardized.
+
+00:09:43.540 --> 00:09:44.680 align:middle line:90%
+They were highly routine.
+
+00:09:44.680 --> 00:09:48.870 align:middle line:84%
+So post 9/11 it would
+be, who are you?
+
+00:09:48.870 --> 00:09:49.580 align:middle line:90%
+This is my ID.
+
+00:09:49.580 --> 00:09:50.730 align:middle line:90%
+Where are you going?
+
+00:09:50.730 --> 00:09:51.480 align:middle line:90%
+This is my ticket.
+
+00:09:51.480 --> 00:09:52.170 align:middle line:90%
+Do you have a ticket?
+
+00:09:52.170 --> 00:09:52.890 align:middle line:90%
+Yeah, this is my ticket.
+
+00:09:52.890 --> 00:09:53.723 align:middle line:90%
+Where are you going?
+
+00:09:53.723 --> 00:09:54.860 align:middle line:90%
+This is where I'm going.
+
+00:09:54.860 --> 00:09:55.730 align:middle line:90%
+Do you have any bags with you?
+
+00:09:55.730 --> 00:09:56.120 align:middle line:90%
+Yes.
+
+00:09:56.120 --> 00:09:57.510 align:middle line:90%
+Did you pack your bags yourself?
+
+00:09:57.510 --> 00:09:58.970 align:middle line:84%
+Have they been in your
+possession the whole time?
+
+00:09:58.970 --> 00:09:59.720 align:middle line:90%
+Yes.
+
+00:09:59.720 --> 00:10:01.020 align:middle line:90%
+And then off you go.
+
+00:10:01.020 --> 00:10:06.770 align:middle line:84%
+So the vast majority of
+times that a person went
+
+00:10:06.770 --> 00:10:09.470 align:middle line:84%
+to a ticketing agent to have
+a conversation with them,
+
+00:10:09.470 --> 00:10:12.038 align:middle line:84%
+highly structured,
+highly routined.
+
+00:10:12.038 --> 00:10:13.580 align:middle line:84%
+We know what kinds
+of questions we're
+
+00:10:13.580 --> 00:10:14.820 align:middle line:90%
+going to get as passengers.
+
+00:10:14.820 --> 00:10:16.320 align:middle line:84%
+We know what kind
+of inputs we need.
+
+00:10:16.320 --> 00:10:17.910 align:middle line:84%
+We have the conversation
+successfully.
+
+00:10:17.910 --> 00:10:19.040 align:middle line:90%
+We move on.
+
+00:10:19.040 --> 00:10:22.800 align:middle line:84%
+And so as computing technology
+becomes more sophisticated,
+
+00:10:22.800 --> 00:10:24.675 align:middle line:84%
+as user interface becomes
+more sophisticated,
+
+00:10:24.675 --> 00:10:26.425 align:middle line:84%
+as all these things
+become less expensive,
+
+00:10:26.425 --> 00:10:29.000 align:middle line:84%
+someone's like, hey, we can
+just program those conversations
+
+00:10:29.000 --> 00:10:30.560 align:middle line:90%
+into a machine.
+
+00:10:30.560 --> 00:10:32.690 align:middle line:84%
+And so now,
+overwhelmingly, you have
+
+00:10:32.690 --> 00:10:34.248 align:middle line:90%
+that exact same conversation.
+
+00:10:34.248 --> 00:10:36.540 align:middle line:84%
+You just push the buttons to
+say, yes, I have a ticket.
+
+00:10:36.540 --> 00:10:37.230 align:middle line:90%
+Yes, this is me.
+
+00:10:37.230 --> 00:10:39.680 align:middle line:84%
+Yes, my bags have been in my
+possession the whole time.
+
+00:10:39.680 --> 00:10:44.160 align:middle line:84%
+However, for as long
+as we've had kiosks,
+
+00:10:44.160 --> 00:10:47.060 align:middle line:84%
+there has always been
+a number of cases
+
+00:10:47.060 --> 00:10:49.910 align:middle line:84%
+in which the kiosks
+can't respond
+
+00:10:49.910 --> 00:10:52.250 align:middle line:90%
+to the demands of the moment.
+
+00:10:52.250 --> 00:10:54.870 align:middle line:84%
+So there's something really
+weird about your ticket.
+
+00:10:54.870 --> 00:10:57.230 align:middle line:84%
+There's some problem that's
+gone on with your booking
+
+00:10:57.230 --> 00:11:00.560 align:middle line:84%
+that the machine hasn't
+anticipated or can't understand,
+
+00:11:00.560 --> 00:11:03.950 align:middle line:84%
+or you have some kind
+of communication issue.
+
+00:11:03.950 --> 00:11:06.260 align:middle line:84%
+For some reason, a
+human being can't
+
+00:11:06.260 --> 00:11:07.440 align:middle line:90%
+communicate with the kiosk.
+
+00:11:07.440 --> 00:11:09.210 align:middle line:84%
+Maybe their glasses
+are broken that day.
+
+00:11:09.210 --> 00:11:11.690 align:middle line:84%
+Maybe they are
+trying to travel--
+
+00:11:11.690 --> 00:11:14.090 align:middle line:84%
+they don't speak the language
+that the kiosk is in.
+
+00:11:14.090 --> 00:11:17.340 align:middle line:84%
+They're so angry at the airline
+for what they've messed up,
+
+00:11:17.340 --> 00:11:19.380 align:middle line:84%
+they just go banging
+on the kiosk.
+
+00:11:19.380 --> 00:11:20.630 align:middle line:90%
+So you've got to think a lot--
+
+00:11:20.630 --> 00:11:22.340 align:middle line:84%
+there's one person
+behind this row
+
+00:11:22.340 --> 00:11:27.350 align:middle line:84%
+of kiosks whose job it is to
+have all the conversations
+
+00:11:27.350 --> 00:11:29.510 align:middle line:90%
+that the kiosk can't have.
+
+00:11:29.510 --> 00:11:31.240 align:middle line:84%
+If you're a labor
+economist, that's
+
+00:11:31.240 --> 00:11:32.490 align:middle line:90%
+a pretty interesting question.
+
+00:11:32.490 --> 00:11:36.260 align:middle line:84%
+What is that human being
+doing that we couldn't program
+
+00:11:36.260 --> 00:11:37.695 align:middle line:90%
+into all of those machines?
+
+00:11:37.695 --> 00:11:40.070 align:middle line:84%
+That was the kind of question
+that Frank Levy and Richard
+
+00:11:40.070 --> 00:11:41.360 align:middle line:90%
+Murnane were kind of asking.
+
+00:11:41.360 --> 00:11:43.550 align:middle line:84%
+In a world where
+there's lots of work
+
+00:11:43.550 --> 00:11:45.460 align:middle line:84%
+that we can put on
+computers, what is it
+
+00:11:45.460 --> 00:11:47.050 align:middle line:90%
+that humans are still good at?
+
+00:11:47.050 --> 00:11:49.180 align:middle line:84%
+In economists terms, what
+is it that humans still
+
+00:11:49.180 --> 00:11:53.140 align:middle line:84%
+have a comparative advantage
+over computers around?
+
+00:11:53.140 --> 00:11:55.603 align:middle line:84%
+Here is another
+funny example, which
+
+00:11:55.603 --> 00:11:57.020 align:middle line:84%
+I think I wrote
+about in the book,
+
+00:11:57.020 --> 00:11:58.930 align:middle line:84%
+about how some of
+these things change.
+
+00:11:58.930 --> 00:12:02.680 align:middle line:84%
+So in something like
+1987, my parents
+
+00:12:02.680 --> 00:12:07.270 align:middle line:84%
+bought a cabin in Vermont
+which had an old boiler in it,
+
+00:12:07.270 --> 00:12:09.940 align:middle line:84%
+like a hot water heater
+that was attached to a tank.
+
+00:12:09.940 --> 00:12:12.230 align:middle line:90%
+And my mom passed away.
+
+00:12:12.230 --> 00:12:13.250 align:middle line:90%
+I inherited the house.
+
+00:12:13.250 --> 00:12:17.200 align:middle line:84%
+So sometime around 2007, about
+20 years later, this boiler
+
+00:12:17.200 --> 00:12:18.970 align:middle line:84%
+dies, and I'm
+responsible for it.
+
+00:12:18.970 --> 00:12:21.370 align:middle line:84%
+The original boiler
+was installed
+
+00:12:21.370 --> 00:12:24.550 align:middle line:84%
+by this guy named Dan Masterson,
+who lived on Masterson Lane
+
+00:12:24.550 --> 00:12:26.110 align:middle line:90%
+in Bethel, Vermont.
+
+00:12:26.110 --> 00:12:27.730 align:middle line:84%
+And I was trying
+to find a plumber
+
+00:12:27.730 --> 00:12:29.480 align:middle line:84%
+to replace this
+hot water heater.
+
+00:12:29.480 --> 00:12:31.160 align:middle line:84%
+And the guy I found
+was Dan Masterson,
+
+00:12:31.160 --> 00:12:33.560 align:middle line:84%
+who lived on Masterson
+Lane in Bethel, Vermont.
+
+00:12:33.560 --> 00:12:35.560 align:middle line:84%
+So the guy had been a
+plumber for 20 years,
+
+00:12:35.560 --> 00:12:38.620 align:middle line:84%
+and we decided that instead of
+doing an old-school hot water
+
+00:12:38.620 --> 00:12:41.930 align:middle line:84%
+boiler, we're going to install
+one of these on-demand systems.
+
+00:12:41.930 --> 00:12:44.250 align:middle line:84%
+So this is a very
+beautiful picture to me
+
+00:12:44.250 --> 00:12:46.560 align:middle line:84%
+because there's no hot
+water tank that can freeze.
+
+00:12:46.560 --> 00:12:48.640 align:middle line:84%
+It just like heats up the
+water exactly when you need it.
+
+00:12:48.640 --> 00:12:50.410 align:middle line:84%
+You can see how nicely
+all these pipes are.
+
+00:12:50.410 --> 00:12:52.368 align:middle line:84%
+The last building had
+pipes all over the place,
+
+00:12:52.368 --> 00:12:53.460 align:middle line:90%
+things like that.
+
+00:12:53.460 --> 00:12:55.420 align:middle line:90%
+So Dan installs this system.
+
+00:12:55.420 --> 00:12:57.840 align:middle line:84%
+Dan, as you can imagine now,
+is getting towards the end
+
+00:12:57.840 --> 00:13:00.360 align:middle line:90%
+of his career as a plumber.
+
+00:13:00.360 --> 00:13:01.260 align:middle line:90%
+And I say, great.
+
+00:13:01.260 --> 00:13:03.083 align:middle line:84%
+Dan, show me how
+to use this system.
+
+00:13:03.083 --> 00:13:04.500 align:middle line:84%
+He's like, well,
+you walk in here,
+
+00:13:04.500 --> 00:13:06.210 align:middle line:90%
+and you open this little door.
+
+00:13:06.210 --> 00:13:08.790 align:middle line:84%
+And when you look at the
+system, it should say, "Good."
+
+00:13:08.790 --> 00:13:10.585 align:middle line:90%
+[LAUGHTER]
+
+00:13:10.585 --> 00:13:13.920 align:middle line:84%
+I was like, all right, Dan,
+what do I do if it doesn't say
+
+00:13:13.920 --> 00:13:14.500 align:middle line:90%
+"Good."
+
+00:13:14.500 --> 00:13:15.570 align:middle line:90%
+You guys can't see this well.
+
+00:13:15.570 --> 00:13:17.487 align:middle line:84%
+He's like, see this
+little button that says R?
+
+00:13:17.487 --> 00:13:18.900 align:middle line:90%
+Push that.
+
+00:13:18.900 --> 00:13:20.380 align:middle line:90%
+So that's the Reset button.
+
+00:13:20.380 --> 00:13:22.505 align:middle line:84%
+I was like, all right, I
+can push the Reset button.
+
+00:13:22.505 --> 00:13:24.537 align:middle line:84%
+Well, what do I do
+if that doesn't work?
+
+00:13:24.537 --> 00:13:26.620 align:middle line:84%
+He's like, you see this
+electrical outlet up here?
+
+00:13:26.620 --> 00:13:29.410 align:middle line:84%
+Just unplug it, and
+plug it back in.
+
+00:13:29.410 --> 00:13:31.560 align:middle line:84%
+I was like, all right,
+I will recycle the power
+
+00:13:31.560 --> 00:13:33.970 align:middle line:84%
+in my hot water heater
+if that doesn't work.
+
+00:13:33.970 --> 00:13:37.050 align:middle line:84%
+And I was like, OK, so it
+doesn't say, "Good," I've hit R,
+
+00:13:37.050 --> 00:13:38.800 align:middle line:84%
+I've unplugged it,
+it's still not working.
+
+00:13:38.800 --> 00:13:39.550 align:middle line:90%
+Then what do I do?
+
+00:13:39.550 --> 00:13:42.690 align:middle line:84%
+He says, there's one guy in the
+upper River Valley of Vermont
+
+00:13:42.690 --> 00:13:46.260 align:middle line:84%
+who has flown to Scandinavia
+to get the training on how
+
+00:13:46.260 --> 00:13:47.650 align:middle line:90%
+to reprogram these systems.
+
+00:13:47.650 --> 00:13:51.000 align:middle line:84%
+And so if those two things
+don't work, go find that guy.
+
+00:13:51.000 --> 00:13:53.490 align:middle line:90%
+And I tried to imagine--
+
+00:13:53.490 --> 00:13:57.690 align:middle line:84%
+Dan Masterson, probably
+in 1970, 1975 or something
+
+00:13:57.690 --> 00:14:00.060 align:middle line:84%
+like that, going through
+his plumbing apprenticeship
+
+00:14:00.060 --> 00:14:01.260 align:middle line:90%
+training.
+
+00:14:01.260 --> 00:14:03.953 align:middle line:84%
+And he learned how to
+solder pipes together
+
+00:14:03.953 --> 00:14:06.120 align:middle line:84%
+and how to do some basic
+electrical stuff and things
+
+00:14:06.120 --> 00:14:07.540 align:middle line:90%
+like that.
+
+00:14:07.540 --> 00:14:09.790 align:middle line:84%
+If he went to the
+same training now,
+
+00:14:09.790 --> 00:14:12.390 align:middle line:84%
+you have to be an apprentice
+computer programmer
+
+00:14:12.390 --> 00:14:13.300 align:middle line:90%
+to be a plumber.
+
+00:14:13.300 --> 00:14:16.890 align:middle line:84%
+And not only that,
+the systems are
+
+00:14:16.890 --> 00:14:20.220 align:middle line:84%
+designed to solve all
+of the easy problems.
+
+00:14:20.220 --> 00:14:23.383 align:middle line:84%
+If a problem is easy, it'll
+just solve it itself on reboot.
+
+00:14:23.383 --> 00:14:25.800 align:middle line:84%
+The things that you have to
+be able to solve as a computer
+
+00:14:25.800 --> 00:14:29.208 align:middle line:84%
+programming plumber are the
+ill-structured problems,
+
+00:14:29.208 --> 00:14:30.750 align:middle line:84%
+like when the system
+can't figure out
+
+00:14:30.750 --> 00:14:33.070 align:middle line:84%
+what's wrong with itself
+and can't correct itself
+
+00:14:33.070 --> 00:14:34.240 align:middle line:90%
+and those kinds of things.
+
+00:14:34.240 --> 00:14:36.090 align:middle line:84%
+So, I mean, the
+reason I'm trying
+
+00:14:36.090 --> 00:14:38.400 align:middle line:84%
+to bring these two
+cases to your attention
+
+00:14:38.400 --> 00:14:40.470 align:middle line:84%
+is we could say,
+all right, there
+
+00:14:40.470 --> 00:14:43.770 align:middle line:84%
+are some classes of jobs that
+are going to disappear and be
+
+00:14:43.770 --> 00:14:44.950 align:middle line:90%
+replaced by computers.
+
+00:14:44.950 --> 00:14:46.230 align:middle line:90%
+There used to be--
+
+00:14:46.230 --> 00:14:47.440 align:middle line:84%
+I mean, the other thing
+about these people,
+
+00:14:47.440 --> 00:14:49.940 align:middle line:84%
+if you're just thinking about
+this in a broader social con--
+
+00:14:49.940 --> 00:14:52.440 align:middle line:84%
+there used to be six
+people behind this desk.
+
+00:14:52.440 --> 00:14:53.800 align:middle line:90%
+And they wore uniforms.
+
+00:14:53.800 --> 00:14:54.730 align:middle line:90%
+Maybe they had a college degree.
+
+00:14:54.730 --> 00:14:56.272 align:middle line:84%
+Maybe they had an
+associate's degree.
+
+00:14:56.272 --> 00:14:58.118 align:middle line:84%
+They probably made a
+middle-class living.
+
+00:14:58.118 --> 00:15:00.660 align:middle line:84%
+You could make a decent living
+as a person who checked people
+
+00:15:00.660 --> 00:15:01.570 align:middle line:90%
+in to airlines.
+
+00:15:01.570 --> 00:15:03.810 align:middle line:90%
+And most of those jobs are gone.
+
+00:15:03.810 --> 00:15:06.490 align:middle line:84%
+And even in places
+where jobs remained,
+
+00:15:06.490 --> 00:15:10.770 align:middle line:84%
+they're being transformed
+by the capacities computer
+
+00:15:10.770 --> 00:15:13.140 align:middle line:90%
+offer in these systems.
+
+00:15:13.140 --> 00:15:15.300 align:middle line:84%
+So one of the cool
+things about the research
+
+00:15:15.300 --> 00:15:20.370 align:middle line:84%
+in The New Division of Labor
+is that they basically go--
+
+00:15:20.370 --> 00:15:24.900 align:middle line:84%
+the Department of Labor collects
+all of these names of jobs
+
+00:15:24.900 --> 00:15:26.850 align:middle line:90%
+and the description of jobs.
+
+00:15:26.850 --> 00:15:29.250 align:middle line:84%
+And they do an analysis
+of those descriptions
+
+00:15:29.250 --> 00:15:31.810 align:middle line:84%
+to see how they're
+changing over time.
+
+00:15:31.810 --> 00:15:37.590 align:middle line:84%
+And what they find is that
+you can break jobs down
+
+00:15:37.590 --> 00:15:40.780 align:middle line:90%
+into maybe four categories.
+
+00:15:40.780 --> 00:15:43.640 align:middle line:84%
+One of those categories would
+be routine manual jobs--
+
+00:15:43.640 --> 00:15:46.340 align:middle line:84%
+so that involves jobs that are
+lifting, moving things around,
+
+00:15:46.340 --> 00:15:49.360 align:middle line:84%
+stuff like that--
+routine cognitive work--
+
+00:15:49.360 --> 00:15:52.460 align:middle line:84%
+so that would be things like
+filing and stuff like that.
+
+00:15:52.460 --> 00:15:55.480 align:middle line:84%
+That would be things like having
+standardized conversations
+
+00:15:55.480 --> 00:15:59.470 align:middle line:90%
+to check people into an airline.
+
+00:15:59.470 --> 00:16:03.290 align:middle line:84%
+Two others are what they call
+ill-structured problem solving--
+
+00:16:03.290 --> 00:16:05.320 align:middle line:84%
+so solving any kind
+of problem where
+
+00:16:05.320 --> 00:16:06.905 align:middle line:84%
+you don't know what
+inputs you need,
+
+00:16:06.905 --> 00:16:09.280 align:middle line:84%
+you don't know what the outputs
+look like, you don't know
+
+00:16:09.280 --> 00:16:10.700 align:middle line:90%
+what the correct answer is.
+
+00:16:10.700 --> 00:16:13.480 align:middle line:84%
+You're solving that as you're
+figuring out the problem--
+
+00:16:13.480 --> 00:16:18.790 align:middle line:84%
+or complex communication, tasks
+that require figuring out--
+
+00:16:18.790 --> 00:16:21.950 align:middle line:84%
+any kind of solving the problem
+requires talking to people.
+
+00:16:21.950 --> 00:16:24.690 align:middle line:84%
+Some of that could be marketing
+and sales kind of thing,
+
+00:16:24.690 --> 00:16:25.940 align:middle line:90%
+figuring out what people want.
+
+00:16:25.940 --> 00:16:27.857 align:middle line:84%
+But other than that, it
+could be a home health
+
+00:16:27.857 --> 00:16:31.010 align:middle line:84%
+aide does a ton of
+complex communication.
+
+00:16:31.010 --> 00:16:35.260 align:middle line:84%
+And their basic thesis was
+that things that are routine
+
+00:16:35.260 --> 00:16:38.540 align:middle line:84%
+are disappearing from the
+American labor market.
+
+00:16:38.540 --> 00:16:42.740 align:middle line:84%
+This is a huge problem if you
+want to have a stable society.
+
+00:16:42.740 --> 00:16:44.700 align:middle line:84%
+In the 20th century,
+there were many,
+
+00:16:44.700 --> 00:16:48.530 align:middle line:84%
+many people who performed
+routine labor for a reasonable,
+
+00:16:48.530 --> 00:16:52.010 align:middle line:84%
+middle-class wage and had a
+perfectly suitable life doing
+
+00:16:52.010 --> 00:16:53.060 align:middle line:90%
+it.
+
+00:16:53.060 --> 00:16:55.220 align:middle line:84%
+Some of the kinds of
+jobs that are growing
+
+00:16:55.220 --> 00:16:59.505 align:middle line:84%
+are service jobs that
+don't really require--
+
+00:16:59.505 --> 00:17:01.880 align:middle line:84%
+they're a little bit of routine
+manual work, a little bit
+
+00:17:01.880 --> 00:17:03.650 align:middle line:84%
+of routine cognitive
+work, and they
+
+00:17:03.650 --> 00:17:07.730 align:middle line:84%
+pay the absolute
+minimum wage possible.
+
+00:17:07.730 --> 00:17:09.619 align:middle line:84%
+That's a little
+bit less concerning
+
+00:17:09.619 --> 00:17:15.140 align:middle line:84%
+today where you can get jobs
+doing service work that pay--
+
+00:17:15.140 --> 00:17:17.720 align:middle line:84%
+you can work at some place in
+McDonald's and make $15 an hour
+
+00:17:17.720 --> 00:17:19.760 align:middle line:84%
+or $17 an hour,
+things like that.
+
+00:17:19.760 --> 00:17:22.890 align:middle line:84%
+But when there was a surplus in
+the labor market 10 years ago,
+
+00:17:22.890 --> 00:17:24.619 align:middle line:84%
+12 years ago, all
+those people would
+
+00:17:24.619 --> 00:17:27.500 align:middle line:84%
+have been paid $7.25 or whatever
+the federal minimum wage was
+
+00:17:27.500 --> 00:17:28.610 align:middle line:90%
+at the time.
+
+00:17:28.610 --> 00:17:30.710 align:middle line:84%
+But the two kinds of
+jobs that were growing
+
+00:17:30.710 --> 00:17:33.920 align:middle line:84%
+were things that required
+non-routine analytical skills
+
+00:17:33.920 --> 00:17:34.760 align:middle line:90%
+and social skills.
+
+00:17:34.760 --> 00:17:36.510 align:middle line:84%
+Some of this was updated
+by this guy David
+
+00:17:36.510 --> 00:17:40.350 align:middle line:84%
+Autor who's an economist
+who's here now, as well.
+
+00:17:40.350 --> 00:17:44.970 align:middle line:84%
+So if you're an educator, the
+thing you got to be thinking
+
+00:17:44.970 --> 00:17:50.170 align:middle line:84%
+is, like, man, we have a
+different job in front of us.
+
+00:17:50.170 --> 00:17:52.170 align:middle line:84%
+It's not sufficient
+to prepare people
+
+00:17:52.170 --> 00:17:56.743 align:middle line:84%
+to do jobs that require routine
+cognitive work or routine manual
+
+00:17:56.743 --> 00:17:58.410 align:middle line:84%
+work because those
+jobs are disappearing
+
+00:17:58.410 --> 00:17:59.710 align:middle line:90%
+as a part of the labor market.
+
+00:17:59.710 --> 00:18:01.980 align:middle line:84%
+And even when the
+same job title exists,
+
+00:18:01.980 --> 00:18:04.110 align:middle line:84%
+like they're still
+plumbers, but plumbers
+
+00:18:04.110 --> 00:18:06.480 align:middle line:84%
+are increasingly
+called upon to do
+
+00:18:06.480 --> 00:18:11.250 align:middle line:84%
+ill-structured problem solving
+and to do complex communication.
+
+00:18:11.250 --> 00:18:13.720 align:middle line:84%
+This was an update of
+this, I guess, from 2012.
+
+00:18:13.720 --> 00:18:15.486 align:middle line:90%
+This is just another--
+
+00:18:15.486 --> 00:18:18.850 align:middle line:84%
+here's a 2-by-2, where jobs that
+require social skills are here.
+
+00:18:18.850 --> 00:18:22.140 align:middle line:84%
+Jobs that require
+math skills are here.
+
+00:18:22.140 --> 00:18:24.760 align:middle line:84%
+The jobs that are in green
+are the ones that are growing.
+
+00:18:24.760 --> 00:18:27.670 align:middle line:84%
+The jobs that are in red are
+the ones that are disappearing.
+
+00:18:27.670 --> 00:18:29.760 align:middle line:84%
+And you can see that
+they're clustered
+
+00:18:29.760 --> 00:18:33.090 align:middle line:84%
+in the things that require
+social skills are growing,
+
+00:18:33.090 --> 00:18:35.790 align:middle line:84%
+and the things that require
+fewer social skills are
+
+00:18:35.790 --> 00:18:37.170 align:middle line:90%
+disappearing.
+
+00:18:37.170 --> 00:18:41.280 align:middle line:84%
+Truck drivers is one
+that people are often,
+
+00:18:41.280 --> 00:18:43.300 align:middle line:84%
+particularly at a time
+when people were pretty--
+
+00:18:43.300 --> 00:18:45.280 align:middle line:90%
+this was 2015, 2017.
+
+00:18:45.280 --> 00:18:47.860 align:middle line:84%
+There are 3.5 million truck
+drivers in the United States.
+
+00:18:47.860 --> 00:18:49.652 align:middle line:84%
+That's about one in
+every hundred Americans
+
+00:18:49.652 --> 00:18:50.970 align:middle line:90%
+is a truck driver.
+
+00:18:50.970 --> 00:18:57.750 align:middle line:84%
+And probably 10 years ago was
+some of the headiest time where
+
+00:18:57.750 --> 00:19:00.630 align:middle line:84%
+computer scientists believed
+that it was reasonably
+
+00:19:00.630 --> 00:19:02.875 align:middle line:84%
+possible to replace
+all of those people,
+
+00:19:02.875 --> 00:19:05.250 align:middle line:84%
+that you would be able to
+develop artificial intelligence
+
+00:19:05.250 --> 00:19:07.150 align:middle line:84%
+systems that would be
+able to drive trucks.
+
+00:19:07.150 --> 00:19:11.030 align:middle line:84%
+So Uber went to Carnegie Mellon
+and bought their whole robotics
+
+00:19:11.030 --> 00:19:11.530 align:middle line:90%
+department.
+
+00:19:11.530 --> 00:19:13.738 align:middle line:84%
+They didn't actually pay
+for the robotics department.
+
+00:19:13.738 --> 00:19:15.600 align:middle line:84%
+You just pay each
+individual faculty member
+
+00:19:15.600 --> 00:19:18.420 align:middle line:84%
+to go leave and
+join your company.
+
+00:19:18.420 --> 00:19:22.297 align:middle line:84%
+And there's still 3.7 million
+truck drivers in the United
+
+00:19:22.297 --> 00:19:24.630 align:middle line:84%
+States or however many there
+are because this turned out
+
+00:19:24.630 --> 00:19:27.300 align:middle line:84%
+to be a much harder
+problem than we thought.
+
+00:19:27.300 --> 00:19:29.580 align:middle line:84%
+But this is the
+kind of angst that
+
+00:19:29.580 --> 00:19:33.110 align:middle line:84%
+exists in society when these
+new systems are developed.
+
+00:19:33.110 --> 00:19:36.570 align:middle line:90%
+What would it be like if--
+
+00:19:36.570 --> 00:19:37.970 align:middle line:84%
+what if every kid
+in school today
+
+00:19:37.970 --> 00:19:39.620 align:middle line:84%
+who's destined to become a
+truck driver, we have to find
+
+00:19:39.620 --> 00:19:40.870 align:middle line:90%
+something else for them to do?
+
+00:19:40.870 --> 00:19:44.390 align:middle line:84%
+That's a pretty challenging
+thing to think about.
+
+00:19:44.390 --> 00:19:47.130 align:middle line:90%
+This was another 2017 example.
+
+00:19:47.130 --> 00:19:48.030 align:middle line:90%
+And I don't know.
+
+00:19:48.030 --> 00:19:50.840 align:middle line:84%
+I was glad to go
+back and revisit this
+
+00:19:50.840 --> 00:19:53.750 align:middle line:84%
+because there's lots of
+things that are going on today
+
+00:19:53.750 --> 00:19:56.240 align:middle line:84%
+about, like, man, LLMs are
+going to replace all this work
+
+00:19:56.240 --> 00:19:57.157 align:middle line:90%
+that people are doing.
+
+00:19:57.157 --> 00:19:58.790 align:middle line:84%
+But for the last
+two decades, we've
+
+00:19:58.790 --> 00:20:00.380 align:middle line:84%
+been building
+software that replaces
+
+00:20:00.380 --> 00:20:01.500 align:middle line:90%
+the work that people are doing.
+
+00:20:01.500 --> 00:20:02.780 align:middle line:84%
+There's all kinds
+of machine learning
+
+00:20:02.780 --> 00:20:05.130 align:middle line:84%
+based-systems that can do what
+lawyers do and things like that.
+
+00:20:05.130 --> 00:20:06.990 align:middle line:84%
+You don't necessarily
+need LLMs to do it,
+
+00:20:06.990 --> 00:20:09.260 align:middle line:84%
+although maybe it
+will accelerate
+
+00:20:09.260 --> 00:20:12.260 align:middle line:90%
+some of these kinds of things.
+
+00:20:12.260 --> 00:20:15.640 align:middle line:84%
+So when I was giving
+this talk to educators
+
+00:20:15.640 --> 00:20:17.640 align:middle line:84%
+seven or eight years ago
+or something like that,
+
+00:20:17.640 --> 00:20:19.940 align:middle line:84%
+this would be the point
+where I would say, imagine
+
+00:20:19.940 --> 00:20:22.070 align:middle line:84%
+you could go into
+your school today,
+
+00:20:22.070 --> 00:20:24.050 align:middle line:84%
+imagine going into any
+of the Cambridge Public
+
+00:20:24.050 --> 00:20:26.175 align:middle line:84%
+Schools, Somerville Public
+Schools, whatever it is,
+
+00:20:26.175 --> 00:20:27.830 align:middle line:84%
+and grab every homework
+assignment that
+
+00:20:27.830 --> 00:20:29.330 align:middle line:90%
+had been given out that day.
+
+00:20:29.330 --> 00:20:32.470 align:middle line:84%
+So go to all the classrooms,
+collect every single assignment
+
+00:20:32.470 --> 00:20:34.450 align:middle line:84%
+that was given out, and
+put them in a big pile
+
+00:20:34.450 --> 00:20:36.250 align:middle line:90%
+and start going through them.
+
+00:20:36.250 --> 00:20:38.775 align:middle line:84%
+Start classifying those
+homework assignments,
+
+00:20:38.775 --> 00:20:41.290 align:middle line:84%
+like, how many of
+them require some kind
+
+00:20:41.290 --> 00:20:44.330 align:middle line:84%
+of ill-structured problem
+solving or expert thinking?
+
+00:20:44.330 --> 00:20:47.160 align:middle line:84%
+How many of them require some
+kind of complex communication?
+
+00:20:47.160 --> 00:20:48.910 align:middle line:84%
+And how many of those
+homework assignments
+
+00:20:48.910 --> 00:20:51.640 align:middle line:84%
+ask people to do the
+kinds of routine work
+
+00:20:51.640 --> 00:20:54.100 align:middle line:84%
+that we no longer need
+human beings to do?
+
+00:20:54.100 --> 00:20:56.653 align:middle line:84%
+And most educators
+confronted with that question
+
+00:20:56.653 --> 00:20:58.570 align:middle line:84%
+would be like, I think
+we're doing a whole lot
+
+00:20:58.570 --> 00:21:00.910 align:middle line:90%
+of the routine stuff.
+
+00:21:00.910 --> 00:21:03.700 align:middle line:84%
+And conceivably,
+that's something
+
+00:21:03.700 --> 00:21:08.200 align:middle line:84%
+that we should be revisiting
+as the world is changing.
+
+00:21:08.200 --> 00:21:11.950 align:middle line:84%
+How many of you encountered
+the idea anywhere in your study
+
+00:21:11.950 --> 00:21:14.770 align:middle line:84%
+of education of
+21st century skills?
+
+00:21:14.770 --> 00:21:16.938 align:middle line:84%
+Is that a thing that
+people still discuss?
+
+00:21:16.938 --> 00:21:18.980 align:middle line:84%
+Courtney, when you were
+ever working on products,
+
+00:21:18.980 --> 00:21:22.420 align:middle line:84%
+did people talk about 21st
+century skills in your--
+
+00:21:22.420 --> 00:21:26.208 align:middle line:84%
+AUDIENCE: No, I was mostly
+in ELA and medical ed.
+
+00:21:26.208 --> 00:21:27.250 align:middle line:90%
+JUSTIN REICH: Yeah, yeah.
+
+00:21:27.250 --> 00:21:28.190 align:middle line:84%
+We might have had
+some of this stuff.
+
+00:21:28.190 --> 00:21:29.600 align:middle line:90%
+Where did you encounter--
+
+00:21:29.600 --> 00:21:33.950 align:middle line:84%
+AUDIENCE: So in the nonprofit
+space in India, for education,
+
+00:21:33.950 --> 00:21:37.200 align:middle line:84%
+there's a lot of nonprofits that
+are trying to do 21st century
+
+00:21:37.200 --> 00:21:37.700 align:middle line:90%
+skills.
+
+00:21:37.700 --> 00:21:40.498 align:middle line:84%
+It was a buzzword, I
+think, a while ago--
+
+00:21:40.498 --> 00:21:41.290 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:21:41.290 --> 00:21:43.430 align:middle line:84%
+Once you're 25 years
+into a century,
+
+00:21:43.430 --> 00:21:46.100 align:middle line:84%
+the idea of 21st
+century skills becomes--
+
+00:21:46.100 --> 00:21:49.183 align:middle line:84%
+it felt more urgent
+in 2004, 2005.
+
+00:21:49.183 --> 00:21:50.600 align:middle line:84%
+Where were you
+going to say, Kirk?
+
+00:21:50.600 --> 00:21:52.433 align:middle line:84%
+AUDIENCE: I was just--
+examining in general,
+
+00:21:52.433 --> 00:21:53.738 align:middle line:90%
+I think, came out of that.
+
+00:21:53.738 --> 00:21:54.530 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:21:54.530 --> 00:21:57.880 align:middle line:84%
+There was this notion that,
+OK, now that we have computers
+
+00:21:57.880 --> 00:22:01.780 align:middle line:84%
+saturating our workforce,
+there's some new set of skills
+
+00:22:01.780 --> 00:22:05.920 align:middle line:84%
+that we're going to have to
+teach young people how to do.
+
+00:22:05.920 --> 00:22:10.548 align:middle line:84%
+And it was kind of
+interesting because if you--
+
+00:22:10.548 --> 00:22:11.090 align:middle line:90%
+I don't know.
+
+00:22:11.090 --> 00:22:13.632 align:middle line:84%
+There were probably like a dozen
+different organizations that
+
+00:22:13.632 --> 00:22:15.730 align:middle line:84%
+came up with lists of
+21st century skills.
+
+00:22:15.730 --> 00:22:19.300 align:middle line:84%
+For a while, there was this
+thing called the Five Cs--
+
+00:22:19.300 --> 00:22:23.900 align:middle line:84%
+communication, collaboration,
+creativity, critical thinking.
+
+00:22:23.900 --> 00:22:24.830 align:middle line:90%
+There's a fifth one.
+
+00:22:24.830 --> 00:22:26.260 align:middle line:90%
+Maybe it was the Four Cs.
+
+00:22:26.260 --> 00:22:28.952 align:middle line:84%
+I don't know, Four Cs,
+Five Cs, something-- hmm?
+
+00:22:28.952 --> 00:22:30.420 align:middle line:90%
+AUDIENCE: Which one?
+
+00:22:30.420 --> 00:22:32.560 align:middle line:84%
+JUSTIN REICH: The Four
+Cs, something like that.
+
+00:22:32.560 --> 00:22:34.740 align:middle line:84%
+It was interesting because
+actually, almost all
+
+00:22:34.740 --> 00:22:37.830 align:middle line:84%
+of those lists at some point
+cite Murnane and Levy's work.
+
+00:22:37.830 --> 00:22:41.040 align:middle line:84%
+The only people that did
+original, empirical analysis
+
+00:22:41.040 --> 00:22:42.490 align:middle line:90%
+were these two economists.
+
+00:22:42.490 --> 00:22:45.690 align:middle line:84%
+And then everyone else kind
+of freestyled on top of that.
+
+00:22:45.690 --> 00:22:50.880 align:middle line:84%
+But I think there was something
+significant there that you
+
+00:22:50.880 --> 00:22:52.180 align:middle line:90%
+could kind of tell by--
+
+00:22:52.180 --> 00:22:54.720 align:middle line:84%
+I mean, I think The
+New Division of Labor
+
+00:22:54.720 --> 00:22:56.533 align:middle line:90%
+is 2005 or something like that.
+
+00:22:56.533 --> 00:22:58.200 align:middle line:84%
+But 20 years ago, you
+could have a sense
+
+00:22:58.200 --> 00:23:05.430 align:middle line:84%
+that, man, we're going to need
+many, many more people with far
+
+00:23:05.430 --> 00:23:08.610 align:middle line:84%
+more cognitive skills than
+we've ever needed before
+
+00:23:08.610 --> 00:23:10.450 align:middle line:90%
+to fill our labor market.
+
+00:23:10.450 --> 00:23:12.210 align:middle line:84%
+We're just going to
+need more people who
+
+00:23:12.210 --> 00:23:14.710 align:middle line:84%
+can do expert thinking,
+ill-structured problem-solving,
+
+00:23:14.710 --> 00:23:16.290 align:middle line:84%
+complex communication
+than we've ever
+
+00:23:16.290 --> 00:23:19.470 align:middle line:84%
+needed before in the history of
+the American education system.
+
+00:23:19.470 --> 00:23:21.940 align:middle line:84%
+And that's a stressful
+thing to contemplate.
+
+00:23:21.940 --> 00:23:26.400 align:middle line:84%
+So that's one set of fundamental
+ideas, a way of thinking about,
+
+00:23:26.400 --> 00:23:29.020 align:middle line:90%
+what do we want people to know?
+
+00:23:29.020 --> 00:23:32.590 align:middle line:84%
+A kind of analysis
+that people will
+
+00:23:32.590 --> 00:23:33.920 align:middle line:90%
+be doing in the labor market--
+
+00:23:33.920 --> 00:23:36.370 align:middle line:84%
+education economists,
+labor market economists--
+
+00:23:36.370 --> 00:23:38.630 align:middle line:84%
+in the next five years is
+something like, well, OK,
+
+00:23:38.630 --> 00:23:41.170 align:middle line:84%
+how do LLMs change
+this equation?
+
+00:23:41.170 --> 00:23:43.520 align:middle line:84%
+How does generative AI
+change this equation?
+
+00:23:43.520 --> 00:23:46.880 align:middle line:84%
+Does it simply accelerate trends
+that have already been existing?
+
+00:23:46.880 --> 00:23:52.240 align:middle line:84%
+Is there some new set of
+answers to these questions?
+
+00:23:52.240 --> 00:23:56.112 align:middle line:84%
+Are there different
+classes of skills?
+
+00:23:56.112 --> 00:23:58.570 align:middle line:84%
+David Autor, who's one of the
+people I just mentioned, just
+
+00:23:58.570 --> 00:23:59.560 align:middle line:90%
+wrote a--
+
+00:23:59.560 --> 00:24:01.240 align:middle line:90%
+I don't know what he wrote.
+
+00:24:01.240 --> 00:24:02.980 align:middle line:84%
+I think he wrote a
+working paper that
+
+00:24:02.980 --> 00:24:06.430 align:middle line:84%
+was then quoted in The New York
+Times or something like that.
+
+00:24:06.430 --> 00:24:09.100 align:middle line:84%
+He's been a person who, for
+decades, has been saying,
+
+00:24:09.100 --> 00:24:11.740 align:middle line:84%
+oh, computers are pretty
+bad for the middle class.
+
+00:24:11.740 --> 00:24:14.620 align:middle line:90%
+A figure like this--
+
+00:24:14.620 --> 00:24:16.630 align:middle line:84%
+this is a bad figure
+for the middle class.
+
+00:24:16.630 --> 00:24:18.480 align:middle line:84%
+This is where the
+middle class existed.
+
+00:24:18.480 --> 00:24:19.730 align:middle line:90%
+These people are disappearing.
+
+00:24:19.730 --> 00:24:22.220 align:middle line:84%
+These are either rich folks
+getting richer or poor folks--
+
+00:24:22.220 --> 00:24:24.400 align:middle line:84%
+the service line is poor
+folks getting poorer.
+
+00:24:24.400 --> 00:24:26.510 align:middle line:84%
+But he just recently
+came out with something
+
+00:24:26.510 --> 00:24:30.027 align:middle line:84%
+which is like, actually,
+LLMs are going to be
+
+00:24:30.027 --> 00:24:31.110 align:middle line:90%
+good for the middle class.
+
+00:24:31.110 --> 00:24:33.200 align:middle line:84%
+Generative AI is going to
+be good for the middle class
+
+00:24:33.200 --> 00:24:35.270 align:middle line:84%
+because there's going to
+be a whole class of jobs
+
+00:24:35.270 --> 00:24:37.905 align:middle line:84%
+that people can
+do with AI support
+
+00:24:37.905 --> 00:24:39.530 align:middle line:84%
+that they wouldn't
+have been able to do
+
+00:24:39.530 --> 00:24:42.300 align:middle line:84%
+without graduate training
+or something like that.
+
+00:24:42.300 --> 00:24:45.080 align:middle line:84%
+And now they're going to be able
+to do it with these systems that
+
+00:24:45.080 --> 00:24:46.370 align:middle line:90%
+are helping them.
+
+00:24:46.370 --> 00:24:50.330 align:middle line:84%
+And then there's another
+economist here, Daron Acemoglu,
+
+00:24:50.330 --> 00:24:51.920 align:middle line:84%
+who was like, I
+don't know, David.
+
+00:24:51.920 --> 00:24:53.420 align:middle line:84%
+In The New York
+Times' article, he's
+
+00:24:53.420 --> 00:24:54.780 align:middle line:84%
+like, oh, that's
+pretty optimistic.
+
+00:24:54.780 --> 00:24:56.270 align:middle line:84%
+I'm not sure that's
+going to work out.
+
+00:24:56.270 --> 00:24:57.560 align:middle line:84%
+But these are the kinds
+of things that people
+
+00:24:57.560 --> 00:24:58.518 align:middle line:90%
+are wrestling with now.
+
+00:24:58.518 --> 00:25:01.400 align:middle line:90%
+
+
+00:25:01.400 --> 00:25:05.630 align:middle line:84%
+The heart of the trap
+of routine assessment
+
+00:25:05.630 --> 00:25:09.740 align:middle line:84%
+is that the kinds of
+things that computers
+
+00:25:09.740 --> 00:25:12.560 align:middle line:84%
+are good at assessing
+almost exactly
+
+00:25:12.560 --> 00:25:15.080 align:middle line:84%
+overlap with the kinds
+of things that computers
+
+00:25:15.080 --> 00:25:16.482 align:middle line:90%
+are good at doing.
+
+00:25:16.482 --> 00:25:18.440 align:middle line:84%
+And those are the kinds
+of things that we don't
+
+00:25:18.440 --> 00:25:20.330 align:middle line:90%
+need people to do anymore.
+
+00:25:20.330 --> 00:25:22.530 align:middle line:84%
+The kinds of things
+that we can build,
+
+00:25:22.530 --> 00:25:25.630 align:middle line:84%
+tools that are good at
+assessing human performance
+
+00:25:25.630 --> 00:25:29.670 align:middle line:84%
+are almost always very closely
+overlapping with the kinds
+
+00:25:29.670 --> 00:25:32.170 align:middle line:84%
+of things that computers are
+good at and the kinds of things
+
+00:25:32.170 --> 00:25:33.587 align:middle line:84%
+you don't need
+them to do anymore.
+
+00:25:33.587 --> 00:25:35.590 align:middle line:84%
+So here are a
+couple of examples.
+
+00:25:35.590 --> 00:25:39.320 align:middle line:84%
+Here's a framework for
+mathematical modeling.
+
+00:25:39.320 --> 00:25:42.580 align:middle line:84%
+So one of the big changes in
+the Common Core State Standards
+
+00:25:42.580 --> 00:25:45.340 align:middle line:84%
+that came about 15 years
+ago or something like that
+
+00:25:45.340 --> 00:25:48.870 align:middle line:84%
+was that we wanted to
+teach students not just
+
+00:25:48.870 --> 00:25:50.870 align:middle line:84%
+to do procedural kinds
+of things in mathematics,
+
+00:25:50.870 --> 00:25:52.420 align:middle line:84%
+but to be able to
+conduct exercises
+
+00:25:52.420 --> 00:25:53.660 align:middle line:90%
+in mathematical modeling.
+
+00:25:53.660 --> 00:25:56.320 align:middle line:84%
+And those exercises of
+mathematical modeling,
+
+00:25:56.320 --> 00:25:58.250 align:middle line:84%
+you could think of
+them having five steps.
+
+00:25:58.250 --> 00:26:00.790 align:middle line:84%
+First, you have to find
+some problem in the world.
+
+00:26:00.790 --> 00:26:02.420 align:middle line:84%
+What is an interesting
+thing to view?
+
+00:26:02.420 --> 00:26:04.750 align:middle line:84%
+Then you have to set
+that up as a model,
+
+00:26:04.750 --> 00:26:07.780 align:middle line:84%
+whether that's an equation,
+or a schematic, or a, table
+
+00:26:07.780 --> 00:26:08.570 align:middle line:90%
+or whatever it is.
+
+00:26:08.570 --> 00:26:09.580 align:middle line:84%
+You have to take
+a problem and then
+
+00:26:09.580 --> 00:26:11.090 align:middle line:84%
+you have to frame it
+in some kind of way.
+
+00:26:11.090 --> 00:26:13.280 align:middle line:84%
+Then, probably once you've
+developed that model,
+
+00:26:13.280 --> 00:26:16.880 align:middle line:84%
+you have to compute some kind
+of solution inside that model.
+
+00:26:16.880 --> 00:26:20.500 align:middle line:84%
+Then you have to
+explain your solution
+
+00:26:20.500 --> 00:26:22.160 align:middle line:90%
+in terms of the real world.
+
+00:26:22.160 --> 00:26:24.910 align:middle line:84%
+So was it 27 board feet,
+or was it 27 kittens,
+
+00:26:24.910 --> 00:26:27.160 align:middle line:90%
+or was it 27 acres?
+
+00:26:27.160 --> 00:26:29.590 align:middle line:84%
+And then you have to
+be able to explain
+
+00:26:29.590 --> 00:26:31.410 align:middle line:90%
+why your solution makes sense.
+
+00:26:31.410 --> 00:26:33.910 align:middle line:84%
+Why did you follow a series of
+reasonable mathematical steps
+
+00:26:33.910 --> 00:26:35.470 align:middle line:90%
+to come up with that solution?
+
+00:26:35.470 --> 00:26:39.610 align:middle line:84%
+Of those roughly five
+steps, what do we
+
+00:26:39.610 --> 00:26:41.416 align:middle line:90%
+have technologies to evaluate?
+
+00:26:41.416 --> 00:26:47.500 align:middle line:90%
+
+
+00:26:47.500 --> 00:26:50.890 align:middle line:84%
+Of those five things, what
+have you ever been tested on?
+
+00:26:50.890 --> 00:26:52.130 align:middle line:90%
+AUDIENCE: I want to say 3.
+
+00:26:52.130 --> 00:26:54.920 align:middle line:84%
+JUSTIN REICH: Yeah,
+computing the solution.
+
+00:26:54.920 --> 00:26:57.790 align:middle line:84%
+The only thing of those five
+steps that we can reliably
+
+00:26:57.790 --> 00:27:00.640 align:middle line:84%
+get computers to do is
+evaluate whether or not
+
+00:27:00.640 --> 00:27:02.060 align:middle line:90%
+you can compute a solution.
+
+00:27:02.060 --> 00:27:05.030 align:middle line:84%
+If you use mathematics
+in your profession,
+
+00:27:05.030 --> 00:27:09.280 align:middle line:84%
+which of those five steps will
+you almost never actually do?
+
+00:27:09.280 --> 00:27:11.980 align:middle line:90%
+Computing the solution.
+
+00:27:11.980 --> 00:27:14.390 align:middle line:84%
+A computer can't tell you
+which problems are interesting.
+
+00:27:14.390 --> 00:27:17.080 align:middle line:84%
+A computer can't tell you like,
+oh, this would be a good problem
+
+00:27:17.080 --> 00:27:18.955 align:middle line:84%
+to think about through
+this kind of equation,
+
+00:27:18.955 --> 00:27:22.440 align:middle line:84%
+or through this kind of formula,
+or through this kind of framing.
+
+00:27:22.440 --> 00:27:24.588 align:middle line:84%
+A computer is not that
+good at taking the outputs
+
+00:27:24.588 --> 00:27:27.130 align:middle line:84%
+and being like, OK, this is what
+it means for the real world.
+
+00:27:27.130 --> 00:27:28.838 align:middle line:84%
+And computers are
+really not particularly
+
+00:27:28.838 --> 00:27:31.320 align:middle line:84%
+good at explaining to you
+why what just happened
+
+00:27:31.320 --> 00:27:32.470 align:middle line:90%
+mathematically makes sense.
+
+00:27:32.470 --> 00:27:34.650 align:middle line:84%
+But the one thing that
+you will assuredly
+
+00:27:34.650 --> 00:27:36.810 align:middle line:84%
+do if you're a
+professional mathematician
+
+00:27:36.810 --> 00:27:38.760 align:middle line:84%
+is have the computer
+do the math.
+
+00:27:38.760 --> 00:27:41.550 align:middle line:84%
+The computers are
+significantly more reliable
+
+00:27:41.550 --> 00:27:44.580 align:middle line:84%
+than you are at
+those kinds of steps.
+
+00:27:44.580 --> 00:27:49.650 align:middle line:84%
+So if you go and sit down for
+any mathematics exam that's
+
+00:27:49.650 --> 00:27:52.770 align:middle line:84%
+given in a standardized
+way at any level,
+
+00:27:52.770 --> 00:27:56.670 align:middle line:84%
+you will spend the vast
+majority of your time computing.
+
+00:27:56.670 --> 00:27:59.228 align:middle line:84%
+If you're a mathematician,
+you'll spend almost-- not really
+
+00:27:59.228 --> 00:28:01.770 align:middle line:84%
+a mathematician, but if you are
+a person who uses mathematics
+
+00:28:01.770 --> 00:28:03.660 align:middle line:84%
+in their work, you will spend
+almost none of your time
+
+00:28:03.660 --> 00:28:04.197 align:middle line:90%
+computing.
+
+00:28:04.197 --> 00:28:06.030 align:middle line:84%
+You will spend almost
+all of your time doing
+
+00:28:06.030 --> 00:28:07.560 align:middle line:90%
+those other kinds of things.
+
+00:28:07.560 --> 00:28:09.160 align:middle line:90%
+That's a real problem.
+
+00:28:09.160 --> 00:28:11.070 align:middle line:90%
+That's a real problem.
+
+00:28:11.070 --> 00:28:17.220 align:middle line:84%
+A useful concept that
+people who study--
+
+00:28:17.220 --> 00:28:19.650 align:middle line:84%
+psychometricians, people
+who study testing,
+
+00:28:19.650 --> 00:28:23.400 align:middle line:84%
+they have a term for how we
+misunderstand math tests,
+
+00:28:23.400 --> 00:28:26.490 align:middle line:84%
+or tests in general, and it's
+called the reification fallacy.
+
+00:28:26.490 --> 00:28:29.670 align:middle line:84%
+Reification means the
+naming of something.
+
+00:28:29.670 --> 00:28:32.170 align:middle line:84%
+If you call something
+a math test,
+
+00:28:32.170 --> 00:28:34.150 align:middle line:84%
+people will think
+it's a math test.
+
+00:28:34.150 --> 00:28:35.730 align:middle line:84%
+But calling
+something a math test
+
+00:28:35.730 --> 00:28:37.440 align:middle line:90%
+doesn't make it a math test.
+
+00:28:37.440 --> 00:28:39.580 align:middle line:84%
+So for instance, every
+time you take a math test,
+
+00:28:39.580 --> 00:28:41.200 align:middle line:84%
+you need to know
+something about language.
+
+00:28:41.200 --> 00:28:42.658 align:middle line:84%
+You probably need
+to know something
+
+00:28:42.658 --> 00:28:44.070 align:middle line:90%
+about test-taking strategies.
+
+00:28:44.070 --> 00:28:46.140 align:middle line:84%
+There's probably a whole
+bunch of other cultural things
+
+00:28:46.140 --> 00:28:47.530 align:middle line:84%
+that you need to know
+to function in a test.
+
+00:28:47.530 --> 00:28:50.250 align:middle line:84%
+And the test is effectively
+evaluating all those things.
+
+00:28:50.250 --> 00:28:51.990 align:middle line:90%
+The other thing is a test can--
+
+00:28:51.990 --> 00:28:55.290 align:middle line:84%
+there's no test that can
+say that all of eighth grade
+
+00:28:55.290 --> 00:28:56.640 align:middle line:90%
+algebra.
+
+00:28:56.640 --> 00:28:58.920 align:middle line:90%
+That would take you forever.
+
+00:28:58.920 --> 00:29:01.315 align:middle line:84%
+Instead, what we do is we
+sample out of a domain.
+
+00:29:01.315 --> 00:29:02.940 align:middle line:84%
+We say, here's all
+the stuff that might
+
+00:29:02.940 --> 00:29:04.360 align:middle line:90%
+fit in eighth grade algebra.
+
+00:29:04.360 --> 00:29:06.720 align:middle line:84%
+And we're going to pick
+some of this stuff,
+
+00:29:06.720 --> 00:29:08.713 align:middle line:84%
+and some of this stuff,
+and some of this stuff.
+
+00:29:08.713 --> 00:29:10.380 align:middle line:84%
+A way you could think
+about this problem
+
+00:29:10.380 --> 00:29:14.133 align:middle line:84%
+is that we oversample computing,
+and we undersample all
+
+00:29:14.133 --> 00:29:15.425 align:middle line:90%
+of these other kinds of things.
+
+00:29:15.425 --> 00:29:17.970 align:middle line:90%
+
+
+00:29:17.970 --> 00:29:21.470 align:middle line:84%
+Well, maybe let's do one
+more that's like this.
+
+00:29:21.470 --> 00:29:23.870 align:middle line:84%
+Here's one of my very
+favorite paragraphs
+
+00:29:23.870 --> 00:29:26.270 align:middle line:84%
+that's ever been written
+about computer programming
+
+00:29:26.270 --> 00:29:29.600 align:middle line:84%
+by Hal Abelson, who's here,
+and some of his colleagues.
+
+00:29:29.600 --> 00:29:33.620 align:middle line:84%
+This is from a computer
+science textbook.
+
+00:29:33.620 --> 00:29:36.590 align:middle line:84%
+"First we want to establish the
+idea that computer language is
+
+00:29:36.590 --> 00:29:39.960 align:middle line:84%
+not just a way of getting a
+computer to perform operations,
+
+00:29:39.960 --> 00:29:42.860 align:middle line:84%
+but rather that it is a novel,
+formal medium for expressing
+
+00:29:42.860 --> 00:29:44.603 align:middle line:90%
+ideas about methodology."
+
+00:29:44.603 --> 00:29:46.020 align:middle line:84%
+This is probably
+the key sentence.
+
+00:29:46.020 --> 00:29:49.140 align:middle line:84%
+"Thus, programs must be
+written for people to read,
+
+00:29:49.140 --> 00:29:52.123 align:middle line:84%
+and only incidentally
+for machines to execute.
+
+00:29:52.123 --> 00:29:54.290 align:middle line:84%
+Second, we believe that the
+essential material to be
+
+00:29:54.290 --> 00:29:56.360 align:middle line:84%
+addressed by a subject of
+this level is not the syntax
+
+00:29:56.360 --> 00:29:58.360 align:middle line:84%
+of a particular programming
+language constructs,
+
+00:29:58.360 --> 00:30:00.960 align:middle line:84%
+nor clever algorithms for
+computing particular functions,
+
+00:30:00.960 --> 00:30:02.960 align:middle line:84%
+nor even the mathematical
+analysis of algorithms
+
+00:30:02.960 --> 00:30:05.570 align:middle line:84%
+and foundations of computing,
+but rather the techniques used
+
+00:30:05.570 --> 00:30:09.920 align:middle line:84%
+to control the intellectual
+complexity of large software
+
+00:30:09.920 --> 00:30:11.330 align:middle line:90%
+systems."
+
+00:30:11.330 --> 00:30:13.610 align:middle line:84%
+Why would it be
+important for programs
+
+00:30:13.610 --> 00:30:16.110 align:middle line:84%
+to be written for people to
+read and only incidentally
+
+00:30:16.110 --> 00:30:18.982 align:middle line:90%
+for machines to run?
+
+00:30:18.982 --> 00:30:21.440 align:middle line:84%
+AUDIENCE: People are the ones
+who are maintaining the code.
+
+00:30:21.440 --> 00:30:22.820 align:middle line:84%
+If they can't
+understand it, then how
+
+00:30:22.820 --> 00:30:23.790 align:middle line:90%
+are they going to maintain it?
+
+00:30:23.790 --> 00:30:25.050 align:middle line:84%
+JUSTIN REICH: People have
+to be able to maintain it.
+
+00:30:25.050 --> 00:30:26.440 align:middle line:90%
+What else might folks say?
+
+00:30:26.440 --> 00:30:31.100 align:middle line:90%
+
+
+00:30:31.100 --> 00:30:32.832 align:middle line:84%
+Yeah, the way you
+add new features,
+
+00:30:32.832 --> 00:30:35.540 align:middle line:84%
+the way you collaborate, the way
+you build large, complex systems
+
+00:30:35.540 --> 00:30:38.123 align:middle line:84%
+is that you build a system that
+people can read and understand
+
+00:30:38.123 --> 00:30:39.205 align:middle line:90%
+what it's doing.
+
+00:30:39.205 --> 00:30:41.780 align:middle line:84%
+What you can't read and can't
+understand what it's doing.
+
+00:30:41.780 --> 00:30:47.120 align:middle line:84%
+Now, when you all take
+introductory computing classes,
+
+00:30:47.120 --> 00:30:49.490 align:middle line:84%
+and you submit your
+homework assignments,
+
+00:30:49.490 --> 00:30:51.090 align:middle line:84%
+and they're
+automatically graded,
+
+00:30:51.090 --> 00:30:53.120 align:middle line:84%
+what are the characteristics
+of your programming
+
+00:30:53.120 --> 00:30:56.492 align:middle line:84%
+that those systems
+are good at grading?
+
+00:30:56.492 --> 00:30:59.330 align:middle line:84%
+AUDIENCE: The output of
+whatever the code is.
+
+00:30:59.330 --> 00:31:01.280 align:middle line:84%
+JUSTIN REICH: OK,
+so the assignment
+
+00:31:01.280 --> 00:31:03.350 align:middle line:84%
+presupposes some kind
+of engineering test
+
+00:31:03.350 --> 00:31:05.650 align:middle line:84%
+and figures out whether
+or not you pass that test.
+
+00:31:05.650 --> 00:31:08.810 align:middle line:84%
+Did your spell check dictionary
+detect the misspelled words
+
+00:31:08.810 --> 00:31:11.540 align:middle line:90%
+or not?
+
+00:31:11.540 --> 00:31:14.570 align:middle line:84%
+AUDIENCE: If it passed a
+series of randomized test cases
+
+00:31:14.570 --> 00:31:15.445 align:middle line:90%
+from input to output.
+
+00:31:15.445 --> 00:31:16.403 align:middle line:90%
+JUSTIN REICH: OK, good.
+
+00:31:16.403 --> 00:31:17.740 align:middle line:90%
+So similar kind of thing.
+
+00:31:17.740 --> 00:31:20.540 align:middle line:84%
+We throw a we throw a bunch of
+possible inputs in this system.
+
+00:31:20.540 --> 00:31:21.670 align:middle line:84%
+Does it all come
+up with the outputs
+
+00:31:21.670 --> 00:31:22.910 align:middle line:84%
+that it's supposed
+to come up with?
+
+00:31:22.910 --> 00:31:24.285 align:middle line:84%
+Other kinds of
+engineering tests.
+
+00:31:24.285 --> 00:31:25.113 align:middle line:90%
+Dana?
+
+00:31:25.113 --> 00:31:26.530 align:middle line:84%
+AUDIENCE: I was
+just going to say,
+
+00:31:26.530 --> 00:31:30.190 align:middle line:90%
+sometimes isn't that a time?
+
+00:31:30.190 --> 00:31:31.482 align:middle line:90%
+Does your code run fast enough?
+
+00:31:31.482 --> 00:31:32.273 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:31:32.273 --> 00:31:33.220 align:middle line:90%
+So there could be a--
+
+00:31:33.220 --> 00:31:34.885 align:middle line:84%
+that's one kind of
+efficiency metric.
+
+00:31:34.885 --> 00:31:37.510 align:middle line:84%
+I think there are other kind of
+efficiency metrics that maybe--
+
+00:31:37.510 --> 00:31:39.100 align:middle line:84%
+have you ever done
+things where you only
+
+00:31:39.100 --> 00:31:41.183 align:middle line:84%
+have a certain number of
+lines or a certain number
+
+00:31:41.183 --> 00:31:43.190 align:middle line:84%
+of characters or something
+like that to try to--
+
+00:31:43.190 --> 00:31:43.690 align:middle line:90%
+hmm?
+
+00:31:43.690 --> 00:31:44.470 align:middle line:90%
+AUDIENCE: That's some--
+
+00:31:44.470 --> 00:31:45.970 align:middle line:84%
+JUSTIN REICH: Generate
+some parsimony or something
+
+00:31:45.970 --> 00:31:46.520 align:middle line:90%
+like that.
+
+00:31:46.520 --> 00:31:50.750 align:middle line:84%
+AUDIENCE: Some classes here
+do have these style checkers.
+
+00:31:50.750 --> 00:31:53.510 align:middle line:84%
+I'm not too sure what
+they check, exactly.
+
+00:31:53.510 --> 00:31:57.220 align:middle line:84%
+But they check for certain
+like stylistic choices
+
+00:31:57.220 --> 00:31:58.520 align:middle line:90%
+you made in your coding.
+
+00:31:58.520 --> 00:32:00.880 align:middle line:84%
+But a lot of them
+also depend on you
+
+00:32:00.880 --> 00:32:05.680 align:middle line:84%
+to have correct computational
+code to then give you
+
+00:32:05.680 --> 00:32:06.508 align:middle line:90%
+the style point.
+
+00:32:06.508 --> 00:32:07.550 align:middle line:90%
+JUSTIN REICH: Yeah, good.
+
+00:32:07.550 --> 00:32:09.820 align:middle line:84%
+And I think the style
+starts getting at,
+
+00:32:09.820 --> 00:32:12.168 align:middle line:84%
+the programs must be
+written for people to read.
+
+00:32:12.168 --> 00:32:13.710 align:middle line:84%
+Now, they probably
+don't check things
+
+00:32:13.710 --> 00:32:17.018 align:middle line:84%
+like, Did you name your
+variables and your functions
+
+00:32:17.018 --> 00:32:18.810 align:middle line:84%
+something sensible that
+somebody else would
+
+00:32:18.810 --> 00:32:21.630 align:middle line:84%
+be able to understand later
+on? or other kinds of things
+
+00:32:21.630 --> 00:32:22.530 align:middle line:90%
+like that.
+
+00:32:22.530 --> 00:32:28.050 align:middle line:84%
+But you could think of those
+style guides as initial--
+
+00:32:28.050 --> 00:32:31.780 align:middle line:84%
+we have pretty good tests
+for the "incidentally,
+
+00:32:31.780 --> 00:32:33.160 align:middle line:90%
+for machines to execute."
+
+00:32:33.160 --> 00:32:38.394 align:middle line:84%
+That's kind of our efficacy,
+our efficiency evaluations.
+
+00:32:38.394 --> 00:32:41.983 align:middle line:84%
+In some ways, the style checkers
+you're describing, also,
+
+00:32:41.983 --> 00:32:43.150 align:middle line:90%
+they might be kind of silly.
+
+00:32:43.150 --> 00:32:47.070 align:middle line:84%
+But another way to think of them
+is as a reasonable first step
+
+00:32:47.070 --> 00:32:48.600 align:middle line:90%
+towards these kinds of things.
+
+00:32:48.600 --> 00:32:50.580 align:middle line:84%
+What are all the
+machine-readable parts
+
+00:32:50.580 --> 00:32:54.040 align:middle line:84%
+of style that we can get
+a computer to evaluate?
+
+00:32:54.040 --> 00:32:58.950 align:middle line:84%
+And how, over time, would we
+build increasingly sophisticated
+
+00:32:58.950 --> 00:33:01.620 align:middle line:84%
+style checkers, computer
+assessors that would just
+
+00:33:01.620 --> 00:33:05.730 align:middle line:84%
+do a better and better job
+year after year of evaluating
+
+00:33:05.730 --> 00:33:08.452 align:middle line:84%
+more and more features of code
+that have to do with humans
+
+00:33:08.452 --> 00:33:10.410 align:middle line:84%
+understanding and
+communicating with each other
+
+00:33:10.410 --> 00:33:11.702 align:middle line:90%
+rather than with just machines?
+
+00:33:11.702 --> 00:33:13.200 align:middle line:90%
+What were you going to say?
+
+00:33:13.200 --> 00:33:16.525 align:middle line:84%
+AUDIENCE: I was just going
+to add that basically, I've
+
+00:33:16.525 --> 00:33:18.150 align:middle line:84%
+been a part of a
+course where they also
+
+00:33:18.150 --> 00:33:21.840 align:middle line:84%
+do design checks for the
+code on top of style metrics.
+
+00:33:21.840 --> 00:33:25.240 align:middle line:84%
+So they're checking, are you
+writing good, efficient loops?
+
+00:33:25.240 --> 00:33:26.830 align:middle line:90%
+Are you writing redundant code?
+
+00:33:26.830 --> 00:33:31.050 align:middle line:84%
+But even so, I really feel
+that, within this introductory
+
+00:33:31.050 --> 00:33:33.240 align:middle line:84%
+programming space,
+they're mostly
+
+00:33:33.240 --> 00:33:36.000 align:middle line:84%
+checking for how well the
+students are overfitting
+
+00:33:36.000 --> 00:33:38.740 align:middle line:84%
+to the given problem
+space already.
+
+00:33:38.740 --> 00:33:41.710 align:middle line:84%
+What they want to test
+for is problem-solving,
+
+00:33:41.710 --> 00:33:43.548 align:middle line:84%
+but that's just really
+hard to do, I think.
+
+00:33:43.548 --> 00:33:44.340 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:33:44.340 --> 00:33:47.440 align:middle line:90%
+So that it's very difficult--
+
+00:33:47.440 --> 00:33:50.560 align:middle line:84%
+so A, in the solution
+of any given problem,
+
+00:33:50.560 --> 00:33:52.710 align:middle line:84%
+it's very difficult to
+detect for something
+
+00:33:52.710 --> 00:33:55.750 align:middle line:84%
+that would be generalizable
+problem-solving skills.
+
+00:33:55.750 --> 00:33:58.650 align:middle line:84%
+And even worse, it's
+essentially-- so far,
+
+00:33:58.650 --> 00:34:01.920 align:middle line:84%
+it's proven more or less
+impossible to design assessment
+
+00:34:01.920 --> 00:34:04.260 align:middle line:84%
+machines that can
+detect something
+
+00:34:04.260 --> 00:34:06.450 align:middle line:84%
+like generalized
+problem solving skills.
+
+00:34:06.450 --> 00:34:09.870 align:middle line:84%
+To some extent, anytime we
+build these things, our most
+
+00:34:09.870 --> 00:34:14.489 align:middle line:84%
+sophisticated assessment tools,
+work best on particular problems
+
+00:34:14.489 --> 00:34:17.540 align:middle line:84%
+that you've fit them to work
+on, and other kinds of things
+
+00:34:17.540 --> 00:34:18.040 align:middle line:90%
+like that.
+
+00:34:18.040 --> 00:34:22.830 align:middle line:84%
+And they work less well on more
+generalizable kinds of things.
+
+00:34:22.830 --> 00:34:27.045 align:middle line:84%
+What are some other domains that
+we could think of that are--
+
+00:34:27.045 --> 00:34:30.120 align:middle line:84%
+maybe I'll have you chat
+with each other for a minute.
+
+00:34:30.120 --> 00:34:32.460 align:middle line:90%
+Talk about two things.
+
+00:34:32.460 --> 00:34:35.310 align:middle line:84%
+What are just other
+domains that you
+
+00:34:35.310 --> 00:34:39.179 align:middle line:84%
+can think of that are like
+this, where computers can test
+
+00:34:39.179 --> 00:34:42.360 align:middle line:84%
+something in the domain, but
+they may not be able to capture
+
+00:34:42.360 --> 00:34:45.960 align:middle line:84%
+the most important or big,
+important classes of things
+
+00:34:45.960 --> 00:34:47.362 align:middle line:90%
+in that domain?
+
+00:34:47.362 --> 00:34:48.820 align:middle line:84%
+Think about that
+for a few minutes.
+
+00:34:48.820 --> 00:34:51.120 align:middle line:84%
+That might be putting
+a pessimist's hat
+
+00:34:51.120 --> 00:34:52.290 align:middle line:90%
+on to think about that.
+
+00:34:52.290 --> 00:34:56.200 align:middle line:84%
+And then put on your optimist
+hat for a minute or two and say,
+
+00:34:56.200 --> 00:34:58.830 align:middle line:84%
+in the next five
+years, where do you
+
+00:34:58.830 --> 00:35:04.140 align:middle line:84%
+think we're most likely to see
+the most progress in thwarting
+
+00:35:04.140 --> 00:35:05.880 align:middle line:90%
+the trap of routine assessment?
+
+00:35:05.880 --> 00:35:10.540 align:middle line:84%
+Where are we most likely to
+develop assessment tools that
+
+00:35:10.540 --> 00:35:13.810 align:middle line:84%
+actually evaluate people on
+things that we really care about
+
+00:35:13.810 --> 00:35:15.693 align:middle line:84%
+and want human beings
+to be able to do?
+
+00:35:15.693 --> 00:35:17.860 align:middle line:84%
+Turn to the person next to
+you or a couple of people
+
+00:35:17.860 --> 00:35:20.090 align:middle line:84%
+and talk about those two things
+for three or four minutes.
+
+00:35:20.090 --> 00:35:20.380 align:middle line:90%
+Ready?
+
+00:35:20.380 --> 00:35:20.880 align:middle line:90%
+Go.
+
+00:35:20.880 --> 00:35:23.560 align:middle line:90%
+
+
+00:35:23.560 --> 00:35:25.510 align:middle line:90%
+Let's do the first one first.
+
+00:35:25.510 --> 00:35:27.640 align:middle line:84%
+What are some domains
+that you could
+
+00:35:27.640 --> 00:35:30.298 align:middle line:84%
+think of where it
+seemed like, ah,
+
+00:35:30.298 --> 00:35:32.590 align:middle line:84%
+we really are having a hard
+time using computers to get
+
+00:35:32.590 --> 00:35:36.250 align:middle line:90%
+at the important stuff here?
+
+00:35:36.250 --> 00:35:38.410 align:middle line:84%
+AUDIENCE: Essay writing
+or short stories
+
+00:35:38.410 --> 00:35:40.940 align:middle line:84%
+or anything to do with
+writing and literature.
+
+00:35:40.940 --> 00:35:41.800 align:middle line:90%
+JUSTIN REICH: Great.
+
+00:35:41.800 --> 00:35:47.030 align:middle line:84%
+And that's probably one
+of the most studied,
+
+00:35:47.030 --> 00:35:49.460 align:middle line:90%
+most examined domains.
+
+00:35:49.460 --> 00:35:52.150 align:middle line:84%
+And again, it's a
+place where we have--
+
+00:35:52.150 --> 00:35:57.310 align:middle line:84%
+at least the baseline in that
+field is pretty well understood.
+
+00:35:57.310 --> 00:36:00.492 align:middle line:84%
+So some of the very
+worst assessment--
+
+00:36:00.492 --> 00:36:04.280 align:middle line:84%
+just the most disappointing
+kind of assessments we do
+
+00:36:04.280 --> 00:36:08.620 align:middle line:84%
+is people's long-form essay
+writing on standardized tests.
+
+00:36:08.620 --> 00:36:11.140 align:middle line:84%
+There was a guy here
+named Les Perelman
+
+00:36:11.140 --> 00:36:16.420 align:middle line:84%
+who used to joke about the
+quality of standardized writing
+
+00:36:16.420 --> 00:36:20.920 align:middle line:84%
+assessment by noting that he
+could pretty reliably score
+
+00:36:20.920 --> 00:36:23.440 align:middle line:84%
+essays from across the room
+because you just hold them
+
+00:36:23.440 --> 00:36:25.000 align:middle line:90%
+up and see how long they are.
+
+00:36:25.000 --> 00:36:26.770 align:middle line:84%
+And just by glancing
+them, he could
+
+00:36:26.770 --> 00:36:29.030 align:middle line:84%
+be like, oh, that's 2,
+that's a 3, that's a 5.
+
+00:36:29.030 --> 00:36:32.073 align:middle line:84%
+He also wrote pretty early on
+a pretty fun piece of software.
+
+00:36:32.073 --> 00:36:33.490 align:middle line:84%
+There are all these
+companies that
+
+00:36:33.490 --> 00:36:35.090 align:middle line:84%
+were creating automated
+essay graders,
+
+00:36:35.090 --> 00:36:36.730 align:middle line:84%
+and so he got a
+group of MIT students
+
+00:36:36.730 --> 00:36:41.620 align:middle line:84%
+to make software that generated
+nonsense text that did really
+
+00:36:41.620 --> 00:36:45.827 align:middle line:84%
+well on these automated essay
+scores, which was just-- it was
+
+00:36:45.827 --> 00:36:47.410 align:middle line:84%
+pretty fun to read
+these things, which
+
+00:36:47.410 --> 00:36:50.210 align:middle line:84%
+just were like complete
+hallucinations of madness.
+
+00:36:50.210 --> 00:36:53.140 align:middle line:84%
+And then some system
+would be like, 5.
+
+00:36:53.140 --> 00:36:59.470 align:middle line:84%
+But we actually have
+developed software tools, so
+
+00:36:59.470 --> 00:37:02.540 align:middle line:84%
+when GRE essays are scored
+or things like that.
+
+00:37:02.540 --> 00:37:04.010 align:middle line:90%
+So humans go and score them.
+
+00:37:04.010 --> 00:37:06.610 align:middle line:84%
+It's incredibly disappointing
+how they do that.
+
+00:37:06.610 --> 00:37:08.350 align:middle line:90%
+They read them all very quickly.
+
+00:37:08.350 --> 00:37:09.640 align:middle line:90%
+They score them holistically.
+
+00:37:09.640 --> 00:37:12.880 align:middle line:84%
+The people who do the scoring
+are not particularly well-paid,
+
+00:37:12.880 --> 00:37:15.120 align:middle line:84%
+not particularly well-trained,
+as you might imagine.
+
+00:37:15.120 --> 00:37:17.910 align:middle line:84%
+It's enormously boring to
+read essays over and over
+
+00:37:17.910 --> 00:37:20.910 align:middle line:84%
+again about, Who is
+the person in your life
+
+00:37:20.910 --> 00:37:22.540 align:middle line:90%
+that inspired you the most?
+
+00:37:22.540 --> 00:37:27.360 align:middle line:84%
+or whatever other ridiculous
+questions they ask.
+
+00:37:27.360 --> 00:37:29.160 align:middle line:84%
+But anyway, you can
+train those people
+
+00:37:29.160 --> 00:37:34.620 align:middle line:84%
+to be reasonably similar in
+their scoring to one another.
+
+00:37:34.620 --> 00:37:38.430 align:middle line:84%
+And not only that, but for
+a given question-- like,
+
+00:37:38.430 --> 00:37:40.300 align:middle line:84%
+if we ask people
+over and over again,
+
+00:37:40.300 --> 00:37:42.605 align:middle line:84%
+Who is the person that
+inspired you the most?
+
+00:37:42.605 --> 00:37:44.230 align:middle line:84%
+you have a bunch of
+humans evaluate it,
+
+00:37:44.230 --> 00:37:47.580 align:middle line:84%
+you feed all of those essays
+into some kind of machine
+
+00:37:47.580 --> 00:37:52.620 align:middle line:84%
+learning algorithm, we can build
+machines that are roughly as
+
+00:37:52.620 --> 00:37:55.110 align:middle line:90%
+reliable as those humans.
+
+00:37:55.110 --> 00:37:59.820 align:middle line:84%
+So we can create automated
+essay scoring tools
+
+00:37:59.820 --> 00:38:01.990 align:middle line:90%
+that do a reasonably good job--
+
+00:38:01.990 --> 00:38:04.620 align:middle line:84%
+that predict what a human
+would score an essay
+
+00:38:04.620 --> 00:38:08.085 align:middle line:84%
+about as reliably as two
+humans would predict what
+
+00:38:08.085 --> 00:38:09.710 align:middle line:84%
+the other person
+would score the essay,
+
+00:38:09.710 --> 00:38:12.690 align:middle line:84%
+about as reliable
+as two people are.
+
+00:38:12.690 --> 00:38:16.130 align:middle line:84%
+Those systems don't work
+for shorter-answer things.
+
+00:38:16.130 --> 00:38:19.430 align:middle line:84%
+So you have to be in the
+realm of a few hundred words
+
+00:38:19.430 --> 00:38:21.180 align:middle line:84%
+before these systems
+become reliable.
+
+00:38:21.180 --> 00:38:23.760 align:middle line:84%
+They're also not very
+useful for novel questions.
+
+00:38:23.760 --> 00:38:25.550 align:middle line:84%
+If you invent a
+new essay question
+
+00:38:25.550 --> 00:38:27.280 align:middle line:84%
+you want to give
+someone, you can't
+
+00:38:27.280 --> 00:38:29.030 align:middle line:84%
+take one of these
+algorithms off the shelf
+
+00:38:29.030 --> 00:38:33.440 align:middle line:84%
+and run it against the system
+and have it work, which is why--
+
+00:38:33.440 --> 00:38:34.120 align:middle line:90%
+I don't know.
+
+00:38:34.120 --> 00:38:36.120 align:middle line:84%
+I don't know how they do
+it exactly with essays,
+
+00:38:36.120 --> 00:38:39.650 align:middle line:84%
+but these standardized test
+companies, some fraction
+
+00:38:39.650 --> 00:38:42.847 align:middle line:84%
+of the tests that you take every
+time you take it is not scored,
+
+00:38:42.847 --> 00:38:44.930 align:middle line:84%
+and it's just used for
+development for these kinds
+
+00:38:44.930 --> 00:38:45.980 align:middle line:90%
+of things like that.
+
+00:38:45.980 --> 00:38:48.200 align:middle line:84%
+So you're somehow--
+we've convinced
+
+00:38:48.200 --> 00:38:50.630 align:middle line:84%
+you to pay $75 to
+do voluntary work
+
+00:38:50.630 --> 00:38:54.650 align:middle line:84%
+for giant test-making
+companies and things like that.
+
+00:38:54.650 --> 00:38:59.990 align:middle line:84%
+But yeah, that is
+a domain in which--
+
+00:38:59.990 --> 00:39:01.142 align:middle line:90%
+people will also disagree.
+
+00:39:01.142 --> 00:39:02.600 align:middle line:84%
+Some people will
+be like, man, it's
+
+00:39:02.600 --> 00:39:05.330 align:middle line:84%
+great that we have these systems
+because if you have tools that
+
+00:39:05.330 --> 00:39:07.490 align:middle line:84%
+can automatically
+score essays, then
+
+00:39:07.490 --> 00:39:09.720 align:middle line:84%
+you can encourage people
+to write more essays.
+
+00:39:09.720 --> 00:39:13.555 align:middle line:84%
+If we didn't have these machines
+that could score essays,
+
+00:39:13.555 --> 00:39:15.180 align:middle line:84%
+they wouldn't be on
+standardized tests.
+
+00:39:15.180 --> 00:39:16.650 align:middle line:84%
+And if wouldn't be on
+standardized tests,
+
+00:39:16.650 --> 00:39:17.730 align:middle line:84%
+then teachers
+wouldn't assign them.
+
+00:39:17.730 --> 00:39:18.930 align:middle line:84%
+And then we would
+teach less writing.
+
+00:39:18.930 --> 00:39:21.740 align:middle line:84%
+And so as crappy as they-- maybe
+there are some critiques about
+
+00:39:21.740 --> 00:39:22.380 align:middle line:90%
+their concern--
+
+00:39:22.380 --> 00:39:24.463 align:middle line:84%
+maybe there are some
+concerns about their quality,
+
+00:39:24.463 --> 00:39:26.840 align:middle line:84%
+but they're still
+good for the system.
+
+00:39:26.840 --> 00:39:29.690 align:middle line:84%
+But yeah, clearly
+not all everything
+
+00:39:29.690 --> 00:39:32.190 align:middle line:84%
+that is important about writing
+is captured in those things.
+
+00:39:32.190 --> 00:39:35.420 align:middle line:84%
+AUDIENCE: I feel closely
+related is language learning.
+
+00:39:35.420 --> 00:39:37.400 align:middle line:84%
+You can very easily
+assess whether someone
+
+00:39:37.400 --> 00:39:40.460 align:middle line:84%
+knows a lot of vocab, or verb
+conjugations, or grammar,
+
+00:39:40.460 --> 00:39:42.420 align:middle line:90%
+or whatever by via computer.
+
+00:39:42.420 --> 00:39:45.500 align:middle line:84%
+But that's not really the
+point of language learning.
+
+00:39:45.500 --> 00:39:47.000 align:middle line:84%
+Language learning
+is-- a lot of it's
+
+00:39:47.000 --> 00:39:50.540 align:middle line:84%
+about speaking, and listening,
+and writing, and stuff.
+
+00:39:50.540 --> 00:39:54.062 align:middle line:84%
+And especially the speaking
+and listening part,
+
+00:39:54.062 --> 00:39:56.270 align:middle line:84%
+it's probably going to take
+a long time for computers
+
+00:39:56.270 --> 00:39:58.340 align:middle line:84%
+to do that well,
+especially when you
+
+00:39:58.340 --> 00:40:01.940 align:middle line:84%
+have variability due to
+accents and regional stuff.
+
+00:40:01.940 --> 00:40:05.500 align:middle line:84%
+It would be hard to assess
+whether or not someone really
+
+00:40:05.500 --> 00:40:08.113 align:middle line:84%
+is fluent in a language
+by simply interacting
+
+00:40:08.113 --> 00:40:08.780 align:middle line:90%
+with a computer.
+
+00:40:08.780 --> 00:40:09.572 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:40:09.572 --> 00:40:12.730 align:middle line:84%
+And language learning is such an
+interesting subject in general
+
+00:40:12.730 --> 00:40:15.850 align:middle line:84%
+because it shifts so
+much in the middle of it.
+
+00:40:15.850 --> 00:40:18.377 align:middle line:90%
+There aren't that many things--
+
+00:40:18.377 --> 00:40:20.710 align:middle line:84%
+the kinds of things you do
+when you teach social studies
+
+00:40:20.710 --> 00:40:22.570 align:middle line:84%
+to third graders is not that
+different from the kinds
+
+00:40:22.570 --> 00:40:24.340 align:middle line:84%
+of things that you do when you
+teach social studies to 12th
+
+00:40:24.340 --> 00:40:24.680 align:middle line:90%
+graders.
+
+00:40:24.680 --> 00:40:26.660 align:middle line:84%
+It gets more complicated, but
+it's along the same lines.
+
+00:40:26.660 --> 00:40:28.300 align:middle line:84%
+But the initial
+learning of a language
+
+00:40:28.300 --> 00:40:30.320 align:middle line:84%
+is more like a
+math or a science,
+
+00:40:30.320 --> 00:40:32.080 align:middle line:84%
+and then the later
+parts of a language
+
+00:40:32.080 --> 00:40:34.780 align:middle line:84%
+is more like a humanities or
+a social science or something
+
+00:40:34.780 --> 00:40:36.460 align:middle line:90%
+like that, which is cool.
+
+00:40:36.460 --> 00:40:41.230 align:middle line:84%
+In the book, I write a bunch
+about automated pronunciation
+
+00:40:41.230 --> 00:40:47.860 align:middle line:84%
+detectors, which, to me, I think
+are a great example of advances
+
+00:40:47.860 --> 00:40:49.990 align:middle line:84%
+in language learning,
+especially when you think
+
+00:40:49.990 --> 00:40:52.870 align:middle line:84%
+about the classroom
+contexts in which people
+
+00:40:52.870 --> 00:40:54.110 align:middle line:90%
+learn to pronounce things.
+
+00:40:54.110 --> 00:40:56.980 align:middle line:84%
+So take yourself back to your
+middle school Spanish class
+
+00:40:56.980 --> 00:41:00.370 align:middle line:84%
+or whatever, and there's
+26 kids in the room,
+
+00:41:00.370 --> 00:41:02.010 align:middle line:90%
+and there's one teacher.
+
+00:41:02.010 --> 00:41:05.340 align:middle line:84%
+And the teacher walks up to you
+and goes, "Hola, cómo estás?"
+
+00:41:05.340 --> 00:41:08.900 align:middle line:84%
+And then you respond,
+and maybe the teacher
+
+00:41:08.900 --> 00:41:11.010 align:middle line:84%
+gives you some feedback
+about the pronunciation.
+
+00:41:11.010 --> 00:41:12.843 align:middle line:84%
+Maybe they're just
+whipping around the room.
+
+00:41:12.843 --> 00:41:17.120 align:middle line:84%
+But you're getting at best like
+1/26 of that teacher's attention
+
+00:41:17.120 --> 00:41:19.620 align:middle line:84%
+for that pronunciation
+evaluation exercise.
+
+00:41:19.620 --> 00:41:22.070 align:middle line:84%
+It's extraordinarily
+inefficient.
+
+00:41:22.070 --> 00:41:23.870 align:middle line:84%
+I remember this
+a lot because I'm
+
+00:41:23.870 --> 00:41:27.500 align:middle line:84%
+both bad at language learning
+and bad at pronouncing things.
+
+00:41:27.500 --> 00:41:30.080 align:middle line:84%
+And so I would say
+stuff, and the teacher
+
+00:41:30.080 --> 00:41:33.540 align:middle line:84%
+would just nod at me like, OK,
+and go on to the next person.
+
+00:41:33.540 --> 00:41:35.420 align:middle line:90%
+Clearly, I'm not learning this.
+
+00:41:35.420 --> 00:41:38.420 align:middle line:84%
+But I can open up a computer
+that has an automated
+
+00:41:38.420 --> 00:41:41.540 align:middle line:84%
+pronunciation detection, and
+I can just mispronounce "por
+
+00:41:41.540 --> 00:41:43.890 align:middle line:84%
+favor" over, and over,
+and over, and over again,
+
+00:41:43.890 --> 00:41:45.150 align:middle line:90%
+and this thing doesn't care.
+
+00:41:45.150 --> 00:41:47.000 align:middle line:84%
+It'll listen to me say it
+as many times as it wants.
+
+00:41:47.000 --> 00:41:48.793 align:middle line:84%
+As they get better,
+they might be able to--
+
+00:41:48.793 --> 00:41:50.210 align:middle line:84%
+they can at least
+give me examples
+
+00:41:50.210 --> 00:41:51.378 align:middle line:90%
+of correct pronunciation.
+
+00:41:51.378 --> 00:41:53.420 align:middle line:84%
+They might be able to
+fine-tune my pronunciation.
+
+00:41:53.420 --> 00:41:57.710 align:middle line:84%
+That seems like a place where
+computational assessment might
+
+00:41:57.710 --> 00:42:01.740 align:middle line:84%
+really be a whole lot
+better than human assessment
+
+00:42:01.740 --> 00:42:03.520 align:middle line:84%
+in a domain, that's
+pretty important.
+
+00:42:03.520 --> 00:42:04.960 align:middle line:90%
+What was your example, Sabrina?
+
+00:42:04.960 --> 00:42:09.270 align:middle line:84%
+AUDIENCE: I was going to say,
+using computers to analyze art.
+
+00:42:09.270 --> 00:42:13.110 align:middle line:84%
+It can tell you about the color
+compositions, the time period
+
+00:42:13.110 --> 00:42:16.620 align:middle line:84%
+that it's from, what
+makes it objectively
+
+00:42:16.620 --> 00:42:18.490 align:middle line:90%
+appealing to look at.
+
+00:42:18.490 --> 00:42:23.550 align:middle line:84%
+But it doesn't necessarily go
+into the artist's background
+
+00:42:23.550 --> 00:42:27.850 align:middle line:84%
+or the emotional
+message behind it
+
+00:42:27.850 --> 00:42:33.670 align:middle line:84%
+or why it was created
+in the way that it was.
+
+00:42:33.670 --> 00:42:37.780 align:middle line:84%
+I think, with art, it's
+usually not the surface level,
+
+00:42:37.780 --> 00:42:42.150 align:middle line:84%
+which I think that the computer
+is really good at hitting.
+
+00:42:42.150 --> 00:42:46.330 align:middle line:84%
+But maybe the overall meaning
+message is missed entirely.
+
+00:42:46.330 --> 00:42:47.780 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:42:47.780 --> 00:42:50.820 align:middle line:84%
+I mean, there are AP studio art
+classes and things like that,
+
+00:42:50.820 --> 00:42:52.380 align:middle line:84%
+where you can
+submit a portfolio.
+
+00:42:52.380 --> 00:42:56.730 align:middle line:84%
+And I've never thought about
+it before you brought it up.
+
+00:42:56.730 --> 00:43:00.140 align:middle line:84%
+But to my knowledge,
+there's no application
+
+00:43:00.140 --> 00:43:03.270 align:middle line:84%
+of software in evaluating
+a student's art portfolio.
+
+00:43:03.270 --> 00:43:06.800 align:middle line:84%
+But it's a kind of fun exercise
+to start thinking about, what
+
+00:43:06.800 --> 00:43:09.380 align:middle line:84%
+could you assign an AP
+studio art student that
+
+00:43:09.380 --> 00:43:14.900 align:middle line:84%
+could be graded by a computer
+that people would generally
+
+00:43:14.900 --> 00:43:16.640 align:middle line:90%
+think is fair?
+
+00:43:16.640 --> 00:43:20.600 align:middle line:84%
+Now, clearly, abstract painting
+or something like that, probably
+
+00:43:20.600 --> 00:43:23.120 align:middle line:90%
+no one will think that's fair.
+
+00:43:23.120 --> 00:43:25.520 align:middle line:84%
+Certain kinds of
+still life, where
+
+00:43:25.520 --> 00:43:28.730 align:middle line:84%
+the task is, reproduce
+this bowl of fruit
+
+00:43:28.730 --> 00:43:31.130 align:middle line:84%
+as closely as possible
+to what the bowl of fruit
+
+00:43:31.130 --> 00:43:33.680 align:middle line:84%
+actually looked like,
+I would imagine I
+
+00:43:33.680 --> 00:43:36.530 align:middle line:84%
+would trust the computer to
+do that as well or better
+
+00:43:36.530 --> 00:43:38.683 align:middle line:90%
+than a human would.
+
+00:43:38.683 --> 00:43:39.600 align:middle line:90%
+But I'm not an artist.
+
+00:43:39.600 --> 00:43:41.990 align:middle line:84%
+Maybe there's something about
+still lifes I don't understand.
+
+00:43:41.990 --> 00:43:43.550 align:middle line:84%
+AUDIENCE: The only
+application I can think of--
+
+00:43:43.550 --> 00:43:45.883 align:middle line:84%
+and I am very biased because
+I do a lot of photography--
+
+00:43:45.883 --> 00:43:48.140 align:middle line:84%
+is detecting-- and even
+then, it's difficult--
+
+00:43:48.140 --> 00:43:51.140 align:middle line:84%
+detecting if something's been
+altered in any sort of way
+
+00:43:51.140 --> 00:43:53.670 align:middle line:90%
+after the fact, like Photoshop.
+
+00:43:53.670 --> 00:43:57.230 align:middle line:84%
+And I know Adobe is working
+on their own thing to detect--
+
+00:43:57.230 --> 00:43:58.730 align:middle line:84%
+JUSTIN REICH: What
+would be a thing
+
+00:43:58.730 --> 00:44:00.770 align:middle line:84%
+that you would want a
+novice photographer to be
+
+00:44:00.770 --> 00:44:02.840 align:middle line:84%
+able to do pretty well
+that a computer could
+
+00:44:02.840 --> 00:44:05.300 align:middle line:84%
+tell whether or not
+they could do it well?
+
+00:44:05.300 --> 00:44:07.363 align:middle line:84%
+AUDIENCE: Whether
+or not a photo is--
+
+00:44:07.363 --> 00:44:09.530 align:middle line:84%
+I think the most fundamental
+thing is whether or not
+
+00:44:09.530 --> 00:44:12.170 align:middle line:84%
+a photo is exposed
+properly without having
+
+00:44:12.170 --> 00:44:14.040 align:middle line:90%
+to do any digital alterations.
+
+00:44:14.040 --> 00:44:15.680 align:middle line:90%
+JUSTIN REICH: Yeah, yeah.
+
+00:44:15.680 --> 00:44:18.470 align:middle line:84%
+And again, if you can
+get a computer that
+
+00:44:18.470 --> 00:44:21.770 align:middle line:84%
+can do that evaluation,
+then you can
+
+00:44:21.770 --> 00:44:24.140 align:middle line:84%
+have all of the
+photography students
+
+00:44:24.140 --> 00:44:25.940 align:middle line:90%
+get more formative feedback.
+
+00:44:25.940 --> 00:44:29.100 align:middle line:84%
+Maybe you can get them to have
+more high-stakes feedback.
+
+00:44:29.100 --> 00:44:32.300 align:middle line:84%
+Maybe we could admit students
+into arts colleges based
+
+00:44:32.300 --> 00:44:34.400 align:middle line:84%
+on their photography
+portfolio, or we can just
+
+00:44:34.400 --> 00:44:36.270 align:middle line:84%
+ask them more questions
+in their portfolio.
+
+00:44:36.270 --> 00:44:41.870 align:middle line:84%
+We can say, humans, go see
+whether their intimate portraits
+
+00:44:41.870 --> 00:44:44.252 align:middle line:84%
+evoke the character
+of the person,
+
+00:44:44.252 --> 00:44:46.460 align:middle line:84%
+and don't waste your time
+figuring out whether or not
+
+00:44:46.460 --> 00:44:48.860 align:middle line:84%
+they can expose photos
+correctly because we
+
+00:44:48.860 --> 00:44:50.630 align:middle line:90%
+got machines that can do that.
+
+00:44:50.630 --> 00:44:53.420 align:middle line:90%
+Yeah, that's a neat example.
+
+00:44:53.420 --> 00:44:55.240 align:middle line:84%
+So where were you
+most optimistic?
+
+00:44:55.240 --> 00:44:56.740 align:middle line:84%
+Where do you feel
+like there's going
+
+00:44:56.740 --> 00:44:59.048 align:middle line:84%
+to be the most improvement
+in the next five years,
+
+00:44:59.048 --> 00:45:01.215 align:middle line:84%
+and where are those
+improvements going to come from?
+
+00:45:01.215 --> 00:45:04.840 align:middle line:90%
+
+
+00:45:04.840 --> 00:45:06.590 align:middle line:84%
+AUDIENCE: I have a
+follow-up question.
+
+00:45:06.590 --> 00:45:06.880 align:middle line:90%
+JUSTIN REICH: Oh, sure.
+
+00:45:06.880 --> 00:45:07.672 align:middle line:90%
+AUDIENCE: Is it OK?
+
+00:45:07.672 --> 00:45:08.560 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:45:08.560 --> 00:45:09.227 align:middle line:90%
+AUDIENCE: Sorry.
+
+00:45:09.227 --> 00:45:14.020 align:middle line:84%
+I was just thinking that if
+the photos' exposure level is
+
+00:45:14.020 --> 00:45:16.990 align:middle line:84%
+detectable by a
+computer, so you begin
+
+00:45:16.990 --> 00:45:21.070 align:middle line:84%
+to not have humans evaluate
+that on admission tests
+
+00:45:21.070 --> 00:45:25.250 align:middle line:84%
+anymore, then soon you'd have
+to drop that from the test,
+
+00:45:25.250 --> 00:45:27.970 align:middle line:84%
+like that portion of eval--
+because students would then
+
+00:45:27.970 --> 00:45:30.700 align:middle line:84%
+have access to these kinds
+of softwares, as well, which
+
+00:45:30.700 --> 00:45:33.362 align:middle line:84%
+means they would never
+submit a photo that was not
+
+00:45:33.362 --> 00:45:34.070 align:middle line:90%
+exposed properly.
+
+00:45:34.070 --> 00:45:35.920 align:middle line:84%
+JUSTIN REICH: That is
+a great description
+
+00:45:35.920 --> 00:45:39.220 align:middle line:84%
+of the trap of routine
+assessment, that,
+
+00:45:39.220 --> 00:45:42.350 align:middle line:84%
+if computers can
+detect performance,
+
+00:45:42.350 --> 00:45:45.400 align:middle line:84%
+then computers can probably
+do that performance.
+
+00:45:45.400 --> 00:45:47.650 align:middle line:84%
+If we can build a machine
+which tells whether or not
+
+00:45:47.650 --> 00:45:49.670 align:middle line:84%
+a photograph that was taken
+with the correct exposure,
+
+00:45:49.670 --> 00:45:51.910 align:middle line:84%
+then we can just build cameras
+that will only take photographs
+
+00:45:51.910 --> 00:45:53.020 align:middle line:84%
+with the correct
+exposure, and then we
+
+00:45:53.020 --> 00:45:55.730 align:middle line:84%
+don't need to teach humans how
+to do correct exposures anymore.
+
+00:45:55.730 --> 00:45:59.650 align:middle line:84%
+And so that is part of this loop
+that educators are constantly
+
+00:45:59.650 --> 00:46:03.140 align:middle line:84%
+wrestling with,
+constantly thinking about.
+
+00:46:03.140 --> 00:46:06.520 align:middle line:84%
+And a thing that makes this
+so hard for educators is it's
+
+00:46:06.520 --> 00:46:07.863 align:middle line:90%
+really hard to predict--
+
+00:46:07.863 --> 00:46:10.660 align:middle line:90%
+
+
+00:46:10.660 --> 00:46:13.490 align:middle line:84%
+when your old high school
+friends are going to call you.
+
+00:46:13.490 --> 00:46:15.580 align:middle line:90%
+[LAUGHTER]
+
+00:46:15.580 --> 00:46:18.580 align:middle line:90%
+It's really hard--
+
+00:46:18.580 --> 00:46:21.760 align:middle line:90%
+I won't say any more.
+
+00:46:21.760 --> 00:46:27.880 align:middle line:84%
+It's really hard to
+predict in what ways
+
+00:46:27.880 --> 00:46:29.570 align:middle line:84%
+these kinds of
+disciplines will change.
+
+00:46:29.570 --> 00:46:33.850 align:middle line:84%
+Like, how will photography
+change over the next five years?
+
+00:46:33.850 --> 00:46:36.698 align:middle line:84%
+is a really hard thing
+for photography educators
+
+00:46:36.698 --> 00:46:37.490 align:middle line:90%
+to guess right now.
+
+00:46:37.490 --> 00:46:40.600 align:middle line:84%
+So I've been thinking about
+this a lot because I shared this
+
+00:46:40.600 --> 00:46:43.930 align:middle line:84%
+paper that we published
+with you that was,
+
+00:46:43.930 --> 00:46:46.040 align:middle line:84%
+"Generative AI in K-12--
+an MIT Perspective."
+
+00:46:46.040 --> 00:46:46.670 align:middle line:90%
+I didn't share it with you all.
+
+00:46:46.670 --> 00:46:48.100 align:middle line:90%
+I shared it with my students.
+
+00:46:48.100 --> 00:46:50.560 align:middle line:84%
+And one of the claims
+that we make in there
+
+00:46:50.560 --> 00:46:54.420 align:middle line:84%
+is, we can be pretty sure that
+computer programming is going
+
+00:46:54.420 --> 00:46:56.160 align:middle line:84%
+to change, and that
+copilots are going
+
+00:46:56.160 --> 00:46:58.450 align:middle line:84%
+to be a really central part
+of computer programming.
+
+00:46:58.450 --> 00:47:00.450 align:middle line:84%
+And so computer science
+teachers should probably
+
+00:47:00.450 --> 00:47:01.320 align:middle line:84%
+start thinking about
+how they're going
+
+00:47:01.320 --> 00:47:02.487 align:middle line:90%
+to change their instruction.
+
+00:47:02.487 --> 00:47:04.498 align:middle line:84%
+But I was just at a
+conference the other day
+
+00:47:04.498 --> 00:47:06.790 align:middle line:84%
+where someone from Cornell
+Tech stood up and was like--
+
+00:47:06.790 --> 00:47:08.550 align:middle line:84%
+and the whole premise
+of the conference
+
+00:47:08.550 --> 00:47:10.768 align:middle line:84%
+was, what guidance should
+we give to computer science
+
+00:47:10.768 --> 00:47:12.310 align:middle line:84%
+teachers to change
+their instruction?
+
+00:47:12.310 --> 00:47:14.620 align:middle line:84%
+And this woman stood up and
+was like, do not do that.
+
+00:47:14.620 --> 00:47:18.600 align:middle line:84%
+You have no idea how computer
+programming is going to change.
+
+00:47:18.600 --> 00:47:21.300 align:middle line:84%
+There's no reason to give
+any new advice to teachers
+
+00:47:21.300 --> 00:47:24.510 align:middle line:84%
+right now because we have
+no idea what that would be.
+
+00:47:24.510 --> 00:47:27.180 align:middle line:84%
+And I started thinking
+more and more like,
+
+00:47:27.180 --> 00:47:30.390 align:middle line:84%
+well, yeah, in part because I've
+been hearing from people who
+
+00:47:30.390 --> 00:47:32.460 align:middle line:84%
+teach introduction to
+computer programming
+
+00:47:32.460 --> 00:47:35.580 align:middle line:84%
+that their early efforts
+to incorporate copilots
+
+00:47:35.580 --> 00:47:37.920 align:middle line:84%
+in instruction were
+going pretty poorly,
+
+00:47:37.920 --> 00:47:41.200 align:middle line:84%
+that basically, students
+were using them,
+
+00:47:41.200 --> 00:47:43.720 align:middle line:84%
+and then week 4, week 5 would
+roll around, and they're like,
+
+00:47:43.720 --> 00:47:45.130 align:middle line:84%
+these students are
+totally confused.
+
+00:47:45.130 --> 00:47:47.380 align:middle line:84%
+They haven't learned fundamental
+things they need to learn.
+
+00:47:47.380 --> 00:47:49.350 align:middle line:84%
+And then I talked to
+other software engineers
+
+00:47:49.350 --> 00:47:52.580 align:middle line:84%
+who were saying things like,
+every hour you save programming
+
+00:47:52.580 --> 00:47:56.330 align:middle line:84%
+with a copilot will cost you an
+hour in quality assurance later,
+
+00:47:56.330 --> 00:47:57.562 align:middle line:90%
+that the things--
+
+00:47:57.562 --> 00:47:59.270 align:middle line:84%
+you solve little
+problems, but you end up
+
+00:47:59.270 --> 00:48:01.550 align:middle line:84%
+creating bigger ones, for
+some of the reasons that Hal
+
+00:48:01.550 --> 00:48:03.270 align:middle line:90%
+has on this screen right here.
+
+00:48:03.270 --> 00:48:08.100 align:middle line:84%
+And so then you start saying,
+man, maybe we don't know.
+
+00:48:08.100 --> 00:48:11.780 align:middle line:84%
+It's pretty hard to think
+about how you should change--
+
+00:48:11.780 --> 00:48:15.440 align:middle line:84%
+some people might say, why
+are we assessing computer
+
+00:48:15.440 --> 00:48:16.663 align:middle line:90%
+programming at all anymore?
+
+00:48:16.663 --> 00:48:18.330 align:middle line:84%
+The bots are just
+going to do it for us.
+
+00:48:18.330 --> 00:48:19.710 align:middle line:84%
+And then other people
+will be like, yeah,
+
+00:48:19.710 --> 00:48:20.868 align:middle line:90%
+I'm not so sure about that.
+
+00:48:20.868 --> 00:48:22.910 align:middle line:84%
+We might actually need
+people doing this or doing
+
+00:48:22.910 --> 00:48:25.568 align:middle line:90%
+parts of this.
+
+00:48:25.568 --> 00:48:27.620 align:middle line:84%
+The other thing I
+think about a lot
+
+00:48:27.620 --> 00:48:31.440 align:middle line:84%
+is that, historically, educators
+are not very good at this.
+
+00:48:31.440 --> 00:48:34.403 align:middle line:84%
+So if you read, in the 19th
+century, the 20th century--
+
+00:48:34.403 --> 00:48:37.070 align:middle line:84%
+in the 19th century, there were
+a whole bunch of people who were
+
+00:48:37.070 --> 00:48:39.430 align:middle line:84%
+fervent believers in
+diagramming sentences.
+
+00:48:39.430 --> 00:48:41.180 align:middle line:84%
+Did anybody have to
+diagram sentences when
+
+00:48:41.180 --> 00:48:42.450 align:middle line:90%
+you were in elementary school?
+
+00:48:42.450 --> 00:48:45.708 align:middle line:84%
+Subject, predicate,
+adverb, all these kind--
+
+00:48:45.708 --> 00:48:47.750 align:middle line:84%
+I mean, there are people
+who went to their graves
+
+00:48:47.750 --> 00:48:50.300 align:middle line:84%
+believing that if we didn't
+teach young people what
+
+00:48:50.300 --> 00:48:54.320 align:middle line:84%
+the pluperfect was, society
+was going to collapse.
+
+00:48:54.320 --> 00:48:57.450 align:middle line:84%
+And they were totally wrong,
+and we laugh at them today.
+
+00:48:57.450 --> 00:49:00.020 align:middle line:84%
+But there's all kinds of stuff
+that you and I would sit down
+
+00:49:00.020 --> 00:49:01.280 align:middle line:84%
+with a bunch of
+curriculum developers
+
+00:49:01.280 --> 00:49:03.488 align:middle line:84%
+and be like, man, it's
+incredibly important that kids
+
+00:49:03.488 --> 00:49:07.280 align:middle line:84%
+in 2024 learn X. And some
+fraction of those things
+
+00:49:07.280 --> 00:49:11.040 align:middle line:84%
+are absolutely going
+to be vital in 2075.
+
+00:49:11.040 --> 00:49:13.370 align:middle line:84%
+And some of those things
+that we would passionately
+
+00:49:13.370 --> 00:49:15.660 align:middle line:84%
+defend right now, people
+in 2075 would be like,
+
+00:49:15.660 --> 00:49:18.260 align:middle line:84%
+can you believe those
+folks 50 years ago thought
+
+00:49:18.260 --> 00:49:20.640 align:middle line:90%
+that people needed to learn X?
+
+00:49:20.640 --> 00:49:23.360 align:middle line:84%
+Those are like the knuckleheads
+who believed in the pluperfect
+
+00:49:23.360 --> 00:49:25.190 align:middle line:84%
+in the 19th century or
+something like that.
+
+00:49:25.190 --> 00:49:27.215 align:middle line:84%
+They are very difficult
+things to predict.
+
+00:49:27.215 --> 00:49:29.340 align:middle line:84%
+All right, let's talk about
+more optimistic things.
+
+00:49:29.340 --> 00:49:30.980 align:middle line:84%
+What are other
+things, Dana, that--
+
+00:49:30.980 --> 00:49:32.880 align:middle line:84%
+AUDIENCE: We had a really
+interesting conversation.
+
+00:49:32.880 --> 00:49:34.463 align:middle line:84%
+We were saying, if
+you go back to what
+
+00:49:34.463 --> 00:49:37.610 align:middle line:84%
+you were talking
+about earlier in how
+
+00:49:37.610 --> 00:49:40.470 align:middle line:90%
+AI can help teachers inspire--
+
+00:49:40.470 --> 00:49:46.040 align:middle line:84%
+or AI can inspire teachers
+with new homework assignments.
+
+00:49:46.040 --> 00:49:48.850 align:middle line:84%
+But then we brought up this
+weird, like EdTech Matthew
+
+00:49:48.850 --> 00:49:53.110 align:middle line:90%
+effect, where AI only pulls--
+
+00:49:53.110 --> 00:49:55.690 align:middle line:84%
+specifically, say,
+ChatGPT is only
+
+00:49:55.690 --> 00:49:59.650 align:middle line:84%
+pulling from existing
+literature on the subject.
+
+00:49:59.650 --> 00:50:03.970 align:middle line:84%
+Other than the initial time
+that it maybe accidentally puts
+
+00:50:03.970 --> 00:50:06.100 align:middle line:84%
+in a random word and
+starts going off the walls
+
+00:50:06.100 --> 00:50:08.500 align:middle line:84%
+and makes something crazy,
+it's really only pulling
+
+00:50:08.500 --> 00:50:10.820 align:middle line:90%
+from what is already out there.
+
+00:50:10.820 --> 00:50:14.200 align:middle line:84%
+So in the idea of bringing
+up the middle class
+
+00:50:14.200 --> 00:50:15.920 align:middle line:84%
+and the teachers
+with new inspiration,
+
+00:50:15.920 --> 00:50:17.680 align:middle line:84%
+you almost have to
+pull ahead the elites
+
+00:50:17.680 --> 00:50:19.960 align:middle line:84%
+to then produce
+the literature that
+
+00:50:19.960 --> 00:50:23.500 align:middle line:84%
+is necessary to then
+inspire AI with new things
+
+00:50:23.500 --> 00:50:26.820 align:middle line:84%
+that will then trickle down
+to the middle class for them
+
+00:50:26.820 --> 00:50:27.320 align:middle line:90%
+to use.
+
+00:50:27.320 --> 00:50:28.903 align:middle line:84%
+So it was almost
+this interesting idea
+
+00:50:28.903 --> 00:50:32.380 align:middle line:84%
+that AI can be
+useful, but it needs
+
+00:50:32.380 --> 00:50:37.000 align:middle line:84%
+to have the right
+literature to back it up.
+
+00:50:37.000 --> 00:50:39.520 align:middle line:84%
+And there's that
+interesting dilemma of,
+
+00:50:39.520 --> 00:50:41.360 align:middle line:90%
+who is going to create that?
+
+00:50:41.360 --> 00:50:44.860 align:middle line:84%
+And how do you inspire people
+to push them ahead in that sense
+
+00:50:44.860 --> 00:50:47.270 align:middle line:90%
+to help the little guy?
+
+00:50:47.270 --> 00:50:49.330 align:middle line:84%
+JUSTIN REICH: Yeah, what
+kind of training data
+
+00:50:49.330 --> 00:50:50.900 align:middle line:84%
+gets used is
+enormously important.
+
+00:50:50.900 --> 00:50:52.942 align:middle line:84%
+We were talking about this
+with one of our guests
+
+00:50:52.942 --> 00:50:55.810 align:middle line:90%
+from WPI who was saying that--
+
+00:50:55.810 --> 00:50:58.210 align:middle line:84%
+maybe whoever was doing that
+presentation can explain it
+
+00:50:58.210 --> 00:51:04.130 align:middle line:84%
+better than I can-- but that
+as LLMs generate more code,
+
+00:51:04.130 --> 00:51:06.790 align:middle line:84%
+and that code has
+problems with it,
+
+00:51:06.790 --> 00:51:10.450 align:middle line:84%
+then future LLMs will pull
+in all that buggy code
+
+00:51:10.450 --> 00:51:12.953 align:middle line:90%
+and suggest more bad code.
+
+00:51:12.953 --> 00:51:14.120 align:middle line:90%
+AUDIENCE: Yeah, that was me.
+
+00:51:14.120 --> 00:51:15.340 align:middle line:84%
+JUSTIN REICH: Do you want do
+you want to say more about
+
+00:51:15.340 --> 00:51:16.670 align:middle line:90%
+what the problem is there?
+
+00:51:16.670 --> 00:51:20.860 align:middle line:90%
+AUDIENCE: So I used it to--
+
+00:51:20.860 --> 00:51:25.870 align:middle line:84%
+anyway, so it was that
+LLMs are trained on Copilot
+
+00:51:25.870 --> 00:51:27.200 align:middle line:90%
+on GitHub code.
+
+00:51:27.200 --> 00:51:32.320 align:middle line:84%
+So they essentially get all
+of the badly written code
+
+00:51:32.320 --> 00:51:33.620 align:middle line:90%
+that Copilot generates.
+
+00:51:33.620 --> 00:51:36.700 align:middle line:84%
+So when students are
+generating that code,
+
+00:51:36.700 --> 00:51:40.640 align:middle line:84%
+they are essentially going to
+generate the same bad code,
+
+00:51:40.640 --> 00:51:45.990 align:middle line:84%
+and they're not going to
+fulfill the needs of what
+
+00:51:45.990 --> 00:51:48.510 align:middle line:90%
+is required from the question.
+
+00:51:48.510 --> 00:51:54.480 align:middle line:84%
+When you give someone an
+assignment, the ways to test it
+
+00:51:54.480 --> 00:51:57.850 align:middle line:90%
+is to give them some test cases.
+
+00:51:57.850 --> 00:52:02.280 align:middle line:84%
+But those test cases essentially
+do not solve the entire problem.
+
+00:52:02.280 --> 00:52:08.580 align:middle line:84%
+So teaching students how to
+build those test cases that
+
+00:52:08.580 --> 00:52:11.850 align:middle line:84%
+covers the entire input space
+is more important than for them
+
+00:52:11.850 --> 00:52:14.238 align:middle line:90%
+to be able to write code.
+
+00:52:14.238 --> 00:52:15.030 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:52:15.030 --> 00:52:15.530 align:middle line:90%
+Yeah.
+
+00:52:15.530 --> 00:52:17.100 align:middle line:90%
+And so that was--
+
+00:52:17.100 --> 00:52:19.420 align:middle line:84%
+I mean, who knows if what
+you just said is true,
+
+00:52:19.420 --> 00:52:21.970 align:middle line:84%
+but that's a great
+claim about the future.
+
+00:52:21.970 --> 00:52:23.745 align:middle line:84%
+Building certain
+kind of test cases
+
+00:52:23.745 --> 00:52:26.370 align:middle line:84%
+is going to be more important to
+the future of computer science
+
+00:52:26.370 --> 00:52:29.850 align:middle line:84%
+than being able to write
+certain lines of codes
+
+00:52:29.850 --> 00:52:32.920 align:middle line:84%
+or knowing other programming
+principles or things like that.
+
+00:52:32.920 --> 00:52:34.410 align:middle line:84%
+This is exactly
+what educators are
+
+00:52:34.410 --> 00:52:36.210 align:middle line:84%
+wrestling with
+every time there's
+
+00:52:36.210 --> 00:52:39.180 align:middle line:90%
+some new technological change.
+
+00:52:39.180 --> 00:52:41.148 align:middle line:84%
+Do we still teach kids
+spelling in an age
+
+00:52:41.148 --> 00:52:42.190 align:middle line:90%
+when we have spell check?
+
+00:52:42.190 --> 00:52:44.037 align:middle line:84%
+Do we still teach kids
+computation in an age
+
+00:52:44.037 --> 00:52:45.120 align:middle line:90%
+where there are computers?
+
+00:52:45.120 --> 00:52:48.080 align:middle line:84%
+These kinds of things come
+up over and over again.
+
+00:52:48.080 --> 00:52:49.550 align:middle line:84%
+What were you going
+to say, Avril?
+
+00:52:49.550 --> 00:52:51.230 align:middle line:84%
+AUDIENCE: Something
+that maybe could
+
+00:52:51.230 --> 00:52:55.040 align:middle line:84%
+be an optimistic outcome
+is that software is
+
+00:52:55.040 --> 00:52:58.020 align:middle line:90%
+a language-oriented discipline.
+
+00:52:58.020 --> 00:53:01.100 align:middle line:84%
+And that's kind of why ChatGPT
+and language-based models
+
+00:53:01.100 --> 00:53:02.155 align:middle line:90%
+are so good at doing it.
+
+00:53:02.155 --> 00:53:03.530 align:middle line:84%
+But there are
+things that aren't.
+
+00:53:03.530 --> 00:53:05.610 align:middle line:84%
+Analog circuit design
+is very visual.
+
+00:53:05.610 --> 00:53:08.580 align:middle line:84%
+And right now, signal
+processing, like training,
+
+00:53:08.580 --> 00:53:11.690 align:middle line:84%
+machine learning models
+with images and things,
+
+00:53:11.690 --> 00:53:12.810 align:middle line:90%
+is a lot more difficult.
+
+00:53:12.810 --> 00:53:16.190 align:middle line:84%
+So for at least a few
+decades, hopefully,
+
+00:53:16.190 --> 00:53:17.780 align:middle line:84%
+analog circuit design
+and other things
+
+00:53:17.780 --> 00:53:20.970 align:middle line:84%
+that are related to hardware
+will be good skills,
+
+00:53:20.970 --> 00:53:26.670 align:middle line:84%
+probably, to teach kids and to
+build decent fields to work in.
+
+00:53:26.670 --> 00:53:29.600 align:middle line:84%
+Also, even though there are
+copilot things for things
+
+00:53:29.600 --> 00:53:35.060 align:middle line:84%
+like cadence, such as layout for
+semiconductor chips or whatever,
+
+00:53:35.060 --> 00:53:36.330 align:middle line:90%
+I don't think they're good.
+
+00:53:36.330 --> 00:53:37.663 align:middle line:90%
+I also don't know how they work.
+
+00:53:37.663 --> 00:53:41.540 align:middle line:84%
+So there's a more
+strong emphasis
+
+00:53:41.540 --> 00:53:44.090 align:middle line:84%
+on teaching kids
+the basics of how
+
+00:53:44.090 --> 00:53:47.660 align:middle line:84%
+the things that
+they are, I guess,
+
+00:53:47.660 --> 00:53:50.000 align:middle line:84%
+catering to with
+ChatGPT actually work.
+
+00:53:50.000 --> 00:53:51.620 align:middle line:84%
+What I'm trying to
+say is that I hope
+
+00:53:51.620 --> 00:53:57.410 align:middle line:84%
+that people have this shift
+towards understanding how things
+
+00:53:57.410 --> 00:53:59.640 align:middle line:84%
+work from the bottom
+instead of the top,
+
+00:53:59.640 --> 00:54:01.970 align:middle line:84%
+which is good because
+then you can build things
+
+00:54:01.970 --> 00:54:03.357 align:middle line:90%
+from the ground up.
+
+00:54:03.357 --> 00:54:04.440 align:middle line:90%
+JUSTIN REICH: Well, great.
+
+00:54:04.440 --> 00:54:05.570 align:middle line:90%
+Yeah, I like that.
+
+00:54:05.570 --> 00:54:06.480 align:middle line:84%
+What were you going
+to say, Aaron?
+
+00:54:06.480 --> 00:54:07.438 align:middle line:90%
+AUDIENCE: I don't know.
+
+00:54:07.438 --> 00:54:10.440 align:middle line:84%
+I have a disagreement with
+the analog circuit design,
+
+00:54:10.440 --> 00:54:12.770 align:middle line:84%
+but that's just purely
+because anything--
+
+00:54:12.770 --> 00:54:15.330 align:middle line:84%
+because it's still a visual
+software that's doing it,
+
+00:54:15.330 --> 00:54:19.430 align:middle line:84%
+so there is some translation
+that could be considered.
+
+00:54:19.430 --> 00:54:22.040 align:middle line:84%
+I do know a couple of analog
+circuit design softwares
+
+00:54:22.040 --> 00:54:23.425 align:middle line:90%
+that just translate down to XML.
+
+00:54:23.425 --> 00:54:25.020 align:middle line:84%
+And you could just
+stick that XML,
+
+00:54:25.020 --> 00:54:27.570 align:middle line:84%
+which is a structured,
+object-oriented language,
+
+00:54:27.570 --> 00:54:31.345 align:middle line:84%
+into ChatGPT, get new XML back,
+validate that it's correct,
+
+00:54:31.345 --> 00:54:32.720 align:middle line:84%
+see it, and then
+it will probably
+
+00:54:32.720 --> 00:54:35.450 align:middle line:84%
+produce a correct
+circuit in some capacity.
+
+00:54:35.450 --> 00:54:36.410 align:middle line:90%
+AUDIENCE: But can you--
+
+00:54:36.410 --> 00:54:39.830 align:middle line:84%
+I mean, where are you starting
+when you think about designing
+
+00:54:39.830 --> 00:54:42.670 align:middle line:90%
+an amplifier or something?
+
+00:54:42.670 --> 00:54:44.402 align:middle line:90%
+AUDIENCE: It's starting from--
+
+00:54:44.402 --> 00:54:46.360 align:middle line:84%
+well, it's the same thing
+when you started now.
+
+00:54:46.360 --> 00:54:48.200 align:middle line:84%
+Nobody had code when
+they first started.
+
+00:54:48.200 --> 00:54:50.170 align:middle line:84%
+You would have whatever
+data set of people
+
+00:54:50.170 --> 00:54:53.390 align:middle line:84%
+has all their amplifier
+files that are all lined up,
+
+00:54:53.390 --> 00:54:55.580 align:middle line:90%
+whatever it is.
+
+00:54:55.580 --> 00:54:59.830 align:middle line:84%
+Then you would decide, OK, let's
+get the textual representation
+
+00:54:59.830 --> 00:55:02.560 align:middle line:84%
+of this in some syntactical
+language, which XML was just
+
+00:55:02.560 --> 00:55:04.060 align:middle line:84%
+the one that came
+to my head, but it
+
+00:55:04.060 --> 00:55:06.850 align:middle line:84%
+could be anything that can
+represent the image in text
+
+00:55:06.850 --> 00:55:09.340 align:middle line:84%
+form, since that's all the
+software is doing, since it's
+
+00:55:09.340 --> 00:55:11.590 align:middle line:84%
+just literally inputs and
+outputs of where you connect
+
+00:55:11.590 --> 00:55:13.280 align:middle line:84%
+wire A to wire B
+or wherever it is,
+
+00:55:13.280 --> 00:55:15.020 align:middle line:90%
+and that can usually be limited.
+
+00:55:15.020 --> 00:55:17.960 align:middle line:84%
+And then you take that
+text, train the LLM on it,
+
+00:55:17.960 --> 00:55:20.090 align:middle line:84%
+you run it through
+it, you get some out.
+
+00:55:20.090 --> 00:55:22.450 align:middle line:84%
+You then say, OK,
+generate me an amplifier,
+
+00:55:22.450 --> 00:55:24.728 align:middle line:84%
+and it will generate you
+an amplifier with that XML.
+
+00:55:24.728 --> 00:55:27.020 align:middle line:84%
+You put it back into the
+visual software, and now look,
+
+00:55:27.020 --> 00:55:28.178 align:middle line:90%
+you now have an amplifier.
+
+00:55:28.178 --> 00:55:28.720 align:middle line:90%
+AUDIENCE: OK.
+
+00:55:28.720 --> 00:55:31.690 align:middle line:84%
+My new hope is that all of
+this becomes proprietary,
+
+00:55:31.690 --> 00:55:33.694 align:middle line:90%
+and they don't let--
+
+00:55:33.694 --> 00:55:35.980 align:middle line:90%
+[LAUGHTER]
+
+00:55:35.980 --> 00:55:37.810 align:middle line:84%
+JUSTIN REICH: And
+I think, to me,
+
+00:55:37.810 --> 00:55:39.410 align:middle line:84%
+from an educator's
+point of view,
+
+00:55:39.410 --> 00:55:42.220 align:middle line:84%
+what's so challenging about
+these kinds of questions
+
+00:55:42.220 --> 00:55:43.938 align:middle line:84%
+is I know nothing
+about your domain,
+
+00:55:43.938 --> 00:55:45.730 align:middle line:84%
+and so both of the
+cases that you just made
+
+00:55:45.730 --> 00:55:49.720 align:middle line:84%
+seem totally plausible to me,
+and that it's really hard--
+
+00:55:49.720 --> 00:55:53.980 align:middle line:84%
+people seem to be really bad at
+predicting the kinds of things
+
+00:55:53.980 --> 00:55:56.600 align:middle line:84%
+that AI are going to be
+useful for in the future.
+
+00:55:56.600 --> 00:55:59.260 align:middle line:84%
+Which of these problems are
+solvable and which are they not?
+
+00:55:59.260 --> 00:56:00.968 align:middle line:84%
+So you could imagine
+somewhere out there,
+
+00:56:00.968 --> 00:56:07.480 align:middle line:84%
+there are people who run the
+ABET engineering curriculum
+
+00:56:07.480 --> 00:56:09.280 align:middle line:84%
+certification kinds
+of things, or people
+
+00:56:09.280 --> 00:56:10.993 align:middle line:84%
+who are department
+heads, or people
+
+00:56:10.993 --> 00:56:12.910 align:middle line:84%
+who are writing textbooks
+or things like that.
+
+00:56:12.910 --> 00:56:15.260 align:middle line:84%
+Which of this stuff
+do we want to keep?
+
+00:56:15.260 --> 00:56:16.890 align:middle line:84%
+Because we'll still
+need human beings
+
+00:56:16.890 --> 00:56:18.640 align:middle line:84%
+to build-- for the
+three categories, which
+
+00:56:18.640 --> 00:56:21.230 align:middle line:84%
+are the stuff is like,
+nah, in the future,
+
+00:56:21.230 --> 00:56:23.140 align:middle line:90%
+just AI will build this.
+
+00:56:23.140 --> 00:56:25.353 align:middle line:84%
+You'll tell some machine
+learning system, AI system
+
+00:56:25.353 --> 00:56:27.770 align:middle line:84%
+the kind of circuit that you
+want, and it'll print it out.
+
+00:56:27.770 --> 00:56:28.600 align:middle line:84%
+And so you don't really
+know that you need
+
+00:56:28.600 --> 00:56:29.725 align:middle line:90%
+to know that much about it.
+
+00:56:29.725 --> 00:56:33.377 align:middle line:84%
+B, yeah, an AI will probably
+print out most of these things,
+
+00:56:33.377 --> 00:56:34.960 align:middle line:84%
+but it's still useful
+for humans to be
+
+00:56:34.960 --> 00:56:37.893 align:middle line:84%
+able to understand this
+thing because that gives you
+
+00:56:37.893 --> 00:56:39.310 align:middle line:84%
+some kind of insight
+about how you
+
+00:56:39.310 --> 00:56:41.560 align:middle line:84%
+would build other technology,
+other things like that.
+
+00:56:41.560 --> 00:56:43.060 align:middle line:84%
+Or, no, there's no
+way computers are
+
+00:56:43.060 --> 00:56:44.352 align:middle line:90%
+going to be good at this stuff.
+
+00:56:44.352 --> 00:56:46.480 align:middle line:84%
+We still need human beings
+of primarily to do it.
+
+00:56:46.480 --> 00:56:49.060 align:middle line:84%
+Those are at least three
+categories of things,
+
+00:56:49.060 --> 00:56:51.280 align:middle line:84%
+and it's really hard
+to predict which things
+
+00:56:51.280 --> 00:56:52.490 align:middle line:90%
+move into which categories.
+
+00:56:52.490 --> 00:56:55.900 align:middle line:84%
+And it's very difficult to get
+education systems to be good
+
+00:56:55.900 --> 00:56:59.080 align:middle line:84%
+at doing new kinds of things,
+which is why most of the schools
+
+00:56:59.080 --> 00:57:02.440 align:middle line:84%
+that you went to had very little
+computer science education
+
+00:57:02.440 --> 00:57:05.200 align:middle line:84%
+and stuff like that because,
+in the 19th century when we
+
+00:57:05.200 --> 00:57:07.430 align:middle line:84%
+designed high schools, there
+wasn't computer science,
+
+00:57:07.430 --> 00:57:09.735 align:middle line:84%
+and so we didn't put
+it in the curriculum.
+
+00:57:09.735 --> 00:57:11.860 align:middle line:84%
+And we're a lot better at
+doing the kinds of things
+
+00:57:11.860 --> 00:57:13.902 align:middle line:84%
+we've done before than
+doing new kinds of things.
+
+00:57:13.902 --> 00:57:16.023 align:middle line:90%
+
+
+00:57:16.023 --> 00:57:16.690 align:middle line:90%
+All right, good.
+
+00:57:16.690 --> 00:57:19.460 align:middle line:84%
+Were there other observations
+or thoughts that people had?
+
+00:57:19.460 --> 00:57:22.990 align:middle line:84%
+AUDIENCE: I think
+technology can bring
+
+00:57:22.990 --> 00:57:24.710 align:middle line:84%
+about a change in
+the legal system.
+
+00:57:24.710 --> 00:57:28.360 align:middle line:90%
+So a lot of people--
+
+00:57:28.360 --> 00:57:31.720 align:middle line:84%
+lawyers spend a lot of time
+reading stuff and building
+
+00:57:31.720 --> 00:57:34.790 align:middle line:90%
+upon that for a specific case.
+
+00:57:34.790 --> 00:57:38.070 align:middle line:84%
+And that's what
+determines their career.
+
+00:57:38.070 --> 00:57:41.490 align:middle line:84%
+How big you get depends
+on how much you've read,
+
+00:57:41.490 --> 00:57:42.960 align:middle line:90%
+how much you have experienced.
+
+00:57:42.960 --> 00:57:47.300 align:middle line:84%
+So if all this knowledge is
+readily available to them
+
+00:57:47.300 --> 00:57:50.570 align:middle line:84%
+for a specific test
+case, then probably it's
+
+00:57:50.570 --> 00:57:53.078 align:middle line:84%
+going to make their
+lives much more easier.
+
+00:57:53.078 --> 00:57:53.870 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:57:53.870 --> 00:57:58.220 align:middle line:84%
+I think some of framework that
+Levy and Murnane offer also
+
+00:57:58.220 --> 00:58:00.905 align:middle line:84%
+help us think about, what
+kinds of things will lawyers
+
+00:58:00.905 --> 00:58:02.280 align:middle line:84%
+need to be good
+at in the future?
+
+00:58:02.280 --> 00:58:04.670 align:middle line:84%
+To me, it strikes
+me as very unlikely
+
+00:58:04.670 --> 00:58:09.230 align:middle line:84%
+that computers will have much
+impact on the part of trial
+
+00:58:09.230 --> 00:58:13.910 align:middle line:84%
+lawyer work, which is
+convincing juries of things.
+
+00:58:13.910 --> 00:58:16.250 align:middle line:84%
+The people who actually
+get in front of juries
+
+00:58:16.250 --> 00:58:19.730 align:middle line:84%
+and try cases and things
+like that, it's very unlikely
+
+00:58:19.730 --> 00:58:21.830 align:middle line:84%
+that we'll have AI
+machines that generate
+
+00:58:21.830 --> 00:58:24.290 align:middle line:84%
+scripts for them or things
+like that because that kind
+
+00:58:24.290 --> 00:58:26.390 align:middle line:84%
+of persuasive,
+complex communication
+
+00:58:26.390 --> 00:58:28.550 align:middle line:84%
+seems to be the domain
+in which human beings are
+
+00:58:28.550 --> 00:58:30.260 align:middle line:90%
+most specialized at.
+
+00:58:30.260 --> 00:58:34.140 align:middle line:84%
+We probably-- expert thinking
+seems to be the domain
+
+00:58:34.140 --> 00:58:34.640 align:middle line:90%
+in which--
+
+00:58:34.640 --> 00:58:39.170 align:middle line:90%
+
+
+00:58:39.170 --> 00:58:41.270 align:middle line:84%
+are people going to
+write AI software that
+
+00:58:41.270 --> 00:58:43.250 align:middle line:90%
+detects tax loopholes?
+
+00:58:43.250 --> 00:58:44.360 align:middle line:90%
+Absolutely.
+
+00:58:44.360 --> 00:58:48.560 align:middle line:84%
+Somebody is going to come up
+with all kinds of new ways
+
+00:58:48.560 --> 00:58:50.960 align:middle line:84%
+that are much faster than
+humans at finding ways
+
+00:58:50.960 --> 00:58:52.850 align:middle line:90%
+to defeat the tax code.
+
+00:58:52.850 --> 00:58:58.190 align:middle line:84%
+But there probably still
+will be human beings who
+
+00:58:58.190 --> 00:59:00.470 align:middle line:84%
+are much better at
+machines, at recognizing,
+
+00:59:00.470 --> 00:59:06.030 align:middle line:84%
+oh, well, this part might be
+slightly strictly illegal,
+
+00:59:06.030 --> 00:59:11.040 align:middle line:84%
+but because of the way-- or
+its legality is not tested,
+
+00:59:11.040 --> 00:59:13.220 align:middle line:84%
+but I happen to know,
+because of everything that I
+
+00:59:13.220 --> 00:59:15.600 align:middle line:84%
+know about the
+functioning of society,
+
+00:59:15.600 --> 00:59:17.900 align:middle line:84%
+that this is a particularly
+weak point in the tax code
+
+00:59:17.900 --> 00:59:22.670 align:middle line:84%
+and would be a good
+place to shelter profits
+
+00:59:22.670 --> 00:59:24.470 align:middle line:90%
+and those kinds of things.
+
+00:59:24.470 --> 00:59:26.860 align:middle line:84%
+And then there does seem
+to be some kind of--
+
+00:59:26.860 --> 00:59:31.310 align:middle line:84%
+the more a legal task veers
+into the routine category,
+
+00:59:31.310 --> 00:59:34.888 align:middle line:84%
+the more it's, hey,
+we just need to know
+
+00:59:34.888 --> 00:59:37.180 align:middle line:84%
+how many times in these
+documents these things are said
+
+00:59:37.180 --> 00:59:38.330 align:middle line:90%
+or something like that.
+
+00:59:38.330 --> 00:59:41.540 align:middle line:84%
+But, I mean, to me, it's useful
+to recognize that, I mean,
+
+00:59:41.540 --> 00:59:47.230 align:middle line:84%
+people were stressed
+about that in 2017
+
+00:59:47.230 --> 00:59:49.010 align:middle line:84%
+with the machine
+learning technology.
+
+00:59:49.010 --> 00:59:51.590 align:middle line:84%
+So there are still lawyers
+in the United States.
+
+00:59:51.590 --> 00:59:52.930 align:middle line:90%
+There are still law schools.
+
+00:59:52.930 --> 00:59:55.210 align:middle line:84%
+Our legal system
+has not profoundly
+
+00:59:55.210 --> 00:59:58.840 align:middle line:84%
+changed from what
+machine learning offered.
+
+00:59:58.840 --> 01:00:02.530 align:middle line:84%
+In fact, I think legal education
+has probably barely changed
+
+01:00:02.530 --> 01:00:04.870 align:middle line:84%
+at all on the basis of these
+things, except maybe you
+
+01:00:04.870 --> 01:00:05.540 align:middle line:90%
+could take an--
+
+01:00:05.540 --> 01:00:06.410 align:middle line:90%
+I don't know this for sure.
+
+01:00:06.410 --> 01:00:07.370 align:middle line:90%
+I have no expertise in this.
+
+01:00:07.370 --> 01:00:08.830 align:middle line:84%
+But I assume you
+could, take an elective
+
+01:00:08.830 --> 01:00:11.205 align:middle line:84%
+in computers in the law or
+something like that or machine
+
+01:00:11.205 --> 01:00:14.260 align:middle line:84%
+learning and the law now you
+wouldn't be able to do before.
+
+01:00:14.260 --> 01:00:16.030 align:middle line:90%
+Do you guys have thoughts?
+
+01:00:16.030 --> 01:00:18.050 align:middle line:90%
+AUDIENCE: Yeah.
+
+01:00:18.050 --> 01:00:20.830 align:middle line:84%
+In terms of when you initially
+say back about lawyers
+
+01:00:20.830 --> 01:00:23.060 align:middle line:84%
+and not being able
+to generate scripts,
+
+01:00:23.060 --> 01:00:25.960 align:middle line:90%
+yeah, I would very much agree.
+
+01:00:25.960 --> 01:00:28.960 align:middle line:84%
+There's actually a case
+where I think two lawyers got
+
+01:00:28.960 --> 01:00:29.865 align:middle line:90%
+heavily sanctioned--
+
+01:00:29.865 --> 01:00:31.240 align:middle line:84%
+I think it was
+with the airport--
+
+01:00:31.240 --> 01:00:32.615 align:middle line:84%
+where they pretty
+much just tried
+
+01:00:32.615 --> 01:00:35.260 align:middle line:84%
+to generate an entire script,
+purely through ChatGPT.
+
+01:00:35.260 --> 01:00:36.920 align:middle line:84%
+JUSTIN REICH: I think
+it was a filing,
+
+01:00:36.920 --> 01:00:40.840 align:middle line:84%
+and I think the filing included
+fake citations and stuff
+
+01:00:40.840 --> 01:00:43.160 align:middle line:84%
+like that, which is
+really not the best.
+
+01:00:43.160 --> 01:00:45.160 align:middle line:84%
+AUDIENCE: Yeah, and you
+could definitely see it,
+
+01:00:45.160 --> 01:00:46.910 align:middle line:84%
+where basically,
+if you give it--
+
+01:00:46.910 --> 01:00:50.560 align:middle line:84%
+you could basically make a much
+better search database using--
+
+01:00:50.560 --> 01:00:53.620 align:middle line:84%
+if you happen to stick in
+all these thousands of cases
+
+01:00:53.620 --> 01:00:57.370 align:middle line:84%
+where all these lawyers are
+pretty much having decisions
+
+01:00:57.370 --> 01:01:02.110 align:middle line:84%
+that change, and maybe one
+that benefits your stance
+
+01:01:02.110 --> 01:01:05.600 align:middle line:84%
+could have been ruled on
+earlier on in that year.
+
+01:01:05.600 --> 01:01:07.430 align:middle line:84%
+Maybe it's for the
+specific county,
+
+01:01:07.430 --> 01:01:09.400 align:middle line:90%
+there is something different.
+
+01:01:09.400 --> 01:01:11.142 align:middle line:84%
+I definitely see
+that in the future--
+
+01:01:11.142 --> 01:01:13.100 align:middle line:84%
+I don't know-- even if
+within that five years--
+
+01:01:13.100 --> 01:01:15.970 align:middle line:84%
+JUSTIN REICH: Yeah,
+being able to do
+
+01:01:15.970 --> 01:01:18.980 align:middle line:84%
+scans of precedents for a
+case or something like that.
+
+01:01:18.980 --> 01:01:19.690 align:middle line:90%
+AUDIENCE: Yeah.
+
+01:01:19.690 --> 01:01:21.190 align:middle line:84%
+JUSTIN REICH: Maybe
+one other domain
+
+01:01:21.190 --> 01:01:23.770 align:middle line:84%
+we should talk about
+before we head out is just,
+
+01:01:23.770 --> 01:01:25.990 align:middle line:84%
+one of the biggest
+places in which we
+
+01:01:25.990 --> 01:01:28.900 align:middle line:84%
+will see pushes in the K-12
+education system with new tools
+
+01:01:28.900 --> 01:01:33.708 align:middle line:84%
+will be in formative
+feedback for writing.
+
+01:01:33.708 --> 01:01:35.250 align:middle line:84%
+There are many, many
+people right now
+
+01:01:35.250 --> 01:01:37.050 align:middle line:84%
+who are building
+systems so that you
+
+01:01:37.050 --> 01:01:39.480 align:middle line:84%
+assign students to write an
+essay, they turn in the essay
+
+01:01:39.480 --> 01:01:40.560 align:middle line:90%
+to you--
+
+01:01:40.560 --> 01:01:42.570 align:middle line:84%
+or before they turn
+in the essay to you,
+
+01:01:42.570 --> 01:01:44.910 align:middle line:84%
+you offer a bunch of
+formative feedback.
+
+01:01:44.910 --> 01:01:48.730 align:middle line:84%
+And I'm very interested in the
+development of these systems.
+
+01:01:48.730 --> 01:01:53.830 align:middle line:84%
+I was talking with someone
+who's building one at UC Irvine,
+
+01:01:53.830 --> 01:01:56.490 align:middle line:84%
+and I guess I was reading
+about some others, too.
+
+01:01:56.490 --> 01:01:59.220 align:middle line:84%
+It struck me that one of the
+things that these systems have
+
+01:01:59.220 --> 01:02:04.050 align:middle line:84%
+the capacity of doing is
+saying something like, here are
+
+01:02:04.050 --> 01:02:06.840 align:middle line:84%
+10 or 15 or 100
+things that I want
+
+01:02:06.840 --> 01:02:10.230 align:middle line:90%
+you to check for every essay.
+
+01:02:10.230 --> 01:02:14.490 align:middle line:84%
+Does the paragraph start
+with a topic sentence?
+
+01:02:14.490 --> 01:02:16.230 align:middle line:84%
+Is there a transition
+sentence between?
+
+01:02:16.230 --> 01:02:18.250 align:middle line:84%
+Does the paragraph seem
+like it has evidence?
+
+01:02:18.250 --> 01:02:20.790 align:middle line:84%
+Does the introduction
+appear to have a thesis?
+
+01:02:20.790 --> 01:02:24.030 align:middle line:84%
+Does the conclusion tie-- you
+can think about all the things
+
+01:02:24.030 --> 01:02:26.130 align:middle line:84%
+that you've ever
+been taught to write.
+
+01:02:26.130 --> 01:02:28.590 align:middle line:84%
+A thing that I'm
+really interested in
+
+01:02:28.590 --> 01:02:30.287 align:middle line:90%
+is that, my hunch is--
+
+01:02:30.287 --> 01:02:32.870 align:middle line:84%
+I mean, I thought about these a
+lot because a lot of what I do
+
+01:02:32.870 --> 01:02:35.510 align:middle line:84%
+is grade writing, give
+feedback on writing--
+
+01:02:35.510 --> 01:02:39.360 align:middle line:84%
+is that some of this seems
+intuitively helpful to me.
+
+01:02:39.360 --> 01:02:42.690 align:middle line:84%
+Oh, it would be great if I
+could just tell students, hey,
+
+01:02:42.690 --> 01:02:44.750 align:middle line:84%
+before you turn in
+your assignment,
+
+01:02:44.750 --> 01:02:47.198 align:middle line:84%
+go run it through this
+thing and make sure
+
+01:02:47.198 --> 01:02:48.740 align:middle line:84%
+that the beginning
+of every paragraph
+
+01:02:48.740 --> 01:02:50.570 align:middle line:84%
+has a topic sentence,
+even better than a topic
+
+01:02:50.570 --> 01:02:51.810 align:middle line:84%
+sentence, some kind
+of mini thesis,
+
+01:02:51.810 --> 01:02:54.140 align:middle line:84%
+something that presents the
+argument of the paragraph.
+
+01:02:54.140 --> 01:02:55.730 align:middle line:84%
+But I was thinking,
+too, probably
+
+01:02:55.730 --> 01:03:00.290 align:middle line:84%
+the most important thing that
+I do when I give feedback
+
+01:03:00.290 --> 01:03:04.640 align:middle line:84%
+to someone is figure
+out, of the dozens
+
+01:03:04.640 --> 01:03:06.830 align:middle line:84%
+of things I could
+comment on, which one
+
+01:03:06.830 --> 01:03:08.028 align:middle line:90%
+I will choose to comment on.
+
+01:03:08.028 --> 01:03:10.070 align:middle line:84%
+One of the things I've
+learned about as a writing
+
+01:03:10.070 --> 01:03:12.380 align:middle line:84%
+teacher over the years
+is, it is really not
+
+01:03:12.380 --> 01:03:15.442 align:middle line:84%
+helpful to tell
+someone everything they
+
+01:03:15.442 --> 01:03:17.900 align:middle line:84%
+can prove in their essay because
+that's just too much stuff
+
+01:03:17.900 --> 01:03:18.420 align:middle line:90%
+to work on.
+
+01:03:18.420 --> 01:03:19.670 align:middle line:90%
+I mean, you guys know that I--
+
+01:03:19.670 --> 01:03:22.520 align:middle line:84%
+I mean, I used to have people
+turn in printed essays,
+
+01:03:22.520 --> 01:03:25.250 align:middle line:84%
+and I used to make marks on
+them and things like that.
+
+01:03:25.250 --> 01:03:27.140 align:middle line:84%
+But I found over the
+years, really what
+
+01:03:27.140 --> 01:03:30.080 align:middle line:84%
+I want to do is be like, these
+are the two things that you
+
+01:03:30.080 --> 01:03:31.220 align:middle line:90%
+want to work on.
+
+01:03:31.220 --> 01:03:34.650 align:middle line:84%
+And how do I decide what
+those two things are?
+
+01:03:34.650 --> 01:03:38.030 align:middle line:84%
+I have in my head a model
+of people's developmental
+
+01:03:38.030 --> 01:03:38.730 align:middle line:90%
+trajectory.
+
+01:03:38.730 --> 01:03:43.052 align:middle line:84%
+And some of that model is
+based on all MIT students ever.
+
+01:03:43.052 --> 01:03:44.760 align:middle line:84%
+When I see an essay
+that looks like this,
+
+01:03:44.760 --> 01:03:46.310 align:middle line:84%
+I'm pretty sure that the next
+thing they should work on
+
+01:03:46.310 --> 01:03:46.770 align:middle line:90%
+is blank.
+
+01:03:46.770 --> 01:03:48.978 align:middle line:84%
+And then as soon as I've
+gotten two pieces of writing
+
+01:03:48.978 --> 01:03:50.730 align:middle line:84%
+from someone, then
+I can be like, well,
+
+01:03:50.730 --> 01:03:52.470 align:middle line:84%
+the thing you were working
+on last time was this.
+
+01:03:52.470 --> 01:03:53.730 align:middle line:90%
+Why don't you work on it more?
+
+01:03:53.730 --> 01:03:55.522 align:middle line:84%
+Here's the next thing
+after that to work on
+
+01:03:55.522 --> 01:03:56.690 align:middle line:90%
+or something like that.
+
+01:03:56.690 --> 01:03:59.130 align:middle line:84%
+That seems like the
+kind of discernment--
+
+01:03:59.130 --> 01:04:01.640 align:middle line:84%
+it seems way, way
+easier to me to program
+
+01:04:01.640 --> 01:04:06.170 align:middle line:84%
+a machine that can find
+every kind of problem
+
+01:04:06.170 --> 01:04:08.438 align:middle line:84%
+than it is to program a
+machine that can figure out,
+
+01:04:08.438 --> 01:04:10.730 align:middle line:84%
+what are the next two problems
+you should be working on
+
+01:04:10.730 --> 01:04:13.360 align:middle line:84%
+as a learner based
+on who you are,
+
+01:04:13.360 --> 01:04:15.110 align:middle line:84%
+or where I think you're
+heading, or what's
+
+01:04:15.110 --> 01:04:17.160 align:middle line:84%
+important in my class, or
+other things like that.
+
+01:04:17.160 --> 01:04:18.618 align:middle line:84%
+AUDIENCE: I feel
+like that opens up
+
+01:04:18.618 --> 01:04:22.250 align:middle line:84%
+the idea of breaking out of
+the trap of routine assessment.
+
+01:04:22.250 --> 01:04:24.900 align:middle line:84%
+If a computer can do
+those type of things,
+
+01:04:24.900 --> 01:04:27.200 align:middle line:84%
+then maybe teachers
+can now focus more on,
+
+01:04:27.200 --> 01:04:28.820 align:middle line:90%
+what does revision look like?
+
+01:04:28.820 --> 01:04:32.085 align:middle line:84%
+So a student goes
+through an essay
+
+01:04:32.085 --> 01:04:34.460 align:middle line:84%
+or writes an essay and then
+puts it through this machine,
+
+01:04:34.460 --> 01:04:38.680 align:middle line:84%
+and the machine tells you, oh,
+in these introduction sentences,
+
+01:04:38.680 --> 01:04:40.970 align:middle line:84%
+they could be stronger
+in X, Y, and Z ways.
+
+01:04:40.970 --> 01:04:43.300 align:middle line:84%
+And how do you develop those
+critical thinking skills
+
+01:04:43.300 --> 01:04:48.700 align:middle line:84%
+to take something and feedback
+and perform it-- or change it
+
+01:04:48.700 --> 01:04:49.310 align:middle line:90%
+in some way?
+
+01:04:49.310 --> 01:04:50.590 align:middle line:84%
+Like you're always
+saying, anything
+
+01:04:50.590 --> 01:04:52.632 align:middle line:84%
+that you've published was
+never your first draft,
+
+01:04:52.632 --> 01:04:55.270 align:middle line:84%
+or you said, on day
+one, of your good skills
+
+01:04:55.270 --> 01:04:58.130 align:middle line:84%
+was being able to just
+get down a first draft.
+
+01:04:58.130 --> 01:04:59.810 align:middle line:90%
+ChatGPT can do the same for you.
+
+01:04:59.810 --> 01:05:02.440 align:middle line:84%
+But how do we teach
+people in a world
+
+01:05:02.440 --> 01:05:04.310 align:middle line:84%
+where AI can give
+you that baseline?
+
+01:05:04.310 --> 01:05:10.610 align:middle line:84%
+How do we elevate it to a status
+that is acceptable for a human?
+
+01:05:10.610 --> 01:05:13.190 align:middle line:84%
+I feel like AI can
+give us a baseline,
+
+01:05:13.190 --> 01:05:15.880 align:middle line:84%
+but humans take that
+imagination and creativity
+
+01:05:15.880 --> 01:05:16.880 align:middle line:90%
+to that next step.
+
+01:05:16.880 --> 01:05:19.842 align:middle line:84%
+And so you can take the
+idea of, here's an essay.
+
+01:05:19.842 --> 01:05:21.800 align:middle line:84%
+How would you change it
+to make it even better?
+
+01:05:21.800 --> 01:05:22.592 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+01:05:22.592 --> 01:05:25.370 align:middle line:84%
+For these writing
+software developers,
+
+01:05:25.370 --> 01:05:27.910 align:middle line:84%
+I mean, a big-- well, when I
+talk to them, I think about,
+
+01:05:27.910 --> 01:05:30.770 align:middle line:84%
+what is the whole system
+that you're constructing?
+
+01:05:30.770 --> 01:05:34.820 align:middle line:84%
+Not every capacity that you
+build will end up being useful,
+
+01:05:34.820 --> 01:05:37.120 align:middle line:84%
+not just because it doesn't
+work, but because using it
+
+01:05:37.120 --> 01:05:37.953 align:middle line:90%
+is not that helpful.
+
+01:05:37.953 --> 01:05:40.450 align:middle line:84%
+You start thinking
+things like, all right,
+
+01:05:40.450 --> 01:05:44.260 align:middle line:84%
+what if there were these
+formative feedback systems where
+
+01:05:44.260 --> 01:05:51.492 align:middle line:84%
+I as the instructor can say, OK,
+start this package of machines
+
+01:05:51.492 --> 01:05:52.450 align:middle line:90%
+or something like that?
+
+01:05:52.450 --> 01:05:56.050 align:middle line:84%
+Or I select in
+advance that I want
+
+01:05:56.050 --> 01:06:00.040 align:middle line:84%
+the machine to automatically
+give you formative feedback
+
+01:06:00.040 --> 01:06:00.770 align:middle line:90%
+on these things.
+
+01:06:00.770 --> 01:06:02.180 align:middle line:84%
+And then on this
+other class of things,
+
+01:06:02.180 --> 01:06:04.030 align:middle line:84%
+I want you to show me the
+feedback that you would give
+
+01:06:04.030 --> 01:06:06.320 align:middle line:84%
+to a student, but I will
+pick from those things,
+
+01:06:06.320 --> 01:06:08.590 align:middle line:84%
+and then there'll be some
+way for me to add to it.
+
+01:06:08.590 --> 01:06:10.990 align:middle line:84%
+Some of those
+human-machine combinations
+
+01:06:10.990 --> 01:06:12.460 align:middle line:90%
+seem pretty exciting to me.
+
+01:06:12.460 --> 01:06:13.390 align:middle line:90%
+Good.
+
+01:06:13.390 --> 01:06:17.790 align:middle line:84%
+Well, why don't we
+wrap there for the day?
+
+01:06:17.790 --> 01:06:26.000 align:middle line:90%

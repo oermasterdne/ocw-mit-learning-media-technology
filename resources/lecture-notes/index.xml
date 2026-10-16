@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session 1: Welcome to Learning, Media, and Technology</title>
+      <link>/resources/mitcms_595_s24_ses1_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses1_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 1: Welcome to Learning, Media, and Technology Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses1_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses1_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 12: Innovation and Access in Online Learning</title>
+      <link>/resources/mitcms_595_s24_ses12_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses12_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 12: Innovation and Access in Online Learning (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses12_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses12_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 14: Learning Games</title>
+      <link>/resources/mitcms_595_s24_ses14_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses14_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 14: Learning Games Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses14_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses14_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 16: Start-Up and the Curse of the Familiar</title>
+      <link>/resources/mitcms_595_s24_ses16_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses16_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 16: Start-Up and the Curse of the Familiar Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses16_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses16_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 2: Cognitive Load Theory</title>
+      <link>/resources/mitcms_595_s24_ses2_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses2_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 2: Cognitive Load Theory Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses2_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses2_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 3: Situated Learning</title>
+      <link>/resources/mitcms_595_s24_ses3_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses3_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 3: Situated Learning Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses3_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses3_pptx/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 9: Massive Online Open Courses</title>
+      <link>/resources/mitcms_595_s24_ses9_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses9_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 9: Massive Online Open Courses Slides (PPTX)</title>
+      <link>/resources/mitcms_595_s24_ses9_pptx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitcms_595_s24_ses9_pptx/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

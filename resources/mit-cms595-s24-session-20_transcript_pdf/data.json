@@ -1,0 +1,36 @@
+{
+  "audience": [],
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1DhKSGUZNPSNOKZxi6aAOho5_820XkU3Z_transcript.pdf",
+  "file_size": 118937,
+  "file_type": "application/pdf",
+  "gdrive_url": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "resourcetype": "Document",
+  "title": "20. The Toxic Power of Data and Experiment transcript",
+  "uid": "53ea44d4-7e55-4948-b5f1-70c65023d296",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

@@ -1,0 +1,6360 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.455 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.455 --> 00:00:03.928 align:middle line:90%
+[RUSTLING]
+
+00:00:03.928 --> 00:00:05.401 align:middle line:90%
+[CLICKING]
+
+00:00:05.401 --> 00:00:12.770 align:middle line:90%
+
+
+00:00:12.770 --> 00:00:13.700 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:00:13.700 --> 00:00:16.610 align:middle line:90%
+All right.
+
+00:00:16.610 --> 00:00:25.970 align:middle line:84%
+So we're heading in to our
+last of the as-yet intractable
+
+00:00:25.970 --> 00:00:26.520 align:middle line:90%
+dilemmas.
+
+00:00:26.520 --> 00:00:28.895 align:middle line:84%
+We talked about the curse of
+the familiar, EdTech Matthew
+
+00:00:28.895 --> 00:00:31.620 align:middle line:84%
+Effect, the trap of
+routine assessment,
+
+00:00:31.620 --> 00:00:36.350 align:middle line:84%
+and, today, the toxic power
+of data and experiment.
+
+00:00:36.350 --> 00:00:38.790 align:middle line:90%
+Let's do this as an exercise.
+
+00:00:38.790 --> 00:00:40.380 align:middle line:90%
+Grab one other person.
+
+00:00:40.380 --> 00:00:44.780 align:middle line:84%
+Your goal is to make a
+list as long as possible.
+
+00:00:44.780 --> 00:00:50.850 align:middle line:84%
+What is all the data
+that MIT has about you?
+
+00:00:50.850 --> 00:00:54.810 align:middle line:84%
+If you could go through
+every server that is somehow
+
+00:00:54.810 --> 00:00:58.520 align:middle line:84%
+even tangentially under
+the control of MIT,
+
+00:00:58.520 --> 00:01:02.120 align:middle line:84%
+what are all the different
+types and sources
+
+00:01:02.120 --> 00:01:05.670 align:middle line:84%
+and nature and example of
+data that MIT has about you?
+
+00:01:05.670 --> 00:01:06.840 align:middle line:90%
+Does that make sense?
+
+00:01:06.840 --> 00:01:09.840 align:middle line:84%
+Make the list as long as
+you can, as fast as you can.
+
+00:01:09.840 --> 00:01:10.340 align:middle line:90%
+Ready?
+
+00:01:10.340 --> 00:01:13.040 align:middle line:90%
+Go.
+
+00:01:13.040 --> 00:01:15.540 align:middle line:90%
+All right.
+
+00:01:15.540 --> 00:01:20.507 align:middle line:84%
+Let's start aggregating some
+big categories of things.
+
+00:01:20.507 --> 00:01:21.840 align:middle line:90%
+AUDIENCE: Financial information.
+
+00:01:21.840 --> 00:01:24.540 align:middle line:84%
+JUSTIN REICH: So they have a
+lot of financial information.
+
+00:01:24.540 --> 00:01:27.020 align:middle line:84%
+Maybe just what
+are a few examples
+
+00:01:27.020 --> 00:01:31.972 align:middle line:84%
+of some of the most sensitive
+or personal parts of that?
+
+00:01:31.972 --> 00:01:33.887 align:middle line:90%
+They know your parents' income.
+
+00:01:33.887 --> 00:01:35.220 align:middle line:90%
+AUDIENCE: They know your income.
+
+00:01:35.220 --> 00:01:36.190 align:middle line:90%
+JUSTIN REICH: Your income.
+
+00:01:36.190 --> 00:01:37.820 align:middle line:84%
+AUDIENCE: They know
+your bank account.
+
+00:01:37.820 --> 00:01:38.850 align:middle line:90%
+JUSTIN REICH: Bank account.
+
+00:01:38.850 --> 00:01:40.308 align:middle line:84%
+They know your bank
+account number,
+
+00:01:40.308 --> 00:01:41.590 align:middle line:90%
+or you give them literally--
+
+00:01:41.590 --> 00:01:41.880 align:middle line:90%
+AUDIENCE: Yeah.
+
+00:01:41.880 --> 00:01:43.797 align:middle line:84%
+JUSTIN REICH: But they
+don't have a screenshot
+
+00:01:43.797 --> 00:01:45.420 align:middle line:90%
+of your [INAUDIBLE].
+
+00:01:45.420 --> 00:01:48.020 align:middle line:84%
+So they know a lot of
+financial things about you.
+
+00:01:48.020 --> 00:01:49.622 align:middle line:90%
+What are some other categories?
+
+00:01:49.622 --> 00:01:50.330 align:middle line:90%
+AUDIENCE: Health.
+
+00:01:50.330 --> 00:01:53.120 align:middle line:90%
+
+
+00:01:53.120 --> 00:01:55.670 align:middle line:84%
+JUSTIN REICH: What are some
+sensitive things in there?
+
+00:01:55.670 --> 00:01:57.350 align:middle line:90%
+AUDIENCE: History.
+
+00:01:57.350 --> 00:01:59.030 align:middle line:90%
+JUSTIN REICH: History.
+
+00:01:59.030 --> 00:02:00.350 align:middle line:90%
+AUDIENCE: Vaccinations.
+
+00:02:00.350 --> 00:02:03.740 align:middle line:84%
+JUSTIN REICH: Vaccinations,
+prescriptions.
+
+00:02:03.740 --> 00:02:04.650 align:middle line:90%
+AUDIENCE: Allergies.
+
+00:02:04.650 --> 00:02:08.638 align:middle line:84%
+JUSTIN REICH: Allergies,
+mental health visits.
+
+00:02:08.638 --> 00:02:09.680 align:middle line:90%
+AUDIENCE: Your insurance.
+
+00:02:09.680 --> 00:02:11.450 align:middle line:90%
+JUSTIN REICH: Insurance.
+
+00:02:11.450 --> 00:02:13.400 align:middle line:84%
+AUDIENCE: You can also
+tell if people are LGBT
+
+00:02:13.400 --> 00:02:16.070 align:middle line:90%
+from their medical records.
+
+00:02:16.070 --> 00:02:22.890 align:middle line:84%
+JUSTIN REICH: Sexual
+orientation, activity.
+
+00:02:22.890 --> 00:02:24.656 align:middle line:90%
+What else you got?
+
+00:02:24.656 --> 00:02:28.358 align:middle line:84%
+AUDIENCE: Personal information,
+like your name and age.
+
+00:02:28.358 --> 00:02:29.150 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:02:29.150 --> 00:02:32.225 align:middle line:84%
+Let's call it
+registrar information.
+
+00:02:32.225 --> 00:02:33.600 align:middle line:84%
+AUDIENCE: Social
+Security number.
+
+00:02:33.600 --> 00:02:34.808 align:middle line:90%
+Yeah, Social Security number.
+
+00:02:34.808 --> 00:02:37.325 align:middle line:84%
+JUSTIN REICH:
+Address, SSN, phone.
+
+00:02:37.325 --> 00:02:40.970 align:middle line:90%
+
+
+00:02:40.970 --> 00:02:44.840 align:middle line:84%
+AUDIENCE: Oh, they might
+have their travel data.
+
+00:02:44.840 --> 00:02:46.987 align:middle line:84%
+AUDIENCE: Yeah, if
+[INAUDIBLE] your travels.
+
+00:02:46.987 --> 00:02:48.320 align:middle line:90%
+AUDIENCE: You have to register--
+
+00:02:48.320 --> 00:02:50.660 align:middle line:84%
+AUDIENCE: If you
+register it yourself--
+
+00:02:50.660 --> 00:02:52.880 align:middle line:90%
+AUDIENCE: Oh, really?
+
+00:02:52.880 --> 00:02:55.317 align:middle line:90%
+AUDIENCE: MIT knows what I did.
+
+00:02:55.317 --> 00:02:57.400 align:middle line:84%
+AUDIENCE: Especially if
+you've been international.
+
+00:02:57.400 --> 00:02:59.770 align:middle line:84%
+If you do it through the
+school, you have to register.
+
+00:02:59.770 --> 00:03:00.720 align:middle line:90%
+AUDIENCE: You have to.
+
+00:03:00.720 --> 00:03:04.180 align:middle line:84%
+Or if you're going to a country
+that they have warnings for,
+
+00:03:04.180 --> 00:03:05.840 align:middle line:84%
+you have to be
+like, I was there.
+
+00:03:05.840 --> 00:03:09.060 align:middle line:90%
+
+
+00:03:09.060 --> 00:03:10.800 align:middle line:90%
+JUSTIN REICH: What else we got?
+
+00:03:10.800 --> 00:03:12.070 align:middle line:90%
+AUDIENCE: Academic records.
+
+00:03:12.070 --> 00:03:14.790 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:03:14.790 --> 00:03:15.840 align:middle line:90%
+That's part of it.
+
+00:03:15.840 --> 00:03:18.660 align:middle line:90%
+Academic records.
+
+00:03:18.660 --> 00:03:20.950 align:middle line:84%
+What would that
+include these days?
+
+00:03:20.950 --> 00:03:22.360 align:middle line:90%
+They know your grades.
+
+00:03:22.360 --> 00:03:23.358 align:middle line:90%
+What else?
+
+00:03:23.358 --> 00:03:25.900 align:middle line:84%
+AUDIENCE: Registrations, like
+what classes you signed up for.
+
+00:03:25.900 --> 00:03:28.020 align:middle line:90%
+JUSTIN REICH: Registration.
+
+00:03:28.020 --> 00:03:29.100 align:middle line:90%
+AUDIENCE: Test scores.
+
+00:03:29.100 --> 00:03:30.383 align:middle line:90%
+JUSTIN REICH: Test scores.
+
+00:03:30.383 --> 00:03:31.050 align:middle line:90%
+AUDIENCE: Major.
+
+00:03:31.050 --> 00:03:37.770 align:middle line:84%
+JUSTIN REICH: Every click
+ever in Canvas, attendance.
+
+00:03:37.770 --> 00:03:39.990 align:middle line:90%
+Yeah?
+
+00:03:39.990 --> 00:03:42.660 align:middle line:84%
+Academic records is
+a good example of one
+
+00:03:42.660 --> 00:03:47.370 align:middle line:84%
+in which the granularity of
+data over the last 10 years
+
+00:03:47.370 --> 00:03:49.680 align:middle line:90%
+has transformed dramatically.
+
+00:03:49.680 --> 00:03:53.260 align:middle line:84%
+If we had had this discussion in
+1980, they would have been like,
+
+00:03:53.260 --> 00:03:54.930 align:middle line:84%
+I guess they know
+what my grades were
+
+00:03:54.930 --> 00:03:57.060 align:middle line:84%
+and what classes
+I signed up for.
+
+00:03:57.060 --> 00:04:00.000 align:middle line:84%
+But the volume of data about
+every activity that you've ever
+
+00:04:00.000 --> 00:04:01.920 align:middle line:84%
+taken online in
+any of your classes
+
+00:04:01.920 --> 00:04:06.390 align:middle line:84%
+is substantially higher
+than it used to be.
+
+00:04:06.390 --> 00:04:08.350 align:middle line:84%
+Those records might not
+be maintained forever.
+
+00:04:08.350 --> 00:04:10.440 align:middle line:84%
+Maybe all those sites get
+deleted every 18 months
+
+00:04:10.440 --> 00:04:11.880 align:middle line:90%
+or so, something like that.
+
+00:04:11.880 --> 00:04:14.610 align:middle line:84%
+But some of them might be
+kept for longer for research
+
+00:04:14.610 --> 00:04:15.780 align:middle line:90%
+or other things like that.
+
+00:04:15.780 --> 00:04:17.350 align:middle line:90%
+All right, other categories?
+
+00:04:17.350 --> 00:04:21.348 align:middle line:84%
+AUDIENCE: Residential,
+home and current.
+
+00:04:21.348 --> 00:04:22.140 align:middle line:90%
+JUSTIN REICH: Home.
+
+00:04:22.140 --> 00:04:23.830 align:middle line:90%
+Let's make it even bigger.
+
+00:04:23.830 --> 00:04:26.400 align:middle line:90%
+Let's say location.
+
+00:04:26.400 --> 00:04:35.070 align:middle line:84%
+So they know your
+residence, home and campus,
+
+00:04:35.070 --> 00:04:43.470 align:middle line:84%
+track your devices on Wi-Fi,
+card swipes in buildings.
+
+00:04:43.470 --> 00:04:48.072 align:middle line:84%
+So essentially, as you
+move around campus,
+
+00:04:48.072 --> 00:04:49.530 align:middle line:84%
+somewhere, there
+are databases that
+
+00:04:49.530 --> 00:04:51.660 align:middle line:90%
+record all of those activities.
+
+00:04:51.660 --> 00:04:53.290 align:middle line:84%
+How long they maintain
+those materials,
+
+00:04:53.290 --> 00:04:55.250 align:middle line:90%
+we don't necessarily know.
+
+00:04:55.250 --> 00:04:57.000 align:middle line:84%
+I'm sure they'd tell
+us if we asked, but--
+
+00:04:57.000 --> 00:04:59.522 align:middle line:90%
+what else they got?
+
+00:04:59.522 --> 00:05:01.230 align:middle line:84%
+AUDIENCE: On that
+location, they can also
+
+00:05:01.230 --> 00:05:04.308 align:middle line:90%
+tell who you hang out with.
+
+00:05:04.308 --> 00:05:05.100 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:05:05.100 --> 00:05:06.540 align:middle line:90%
+I just learned about this today.
+
+00:05:06.540 --> 00:05:08.323 align:middle line:84%
+What's the system
+where you add people?
+
+00:05:08.323 --> 00:05:09.240 align:middle line:90%
+AUDIENCE: Guest lists.
+
+00:05:09.240 --> 00:05:09.790 align:middle line:90%
+JUSTIN REICH: OK.
+
+00:05:09.790 --> 00:05:11.373 align:middle line:84%
+So I guess if you
+live in a residence,
+
+00:05:11.373 --> 00:05:13.350 align:middle line:84%
+you create a guest
+list of people
+
+00:05:13.350 --> 00:05:15.450 align:middle line:90%
+that are allowed to visit you.
+
+00:05:15.450 --> 00:05:18.120 align:middle line:84%
+You could just reconstitute the
+entire social network of MIT
+
+00:05:18.120 --> 00:05:19.130 align:middle line:90%
+from the guest list.
+
+00:05:19.130 --> 00:05:22.230 align:middle line:90%
+
+
+00:05:22.230 --> 00:05:24.765 align:middle line:84%
+There's all kinds of things
+you could learn from that.
+
+00:05:24.765 --> 00:05:26.640 align:middle line:84%
+AUDIENCE: There's
+extracurricular activities.
+
+00:05:26.640 --> 00:05:33.670 align:middle line:84%
+So they know what sports teams
+and athletics stats on that.
+
+00:05:33.670 --> 00:05:38.063 align:middle line:84%
+And then if you signed up for
+club teams, or just clubs.
+
+00:05:38.063 --> 00:05:40.230 align:middle line:84%
+JUSTIN REICH: It would be
+all those kinds of things.
+
+00:05:40.230 --> 00:05:42.060 align:middle line:90%
+AUDIENCE: PE, as well.
+
+00:05:42.060 --> 00:05:49.140 align:middle line:84%
+JUSTIN REICH: Yeah, your gym
+membership swipes, activity.
+
+00:05:49.140 --> 00:05:50.870 align:middle line:84%
+AUDIENCE: Political
+affiliations.
+
+00:05:50.870 --> 00:05:53.370 align:middle line:84%
+JUSTIN REICH: How would they
+get your political affiliation?
+
+00:05:53.370 --> 00:05:54.580 align:middle line:84%
+AUDIENCE: Through
+your extracurriculars,
+
+00:05:54.580 --> 00:05:56.700 align:middle line:84%
+like if you're involved
+with the recent stuff
+
+00:05:56.700 --> 00:05:59.588 align:middle line:90%
+that's been going on on campus.
+
+00:05:59.588 --> 00:06:00.630 align:middle line:90%
+JUSTIN REICH: Yeah, good.
+
+00:06:00.630 --> 00:06:05.520 align:middle line:84%
+So there are
+increasingly, presumably,
+
+00:06:05.520 --> 00:06:09.800 align:middle line:84%
+lists of people who are
+affiliated with pro-Palestinian,
+
+00:06:09.800 --> 00:06:11.800 align:middle line:84%
+pro-Israeli, any of those
+other kinds of things,
+
+00:06:11.800 --> 00:06:13.660 align:middle line:84%
+but also people that have
+just been able to tell before,
+
+00:06:13.660 --> 00:06:14.368 align:middle line:90%
+if you remember--
+
+00:06:14.368 --> 00:06:17.010 align:middle line:84%
+I don't know, I assume there's
+a Democrat and Republican club
+
+00:06:17.010 --> 00:06:21.090 align:middle line:90%
+at MIT, I would imagine--
+
+00:06:21.090 --> 00:06:22.320 align:middle line:90%
+someone, somewhere.
+
+00:06:22.320 --> 00:06:23.200 align:middle line:90%
+AUDIENCE: Emails.
+
+00:06:23.200 --> 00:06:24.040 align:middle line:90%
+JUSTIN REICH: Yes.
+
+00:06:24.040 --> 00:06:26.820 align:middle line:84%
+They have the entirety
+of your email record.
+
+00:06:26.820 --> 00:06:29.820 align:middle line:84%
+AUDIENCE: Even broader,
+just online activity.
+
+00:06:29.820 --> 00:06:32.100 align:middle line:84%
+Because you have emails,
+websites, everything
+
+00:06:32.100 --> 00:06:34.200 align:middle line:90%
+you've registered for.
+
+00:06:34.200 --> 00:06:37.080 align:middle line:90%
+AUDIENCE: They also offer a VPN.
+
+00:06:37.080 --> 00:06:42.150 align:middle line:84%
+So it's secure to
+everyone but MIT.
+
+00:06:42.150 --> 00:06:44.340 align:middle line:84%
+AUDIENCE: They also
+have your Google Drive.
+
+00:06:44.340 --> 00:06:46.980 align:middle line:84%
+If you sign up for
+the MIT Google Drive,
+
+00:06:46.980 --> 00:06:49.135 align:middle line:90%
+they have all your documents.
+
+00:06:49.135 --> 00:06:50.260 align:middle line:90%
+JUSTIN REICH: Google Drive.
+
+00:06:50.260 --> 00:06:53.520 align:middle line:84%
+Yeah, I had a
+congressional committee
+
+00:06:53.520 --> 00:06:55.950 align:middle line:84%
+that wanted to find out
+more about my work, not
+
+00:06:55.950 --> 00:06:59.940 align:middle line:84%
+necessarily in a generous
+way, this past year.
+
+00:06:59.940 --> 00:07:03.630 align:middle line:84%
+And the Office of
+General Counsel
+
+00:07:03.630 --> 00:07:06.270 align:middle line:84%
+did a whole search
+throughout my email
+
+00:07:06.270 --> 00:07:09.030 align:middle line:84%
+to find terms that this
+congressional committee was
+
+00:07:09.030 --> 00:07:11.040 align:middle line:84%
+interested in
+learning more about.
+
+00:07:11.040 --> 00:07:14.470 align:middle line:84%
+And we were going
+back and forth.
+
+00:07:14.470 --> 00:07:17.260 align:middle line:84%
+And I was like, what
+do you need from me?
+
+00:07:17.260 --> 00:07:20.050 align:middle line:84%
+And they were like, well, it's
+better if you help us with this.
+
+00:07:20.050 --> 00:07:23.250 align:middle line:84%
+But either way,
+we're going to do it.
+
+00:07:23.250 --> 00:07:28.120 align:middle line:84%
+So all the records
+that you generate--
+
+00:07:28.120 --> 00:07:33.000 align:middle line:84%
+and that's a good
+example of how even--
+
+00:07:33.000 --> 00:07:36.150 align:middle line:84%
+I'm reasonably confident
+that in most circumstances--
+
+00:07:36.150 --> 00:07:38.380 align:middle line:84%
+MIT is not going through my
+email every day and like,
+
+00:07:38.380 --> 00:07:39.430 align:middle line:90%
+what's Justin up to?
+
+00:07:39.430 --> 00:07:41.130 align:middle line:90%
+They don't care.
+
+00:07:41.130 --> 00:07:44.760 align:middle line:84%
+But simply having those records
+allows all kinds of things
+
+00:07:44.760 --> 00:07:46.010 align:middle line:90%
+to happen with those records--
+
+00:07:46.010 --> 00:07:50.190 align:middle line:90%
+
+
+00:07:50.190 --> 00:07:52.145 align:middle line:84%
+do you guys have automated
+laundry machines?
+
+00:07:52.145 --> 00:07:52.770 align:middle line:90%
+AUDIENCE: Yeah.
+
+00:07:52.770 --> 00:07:55.890 align:middle line:90%
+
+
+00:07:55.890 --> 00:07:59.130 align:middle line:90%
+JUSTIN REICH: Washing frequency.
+
+00:07:59.130 --> 00:08:00.598 align:middle line:90%
+AUDIENCE: It's an app.
+
+00:08:00.598 --> 00:08:02.140 align:middle line:84%
+JUSTIN REICH: Yeah,
+it's even an app.
+
+00:08:02.140 --> 00:08:02.970 align:middle line:90%
+AUDIENCE: Yeah, it's an app.
+
+00:08:02.970 --> 00:08:04.530 align:middle line:84%
+You pay for your
+machine, and then you--
+
+00:08:04.530 --> 00:08:06.905 align:middle line:84%
+AUDIENCE: And you have to sign
+up through your MIT email.
+
+00:08:06.905 --> 00:08:08.982 align:middle line:84%
+AUDIENCE: Yeah, you have
+to do it through MIT.
+
+00:08:08.982 --> 00:08:10.440 align:middle line:84%
+JUSTIN REICH: And
+so that, I think,
+
+00:08:10.440 --> 00:08:13.020 align:middle line:90%
+also raises some questions of--
+
+00:08:13.020 --> 00:08:16.290 align:middle line:84%
+it's possible, actually, that
+MIT doesn't have your laundry
+
+00:08:16.290 --> 00:08:18.450 align:middle line:84%
+data but that MIT
+just somehow mandates
+
+00:08:18.450 --> 00:08:23.790 align:middle line:84%
+that a third party has all of
+your laundry data, which, again.
+
+00:08:23.790 --> 00:08:26.290 align:middle line:84%
+AUDIENCE: How about keys to
+your room if you live on campus?
+
+00:08:26.290 --> 00:08:27.370 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:08:27.370 --> 00:08:28.620 align:middle line:90%
+AUDIENCE: Oh, like physically.
+
+00:08:28.620 --> 00:08:32.940 align:middle line:90%
+JUSTIN REICH: Yeah-- keys.
+
+00:08:32.940 --> 00:08:35.307 align:middle line:84%
+What's good about
+them having keys?
+
+00:08:35.307 --> 00:08:36.640 align:middle line:90%
+AUDIENCE: If you get locked out.
+
+00:08:36.640 --> 00:08:37.450 align:middle line:90%
+[LAUGHTER]
+
+00:08:37.450 --> 00:08:38.242 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:08:38.242 --> 00:08:43.165 align:middle line:84%
+So if there's a day that
+you're locked out of your room,
+
+00:08:43.165 --> 00:08:44.790 align:middle line:84%
+you're going to be
+like, it is so great
+
+00:08:44.790 --> 00:08:47.340 align:middle line:84%
+that MIT knows exactly
+what key goes in my door
+
+00:08:47.340 --> 00:08:49.870 align:middle line:84%
+and can make another
+one of those.
+
+00:08:49.870 --> 00:08:52.510 align:middle line:84%
+AUDIENCE: They had room
+inspections a few weeks ago
+
+00:08:52.510 --> 00:08:54.580 align:middle line:84%
+where they went into
+every person's room
+
+00:08:54.580 --> 00:08:57.658 align:middle line:84%
+to check if they were
+abiding by the rules.
+
+00:08:57.658 --> 00:08:58.700 align:middle line:90%
+JUSTIN REICH: Yeah, good.
+
+00:08:58.700 --> 00:09:04.832 align:middle line:84%
+What might be good about room
+inspections for everyone?
+
+00:09:04.832 --> 00:09:05.540 align:middle line:90%
+AUDIENCE: Safety.
+
+00:09:05.540 --> 00:09:06.665 align:middle line:90%
+JUSTIN REICH: Yeah, safety.
+
+00:09:06.665 --> 00:09:11.537 align:middle line:84%
+If your neighbors are
+having halogen lamps that
+
+00:09:11.537 --> 00:09:13.120 align:middle line:84%
+can catch on fire
+and stuff like that,
+
+00:09:13.120 --> 00:09:16.178 align:middle line:84%
+you would be glad that
+they knew about that.
+
+00:09:16.178 --> 00:09:18.220 align:middle line:84%
+But obviously, it also
+seems like a huge invasion
+
+00:09:18.220 --> 00:09:20.120 align:middle line:90%
+of your privacy.
+
+00:09:20.120 --> 00:09:27.070 align:middle line:84%
+AUDIENCE: I would say what also
+made the room inspections better
+
+00:09:27.070 --> 00:09:31.400 align:middle line:84%
+is also you're trusting MIT
+to be responsible with it.
+
+00:09:31.400 --> 00:09:34.750 align:middle line:84%
+So they told everyone
+ahead of time,
+
+00:09:34.750 --> 00:09:38.590 align:middle line:84%
+and they made sure that
+it's a visual inspection.
+
+00:09:38.590 --> 00:09:41.120 align:middle line:84%
+Obviously, they're not
+going through your stuff.
+
+00:09:41.120 --> 00:09:43.872 align:middle line:84%
+But obviously that's not a
+thing for a lot of colleges.
+
+00:09:43.872 --> 00:09:46.330 align:middle line:84%
+A lot of colleges can just like
+come barging into your room
+
+00:09:46.330 --> 00:09:47.368 align:middle line:90%
+and look at anything.
+
+00:09:47.368 --> 00:09:48.160 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:09:48.160 --> 00:09:51.130 align:middle line:84%
+So institutions make
+choices about how--
+
+00:09:51.130 --> 00:09:52.450 align:middle line:90%
+so, hopefully, I don't know.
+
+00:09:52.450 --> 00:09:54.340 align:middle line:84%
+What kind of
+feelings do you have
+
+00:09:54.340 --> 00:09:58.464 align:middle line:84%
+when you start looking
+at this completed list?
+
+00:09:58.464 --> 00:10:01.840 align:middle line:84%
+AUDIENCE: There's
+some more I have.
+
+00:10:01.840 --> 00:10:04.070 align:middle line:84%
+The one that I've been
+thinking about lately,
+
+00:10:04.070 --> 00:10:07.280 align:middle line:84%
+given the affirmative
+action stuff,
+
+00:10:07.280 --> 00:10:10.130 align:middle line:84%
+is just general
+demographics [INAUDIBLE].
+
+00:10:10.130 --> 00:10:13.420 align:middle line:84%
+And also, something that was
+not mentioned in financial
+
+00:10:13.420 --> 00:10:19.007 align:middle line:84%
+is purchase history, so if
+you buy anything on campus.
+
+00:10:19.007 --> 00:10:20.840 align:middle line:84%
+JUSTIN REICH: They know
+you got sushi today.
+
+00:10:20.840 --> 00:10:21.610 align:middle line:90%
+AUDIENCE: Yeah.
+
+00:10:21.610 --> 00:10:28.090 align:middle line:84%
+Like, Tito and all the
+coffee stores, like Dunkin',
+
+00:10:28.090 --> 00:10:31.023 align:middle line:84%
+the ones in Forbes,
+stuff like that.
+
+00:10:31.023 --> 00:10:33.440 align:middle line:84%
+JUSTIN REICH: Yeah, particularly
+if those things somehow--
+
+00:10:33.440 --> 00:10:35.260 align:middle line:84%
+can you put money
+on your ID card
+
+00:10:35.260 --> 00:10:36.860 align:middle line:84%
+and spend directly
+from your ID card?
+
+00:10:36.860 --> 00:10:37.485 align:middle line:90%
+AUDIENCE: Yeah.
+
+00:10:37.485 --> 00:10:40.030 align:middle line:84%
+JUSTIN REICH: So
+there's two units
+
+00:10:40.030 --> 00:10:42.190 align:middle line:84%
+that we should be
+thinking about anytime
+
+00:10:42.190 --> 00:10:44.230 align:middle line:84%
+we think about school
+data is that schools
+
+00:10:44.230 --> 00:10:48.100 align:middle line:84%
+have a bunch of data, and then
+schools authorize third parties
+
+00:10:48.100 --> 00:10:49.490 align:middle line:90%
+to get a bunch of data.
+
+00:10:49.490 --> 00:10:53.510 align:middle line:84%
+And sometimes only the
+third party has access.
+
+00:10:53.510 --> 00:10:55.220 align:middle line:84%
+Sometimes both
+parties have access.
+
+00:10:55.220 --> 00:10:57.820 align:middle line:84%
+Like, both Canvas and
+MIT people have access
+
+00:10:57.820 --> 00:10:59.330 align:middle line:90%
+to all of your Canvas data.
+
+00:10:59.330 --> 00:11:02.428 align:middle line:84%
+The laundry app might
+be a good example of--
+
+00:11:02.428 --> 00:11:04.720 align:middle line:84%
+if somebody told me that the
+maintenance department had
+
+00:11:04.720 --> 00:11:07.345 align:middle line:84%
+access to all the laundry data,
+or IT, I wouldn't be surprised.
+
+00:11:07.345 --> 00:11:08.803 align:middle line:84%
+But if they were
+like, yeah, no, we
+
+00:11:08.803 --> 00:11:11.410 align:middle line:84%
+make you sign up with an email,
+but only the laundry people
+
+00:11:11.410 --> 00:11:14.440 align:middle line:84%
+know your laundry data, that
+wouldn't surprise me, either.
+
+00:11:14.440 --> 00:11:17.500 align:middle line:84%
+But those are two useful,
+salient categories
+
+00:11:17.500 --> 00:11:20.590 align:middle line:84%
+that will come up as we
+keep talking about things.
+
+00:11:20.590 --> 00:11:22.270 align:middle line:90%
+AUDIENCE: Your deliveries, too.
+
+00:11:22.270 --> 00:11:25.643 align:middle line:84%
+AUDIENCE: Oh, yeah,
+your mail deliveries.
+
+00:11:25.643 --> 00:11:28.060 align:middle line:84%
+JUSTIN REICH: Oh, because
+things go through the mail room?
+
+00:11:28.060 --> 00:11:28.685 align:middle line:90%
+AUDIENCE: Yeah.
+
+00:11:28.685 --> 00:11:33.610 align:middle line:84%
+So they store all of your
+information and your deliveries
+
+00:11:33.610 --> 00:11:37.390 align:middle line:84%
+into a tracker system and then
+send you emails of your delivery
+
+00:11:37.390 --> 00:11:37.950 align:middle line:90%
+has come in.
+
+00:11:37.950 --> 00:11:38.810 align:middle line:90%
+You need to pick it up.
+
+00:11:38.810 --> 00:11:39.040 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:11:39.040 --> 00:11:39.540 align:middle line:90%
+Yeah.
+
+00:11:39.540 --> 00:11:42.190 align:middle line:84%
+And so, typically,
+the data is exchanged
+
+00:11:42.190 --> 00:11:43.420 align:middle line:90%
+for some kind of service.
+
+00:11:43.420 --> 00:11:45.400 align:middle line:84%
+You want to know when
+your new headphones are
+
+00:11:45.400 --> 00:11:46.650 align:middle line:90%
+coming or something like that.
+
+00:11:46.650 --> 00:11:48.275 align:middle line:84%
+And so you're glad
+that they have that.
+
+00:11:48.275 --> 00:11:50.150 align:middle line:84%
+But in order for them
+to be able to know
+
+00:11:50.150 --> 00:11:51.650 align:middle line:84%
+when your new
+headphones are coming,
+
+00:11:51.650 --> 00:11:53.370 align:middle line:84%
+and to do other kinds
+of things with it--
+
+00:11:53.370 --> 00:11:56.940 align:middle line:84%
+the other thing, you could
+say, over the past 10 years,
+
+00:11:56.940 --> 00:11:59.390 align:middle line:84%
+was it a good idea
+for MIT to track
+
+00:11:59.390 --> 00:12:01.550 align:middle line:84%
+the changing volume
+of deliveries
+
+00:12:01.550 --> 00:12:02.730 align:middle line:90%
+to individual students?
+
+00:12:02.730 --> 00:12:03.860 align:middle line:90%
+Yes.
+
+00:12:03.860 --> 00:12:06.800 align:middle line:84%
+I'm sure MIT has had to build
+all kinds of infrastructure
+
+00:12:06.800 --> 00:12:08.690 align:middle line:84%
+to make it possible
+for you all to get
+
+00:12:08.690 --> 00:12:11.000 align:middle line:90%
+your stuff in a sensible way.
+
+00:12:11.000 --> 00:12:12.740 align:middle line:84%
+And it's probably a
+good idea that MIT
+
+00:12:12.740 --> 00:12:15.630 align:middle line:84%
+has data about aggregate--
+particularly in the aggregates.
+
+00:12:15.630 --> 00:12:19.490 align:middle line:84%
+It's probably a good idea
+to know, oh, in 2014,
+
+00:12:19.490 --> 00:12:22.620 align:middle line:84%
+the typical student got
+2.3 packages a year,
+
+00:12:22.620 --> 00:12:24.960 align:middle line:84%
+and now they get 30.6
+packages per year.
+
+00:12:24.960 --> 00:12:27.500 align:middle line:84%
+And it just requires a whole
+different infrastructure
+
+00:12:27.500 --> 00:12:31.333 align:middle line:84%
+to support those two kinds of
+ways of people doing commerce.
+
+00:12:31.333 --> 00:12:32.750 align:middle line:84%
+Anyway, what other
+feelings do you
+
+00:12:32.750 --> 00:12:35.090 align:middle line:84%
+have as you look at
+the whole list of data
+
+00:12:35.090 --> 00:12:38.748 align:middle line:90%
+that MIT might have about you?
+
+00:12:38.748 --> 00:12:40.790 align:middle line:84%
+AUDIENCE: I feel like,
+ultimately, I'm not really
+
+00:12:40.790 --> 00:12:41.850 align:middle line:90%
+that surprised.
+
+00:12:41.850 --> 00:12:43.840 align:middle line:84%
+I feel like we grew
+up in a generation
+
+00:12:43.840 --> 00:12:47.480 align:middle line:84%
+where digital data has been
+collected for our entire lives.
+
+00:12:47.480 --> 00:12:50.450 align:middle line:84%
+It was not something that was
+introduced but always there.
+
+00:12:50.450 --> 00:12:52.540 align:middle line:84%
+And so I feel like
+I've kind of grown up
+
+00:12:52.540 --> 00:12:55.690 align:middle line:84%
+in this world knowing that all
+of this type of information
+
+00:12:55.690 --> 00:12:58.610 align:middle line:84%
+can and is being
+collected on me.
+
+00:12:58.610 --> 00:13:02.360 align:middle line:84%
+And so I'm still going
+to live the same way.
+
+00:13:02.360 --> 00:13:07.840 align:middle line:84%
+But I just-- it just is what
+it is in kind of a sad way.
+
+00:13:07.840 --> 00:13:09.975 align:middle line:84%
+JUSTIN REICH:
+Yeah, there's sad--
+
+00:13:09.975 --> 00:13:11.600 align:middle line:84%
+you're clearly not
+comfortable with it.
+
+00:13:11.600 --> 00:13:12.880 align:middle line:90%
+Because if you listen to--
+
+00:13:12.880 --> 00:13:14.980 align:middle line:84%
+if you stop talking for a
+second while people were making
+
+00:13:14.980 --> 00:13:17.470 align:middle line:84%
+the list and listen, there's
+all kinds of awkward laughter
+
+00:13:17.470 --> 00:13:18.890 align:middle line:84%
+that happens throughout
+the whole time.
+
+00:13:18.890 --> 00:13:20.848 align:middle line:84%
+There's something about
+this which is like, oh,
+
+00:13:20.848 --> 00:13:22.000 align:middle line:90%
+this doesn't feel good.
+
+00:13:22.000 --> 00:13:24.950 align:middle line:84%
+Any individual category can
+make you not feel that great.
+
+00:13:24.950 --> 00:13:27.460 align:middle line:84%
+Do you really want
+MIT's IT department
+
+00:13:27.460 --> 00:13:29.410 align:middle line:84%
+to be able to track
+where everyone can go?
+
+00:13:29.410 --> 00:13:31.720 align:middle line:84%
+That seems like
+it could go awry.
+
+00:13:31.720 --> 00:13:35.210 align:middle line:84%
+And then just the whole
+volume in aggregate,
+
+00:13:35.210 --> 00:13:38.050 align:middle line:90%
+you realize how much--
+
+00:13:38.050 --> 00:13:41.625 align:middle line:84%
+you could make a very similar
+list for K-12 schools, as well.
+
+00:13:41.625 --> 00:13:44.000 align:middle line:84%
+You can probably guess the
+places in which things are not
+
+00:13:44.000 --> 00:13:45.030 align:middle line:90%
+exactly the same.
+
+00:13:45.030 --> 00:13:48.000 align:middle line:90%
+
+
+00:13:48.000 --> 00:13:49.970 align:middle line:84%
+And the data collection
+that people can do
+
+00:13:49.970 --> 00:13:52.010 align:middle line:84%
+can be really
+influenced by policy.
+
+00:13:52.010 --> 00:13:54.620 align:middle line:84%
+States have different
+rules about how attendance
+
+00:13:54.620 --> 00:13:57.140 align:middle line:90%
+is connected to funding.
+
+00:13:57.140 --> 00:13:58.800 align:middle line:90%
+Who's there on a particular day?
+
+00:13:58.800 --> 00:14:01.250 align:middle line:84%
+Who's there for what
+periods of time?
+
+00:14:01.250 --> 00:14:03.938 align:middle line:84%
+You could imagine that you want
+to make sure that if a kid moves
+
+00:14:03.938 --> 00:14:06.230 align:middle line:84%
+schools three times in a
+school year that not all three
+
+00:14:06.230 --> 00:14:09.590 align:middle line:84%
+of those schools get like a full
+student's tuition worth of--
+
+00:14:09.590 --> 00:14:12.650 align:middle line:90%
+or a per-pupil expenditure.
+
+00:14:12.650 --> 00:14:14.900 align:middle line:84%
+But there are states that
+part of the reason why
+
+00:14:14.900 --> 00:14:17.582 align:middle line:84%
+they issue ID cards to students
+and track their entrance
+
+00:14:17.582 --> 00:14:19.790 align:middle line:84%
+and things like that is to
+pay really close attention
+
+00:14:19.790 --> 00:14:23.090 align:middle line:84%
+to that attendance data, just
+for that particular policy
+
+00:14:23.090 --> 00:14:23.970 align:middle line:90%
+purpose.
+
+00:14:23.970 --> 00:14:25.890 align:middle line:90%
+Was there another?
+
+00:14:25.890 --> 00:14:28.170 align:middle line:84%
+AUDIENCE: Adding on to
+it being not surprising,
+
+00:14:28.170 --> 00:14:30.500 align:middle line:84%
+I would say a lot
+of the information
+
+00:14:30.500 --> 00:14:35.010 align:middle line:84%
+that they took
+while we were here,
+
+00:14:35.010 --> 00:14:37.880 align:middle line:84%
+like current residence
+or laundry and stuff
+
+00:14:37.880 --> 00:14:42.680 align:middle line:84%
+like that, I feel like is
+much more unsurprising just
+
+00:14:42.680 --> 00:14:47.480 align:middle line:84%
+because it is something
+that is novel when you come
+
+00:14:47.480 --> 00:14:51.090 align:middle line:84%
+to a college or an institution
+like this, where it's like, oh,
+
+00:14:51.090 --> 00:14:51.590 align:middle line:90%
+wow.
+
+00:14:51.590 --> 00:14:53.900 align:middle line:84%
+They really do have
+this information.
+
+00:14:53.900 --> 00:14:56.990 align:middle line:84%
+But I think what's
+kind of a little
+
+00:14:56.990 --> 00:15:00.080 align:middle line:84%
+crazy is how much of this
+information they have
+
+00:15:00.080 --> 00:15:02.870 align:middle line:90%
+before you even get here.
+
+00:15:02.870 --> 00:15:04.640 align:middle line:84%
+JUSTIN REICH: So
+yeah, for applicants,
+
+00:15:04.640 --> 00:15:08.810 align:middle line:84%
+for people who are admitted into
+the school and things like that.
+
+00:15:08.810 --> 00:15:11.060 align:middle line:84%
+Yeah, there's a lot that you
+need to tell MIT for them
+
+00:15:11.060 --> 00:15:13.170 align:middle line:84%
+to be able to come
+here and get here.
+
+00:15:13.170 --> 00:15:15.335 align:middle line:84%
+There's a lot that you
+need to be able to--
+
+00:15:15.335 --> 00:15:19.130 align:middle line:90%
+
+
+00:15:19.130 --> 00:15:20.072 align:middle line:90%
+to get in.
+
+00:15:20.072 --> 00:15:21.530 align:middle line:84%
+Again, these days,
+you have to take
+
+00:15:21.530 --> 00:15:23.930 align:middle line:84%
+the SAT, which means
+you are required
+
+00:15:23.930 --> 00:15:26.660 align:middle line:84%
+to give a bunch of information
+to the College Board.
+
+00:15:26.660 --> 00:15:29.142 align:middle line:84%
+And you also, in the
+process of doing that,
+
+00:15:29.142 --> 00:15:31.350 align:middle line:84%
+you're probably asked to
+opt in to a bunch of things.
+
+00:15:31.350 --> 00:15:32.467 align:middle line:90%
+I had a master's student--
+
+00:15:32.467 --> 00:15:34.050 align:middle line:84%
+I can't remember all
+the details now--
+
+00:15:34.050 --> 00:15:37.880 align:middle line:84%
+but did their thesis on,
+essentially, the kinds of things
+
+00:15:37.880 --> 00:15:40.730 align:middle line:84%
+that the College Board did
+with information that they
+
+00:15:40.730 --> 00:15:44.330 align:middle line:84%
+got, which, to some extent,
+you could say something like,
+
+00:15:44.330 --> 00:15:46.827 align:middle line:84%
+if you opt in to
+flowers.com or something
+
+00:15:46.827 --> 00:15:48.410 align:middle line:84%
+like that-- you're
+like, man, I really
+
+00:15:48.410 --> 00:15:51.090 align:middle line:84%
+want good information about
+what flowers are available,
+
+00:15:51.090 --> 00:15:53.730 align:middle line:84%
+and then flowers.com
+sells your data.
+
+00:15:53.730 --> 00:15:58.010 align:middle line:84%
+You're like, well, maybe that's
+a terrible system to exist in.
+
+00:15:58.010 --> 00:16:01.630 align:middle line:84%
+But flowers.com did ask me if
+I wanted to give them my data,
+
+00:16:01.630 --> 00:16:03.630 align:middle line:84%
+and I did agree to let
+them do anything with it.
+
+00:16:03.630 --> 00:16:05.755 align:middle line:84%
+And that was just my
+voluntary relationship.
+
+00:16:05.755 --> 00:16:07.880 align:middle line:84%
+But you didn't really have
+a voluntary relationship
+
+00:16:07.880 --> 00:16:09.650 align:middle line:90%
+with the College Board.
+
+00:16:09.650 --> 00:16:12.195 align:middle line:84%
+You had no choice but to
+interact with the College Board
+
+00:16:12.195 --> 00:16:14.070 align:middle line:84%
+to make it through this
+major life milestone.
+
+00:16:14.070 --> 00:16:16.640 align:middle line:84%
+And so, to the extent that
+the College Board does things
+
+00:16:16.640 --> 00:16:19.718 align:middle line:84%
+with your information, that's
+a different relationship
+
+00:16:19.718 --> 00:16:21.260 align:middle line:84%
+that you have with
+them than you have
+
+00:16:21.260 --> 00:16:25.400 align:middle line:84%
+with flowers.com or pets.com
+or your own favorite thing.
+
+00:16:25.400 --> 00:16:28.220 align:middle line:84%
+So we live in a world
+in which schools
+
+00:16:28.220 --> 00:16:32.270 align:middle line:84%
+have enormous amounts
+of information
+
+00:16:32.270 --> 00:16:35.600 align:middle line:84%
+about their individual
+students, that there's probably
+
+00:16:35.600 --> 00:16:38.880 align:middle line:84%
+a pretty big generational
+shifts in that experience.
+
+00:16:38.880 --> 00:16:45.000 align:middle line:84%
+One of the main laws that
+governs these records is FERPA,
+
+00:16:45.000 --> 00:16:46.890 align:middle line:84%
+the Federal Education
+Records Protection Act,
+
+00:16:46.890 --> 00:16:51.410 align:middle line:84%
+which I think was
+authored in the 1970s.
+
+00:16:51.410 --> 00:16:53.000 align:middle line:84%
+We basically have
+a legal framework
+
+00:16:53.000 --> 00:16:56.030 align:middle line:84%
+for supervising this
+data, which was just built
+
+00:16:56.030 --> 00:16:59.230 align:middle line:90%
+in an entirely different era.
+
+00:16:59.230 --> 00:17:02.210 align:middle line:84%
+FERPA refers to this thing
+called student records.
+
+00:17:02.210 --> 00:17:05.359 align:middle line:84%
+At the time, it would
+have been very, very clear
+
+00:17:05.359 --> 00:17:06.540 align:middle line:90%
+what a student record was.
+
+00:17:06.540 --> 00:17:08.690 align:middle line:84%
+You would have gone to
+the registrar's office,
+
+00:17:08.690 --> 00:17:10.710 align:middle line:84%
+and there would have
+been big file drawers.
+
+00:17:10.710 --> 00:17:12.210 align:middle line:84%
+And you would have
+pulled out a file
+
+00:17:12.210 --> 00:17:14.510 align:middle line:84%
+and been like, that
+is the student record.
+
+00:17:14.510 --> 00:17:17.430 align:middle line:84%
+Are your clicker questions
+part of your student record?
+
+00:17:17.430 --> 00:17:20.160 align:middle line:90%
+Are your Codio assignments?
+
+00:17:20.160 --> 00:17:21.960 align:middle line:90%
+Are your Canvas entries?
+
+00:17:21.960 --> 00:17:24.234 align:middle line:90%
+Are your Piazza forum things?
+
+00:17:24.234 --> 00:17:25.859 align:middle line:84%
+Are those part of
+your student records?
+
+00:17:25.859 --> 00:17:29.660 align:middle line:84%
+There's much less
+clarity over those things
+
+00:17:29.660 --> 00:17:31.075 align:middle line:90%
+than one might think.
+
+00:17:31.075 --> 00:17:38.760 align:middle line:90%
+
+
+00:17:38.760 --> 00:17:41.397 align:middle line:84%
+The term "toxic" has a kind
+of negative connotation,
+
+00:17:41.397 --> 00:17:43.730 align:middle line:84%
+but I borrowed it from a
+security researcher named Bruce
+
+00:17:43.730 --> 00:17:44.690 align:middle line:90%
+Schneier.
+
+00:17:44.690 --> 00:17:50.240 align:middle line:84%
+And part of his argument was
+that toxic things are powerful.
+
+00:17:50.240 --> 00:17:53.730 align:middle line:84%
+Chemotherapies are toxic,
+and they save your life.
+
+00:17:53.730 --> 00:17:54.500 align:middle line:90%
+They're great.
+
+00:17:54.500 --> 00:17:56.270 align:middle line:84%
+Sometimes it's really
+good to interact
+
+00:17:56.270 --> 00:17:58.190 align:middle line:90%
+with powerful, toxic things.
+
+00:17:58.190 --> 00:18:00.380 align:middle line:84%
+But toxic things
+are also dangerous.
+
+00:18:00.380 --> 00:18:03.050 align:middle line:84%
+In particular, I
+think most of us
+
+00:18:03.050 --> 00:18:06.360 align:middle line:84%
+have an inclination that
+when something is toxic,
+
+00:18:06.360 --> 00:18:07.887 align:middle line:84%
+you should not leave
+it lying around
+
+00:18:07.887 --> 00:18:08.970 align:middle line:90%
+for a long period of time.
+
+00:18:08.970 --> 00:18:10.740 align:middle line:84%
+That was the heart
+of Bruce's argument
+
+00:18:10.740 --> 00:18:18.410 align:middle line:84%
+was that companies were making
+a big mistake by having a very
+
+00:18:18.410 --> 00:18:21.303 align:middle line:84%
+capacious approach to the
+collection and storage of data,
+
+00:18:21.303 --> 00:18:22.970 align:middle line:84%
+that, actually, what
+you should be doing
+
+00:18:22.970 --> 00:18:24.970 align:middle line:84%
+is just taking the data
+you need and getting rid
+
+00:18:24.970 --> 00:18:26.870 align:middle line:84%
+of the rest of it because
+it's a toxic asset
+
+00:18:26.870 --> 00:18:27.780 align:middle line:90%
+to have lying around.
+
+00:18:27.780 --> 00:18:28.920 align:middle line:84%
+The more you have
+it lying around,
+
+00:18:28.920 --> 00:18:30.770 align:middle line:84%
+the more you're
+vulnerable to breaches,
+
+00:18:30.770 --> 00:18:34.250 align:middle line:84%
+to other kinds of actors
+doing various nefarious
+
+00:18:34.250 --> 00:18:37.640 align:middle line:90%
+things with that data.
+
+00:18:37.640 --> 00:18:40.610 align:middle line:84%
+If you're an
+educational researcher,
+
+00:18:40.610 --> 00:18:43.070 align:middle line:84%
+what kinds of thoughts
+might you have
+
+00:18:43.070 --> 00:18:44.988 align:middle line:84%
+when you see this
+giant list of the data
+
+00:18:44.988 --> 00:18:46.405 align:middle line:84%
+that schools collect
+about people?
+
+00:18:46.405 --> 00:18:53.097 align:middle line:90%
+
+
+00:18:53.097 --> 00:18:55.430 align:middle line:84%
+AUDIENCE: Honestly, the first
+thing that came to my mind
+
+00:18:55.430 --> 00:18:58.550 align:middle line:84%
+was excitement in the
+sense of if you're
+
+00:18:58.550 --> 00:19:01.100 align:middle line:84%
+forming any type of
+research and trying
+
+00:19:01.100 --> 00:19:05.180 align:middle line:84%
+to study how anything
+about a person
+
+00:19:05.180 --> 00:19:07.920 align:middle line:84%
+can affect whatever
+you're studying.
+
+00:19:07.920 --> 00:19:11.630 align:middle line:84%
+If you have all of
+this data, then there's
+
+00:19:11.630 --> 00:19:17.360 align:middle line:84%
+really no limit to what
+you're able to research.
+
+00:19:17.360 --> 00:19:20.330 align:middle line:84%
+JUSTIN REICH: This was
+an article from today--
+
+00:19:20.330 --> 00:19:21.030 align:middle line:90%
+two days ago.
+
+00:19:21.030 --> 00:19:23.280 align:middle line:84%
+I'm going to give you a
+couple of cutting-edge things.
+
+00:19:23.280 --> 00:19:25.260 align:middle line:84%
+"Middle schools in Norway
+banned smartphones.
+
+00:19:25.260 --> 00:19:28.130 align:middle line:84%
+The benefits were
+dramatic, a study shows."
+
+00:19:28.130 --> 00:19:31.520 align:middle line:84%
+A study published
+earlier this year
+
+00:19:31.520 --> 00:19:35.460 align:middle line:84%
+from a Norwegian
+doctoral student,
+
+00:19:35.460 --> 00:19:38.610 align:middle line:84%
+where there were hundreds
+of schools across Norway
+
+00:19:38.610 --> 00:19:42.930 align:middle line:84%
+that, in various ways,
+banned smartphones.
+
+00:19:42.930 --> 00:19:44.820 align:middle line:84%
+Some of the outcomes
+they look at
+
+00:19:44.820 --> 00:19:50.400 align:middle line:84%
+are student outcomes like
+learning but also mental health.
+
+00:19:50.400 --> 00:19:52.710 align:middle line:84%
+"I show that banning
+smartphones significantly
+
+00:19:52.710 --> 00:19:54.300 align:middle line:84%
+decreases the
+health care take-up
+
+00:19:54.300 --> 00:19:57.670 align:middle line:84%
+for psychological symptoms
+and diseases among girls.
+
+00:19:57.670 --> 00:20:00.700 align:middle line:84%
+Post-ban bullying among
+both genders decreases.
+
+00:20:00.700 --> 00:20:01.685 align:middle line:90%
+Girls' GPA improves.
+
+00:20:01.685 --> 00:20:03.060 align:middle line:84%
+And their likelihood
+of attending
+
+00:20:03.060 --> 00:20:05.080 align:middle line:84%
+an academic high
+school track increases.
+
+00:20:05.080 --> 00:20:08.640 align:middle line:84%
+These effects are larger from
+girls from low socioeconomic
+
+00:20:08.640 --> 00:20:09.690 align:middle line:90%
+backgrounds."
+
+00:20:09.690 --> 00:20:12.863 align:middle line:84%
+So in Norway, they have vast
+informations about students.
+
+00:20:12.863 --> 00:20:14.280 align:middle line:84%
+Here are some
+things that you need
+
+00:20:14.280 --> 00:20:15.613 align:middle line:90%
+to know to make this study work.
+
+00:20:15.613 --> 00:20:17.380 align:middle line:84%
+You need to know all
+the students' grades.
+
+00:20:17.380 --> 00:20:21.250 align:middle line:84%
+You need to know where all
+the students go to college.
+
+00:20:21.250 --> 00:20:23.850 align:middle line:84%
+You need to know whenever
+the students visit
+
+00:20:23.850 --> 00:20:28.410 align:middle line:84%
+the Norwegian health care system
+and what kinds of requests
+
+00:20:28.410 --> 00:20:30.990 align:middle line:84%
+they're making from the
+Norwegian health care system.
+
+00:20:30.990 --> 00:20:33.610 align:middle line:84%
+And you need to have
+them, every year,
+
+00:20:33.610 --> 00:20:36.450 align:middle line:84%
+take a well-being survey that
+includes a bunch of questions
+
+00:20:36.450 --> 00:20:37.620 align:middle line:90%
+about bullying.
+
+00:20:37.620 --> 00:20:39.480 align:middle line:84%
+That's a lot of
+information for the state
+
+00:20:39.480 --> 00:20:41.230 align:middle line:90%
+to collect about these students.
+
+00:20:41.230 --> 00:20:45.330 align:middle line:84%
+But it certainly seems to me
+like a pretty pro-social thing
+
+00:20:45.330 --> 00:20:48.780 align:middle line:84%
+to be able to say, hey,
+if we look at the schools
+
+00:20:48.780 --> 00:20:51.900 align:middle line:84%
+that ban smartphones in middle
+school versus the ones that
+
+00:20:51.900 --> 00:20:55.270 align:middle line:84%
+don't, there seem to be all
+of these health outcomes.
+
+00:20:55.270 --> 00:20:58.470 align:middle line:84%
+And we can even, actually, say
+that the health-- it's not just
+
+00:20:58.470 --> 00:21:00.460 align:middle line:84%
+academic outcomes, it's
+also health outcomes,
+
+00:21:00.460 --> 00:21:02.520 align:middle line:84%
+although the health outcomes are
+probably related, in some way,
+
+00:21:02.520 --> 00:21:03.790 align:middle line:90%
+to the academic outcomes.
+
+00:21:03.790 --> 00:21:05.220 align:middle line:90%
+But it's particularly for girls.
+
+00:21:05.220 --> 00:21:07.830 align:middle line:84%
+And it's particularly
+for students
+
+00:21:07.830 --> 00:21:09.900 align:middle line:84%
+in low socioeconomic
+environments.
+
+00:21:09.900 --> 00:21:12.550 align:middle line:84%
+That seems pretty
+useful stuff to know.
+
+00:21:12.550 --> 00:21:17.010 align:middle line:84%
+And so that is the kind of
+trade-off that people would face
+
+00:21:17.010 --> 00:21:20.730 align:middle line:84%
+as they're going back
+and forth between--
+
+00:21:20.730 --> 00:21:23.940 align:middle line:84%
+the mass of data that we
+collect about students
+
+00:21:23.940 --> 00:21:26.882 align:middle line:84%
+is also what lets us do
+pretty sophisticated,
+
+00:21:26.882 --> 00:21:28.590 align:middle line:84%
+complicated research
+about those students
+
+00:21:28.590 --> 00:21:30.520 align:middle line:84%
+to be able to make claims
+about how well they're
+
+00:21:30.520 --> 00:21:32.103 align:middle line:84%
+doing in various
+parts of their lives.
+
+00:21:32.103 --> 00:21:37.060 align:middle line:90%
+
+
+00:21:37.060 --> 00:21:38.480 align:middle line:90%
+Toxic power of data experiment.
+
+00:21:38.480 --> 00:21:40.600 align:middle line:84%
+All right, I'll tell you
+about at least a couple
+
+00:21:40.600 --> 00:21:43.090 align:middle line:90%
+of other things.
+
+00:21:43.090 --> 00:21:49.210 align:middle line:84%
+There was a study that you read
+about in the chapter last night.
+
+00:21:49.210 --> 00:21:52.120 align:middle line:84%
+This is a headline that
+came out-- it was in 2018--
+
+00:21:52.120 --> 00:21:53.870 align:middle line:84%
+this is a headline
+that came out about it.
+
+00:21:53.870 --> 00:21:56.650 align:middle line:84%
+"Pearson Tested
+Social-Psychological Messages
+
+00:21:56.650 --> 00:21:59.830 align:middle line:84%
+in Learning Software,
+with Mixed Results."
+
+00:21:59.830 --> 00:22:02.120 align:middle line:84%
+Did we talk about
+mindset in this class?
+
+00:22:02.120 --> 00:22:05.147 align:middle line:84%
+Maybe we did briefly-- growth
+mindset and fixed mindset?
+
+00:22:05.147 --> 00:22:05.980 align:middle line:90%
+Something like that.
+
+00:22:05.980 --> 00:22:07.450 align:middle line:84%
+Anyway, you're probably
+all familiar with it
+
+00:22:07.450 --> 00:22:09.970 align:middle line:84%
+because teachers talk about
+it all the time, but there--
+
+00:22:09.970 --> 00:22:12.730 align:middle line:84%
+or education
+researchers, other folks.
+
+00:22:12.730 --> 00:22:14.590 align:middle line:84%
+There are some
+social psychologists
+
+00:22:14.590 --> 00:22:18.165 align:middle line:84%
+who have identified
+two kinds of mindsets
+
+00:22:18.165 --> 00:22:19.790 align:middle line:84%
+that people often
+have towards learning
+
+00:22:19.790 --> 00:22:20.930 align:middle line:90%
+or other kinds of things.
+
+00:22:20.930 --> 00:22:23.152 align:middle line:84%
+One is a fixed mindset,
+which generally says,
+
+00:22:23.152 --> 00:22:25.360 align:middle line:84%
+some people are smart, and
+some people are not smart.
+
+00:22:25.360 --> 00:22:28.757 align:middle line:84%
+And a growth mindset
+suggests that people
+
+00:22:28.757 --> 00:22:30.840 align:middle line:84%
+have fluid intelligence,
+and you can make yourself
+
+00:22:30.840 --> 00:22:32.590 align:middle line:84%
+more intelligent and
+other kinds of things
+
+00:22:32.590 --> 00:22:37.290 align:middle line:84%
+Seems to be a pretty good idea
+to help young people adopt
+
+00:22:37.290 --> 00:22:40.560 align:middle line:84%
+the latter mindset rather
+than the former mindset.
+
+00:22:40.560 --> 00:22:43.260 align:middle line:84%
+Better to have them have a
+growth mindset rather than
+
+00:22:43.260 --> 00:22:44.080 align:middle line:90%
+a fixed mindset.
+
+00:22:44.080 --> 00:22:49.660 align:middle line:84%
+Exactly how much it matters is
+a subject of enormous debate.
+
+00:22:49.660 --> 00:22:51.780 align:middle line:84%
+There were a number
+of early studies
+
+00:22:51.780 --> 00:22:54.630 align:middle line:84%
+that suggested it could matter
+quite enormously to all kinds
+
+00:22:54.630 --> 00:22:55.330 align:middle line:90%
+of people.
+
+00:22:55.330 --> 00:22:57.450 align:middle line:84%
+And some of the more
+recent, larger studies
+
+00:22:57.450 --> 00:23:00.030 align:middle line:84%
+suggest that the
+best things that we
+
+00:23:00.030 --> 00:23:02.760 align:middle line:84%
+know how to do to improve
+growth mindset only
+
+00:23:02.760 --> 00:23:04.620 align:middle line:84%
+helps some students
+and maybe only
+
+00:23:04.620 --> 00:23:08.430 align:middle line:84%
+help them a little bit, like
+a lot of things that we study.
+
+00:23:08.430 --> 00:23:12.970 align:middle line:84%
+So Pearson offers all
+kinds of software products.
+
+00:23:12.970 --> 00:23:18.590 align:middle line:84%
+And I think this was a line
+of computer science software
+
+00:23:18.590 --> 00:23:19.090 align:middle line:90%
+products.
+
+00:23:19.090 --> 00:23:21.357 align:middle line:84%
+And so you do a bunch
+of programming exercises
+
+00:23:21.357 --> 00:23:23.440 align:middle line:84%
+and multiple-choice questions
+or things like that.
+
+00:23:23.440 --> 00:23:25.650 align:middle line:84%
+And the thing that
+they decided to add
+
+00:23:25.650 --> 00:23:28.750 align:middle line:84%
+was not just right
+or wrong messages
+
+00:23:28.750 --> 00:23:33.180 align:middle line:84%
+but some people getting growth
+mindset messages and some people
+
+00:23:33.180 --> 00:23:34.720 align:middle line:84%
+not getting growth
+mindset messages.
+
+00:23:34.720 --> 00:23:36.762 align:middle line:84%
+So I won't get this exactly
+right, but an example
+
+00:23:36.762 --> 00:23:38.820 align:middle line:84%
+of a growth mindset
+message might be something
+
+00:23:38.820 --> 00:23:43.620 align:middle line:84%
+like, that's not
+right, but keep trying
+
+00:23:43.620 --> 00:23:46.830 align:middle line:84%
+and you can learn more,
+or other things to suggest
+
+00:23:46.830 --> 00:23:50.190 align:middle line:84%
+that if you keep working
+at this, you'll get better.
+
+00:23:50.190 --> 00:23:55.230 align:middle line:84%
+What seems good
+about implementing
+
+00:23:55.230 --> 00:23:58.510 align:middle line:84%
+that kind of intervention
+in a system like this,
+
+00:23:58.510 --> 00:24:01.650 align:middle line:84%
+and what seems problematic about
+implementing an intervention
+
+00:24:01.650 --> 00:24:02.705 align:middle line:90%
+in a system like this?
+
+00:24:02.705 --> 00:24:06.720 align:middle line:90%
+
+
+00:24:06.720 --> 00:24:09.540 align:middle line:84%
+AUDIENCE: Well, problematic
+is that the control group is,
+
+00:24:09.540 --> 00:24:13.890 align:middle line:84%
+essentially, not necessarily
+being hurt but not benefiting
+
+00:24:13.890 --> 00:24:14.770 align:middle line:90%
+at all.
+
+00:24:14.770 --> 00:24:19.650 align:middle line:84%
+And if you're saying that
+a growth mindset really
+
+00:24:19.650 --> 00:24:23.160 align:middle line:84%
+does help people, choosing
+to, essentially, not
+
+00:24:23.160 --> 00:24:25.935 align:middle line:84%
+help them by putting them in the
+control group can [INAUDIBLE].
+
+00:24:25.935 --> 00:24:27.560 align:middle line:84%
+JUSTIN REICH: Yeah,
+that's interesting.
+
+00:24:27.560 --> 00:24:29.650 align:middle line:84%
+So Pearson goes
+and reads a bunch
+
+00:24:29.650 --> 00:24:31.240 align:middle line:84%
+of research about
+growth mindset.
+
+00:24:31.240 --> 00:24:34.570 align:middle line:84%
+And they're like, hey,
+this growth mindset stuff
+
+00:24:34.570 --> 00:24:36.460 align:middle line:90%
+seems to work sometimes.
+
+00:24:36.460 --> 00:24:41.090 align:middle line:84%
+But they don't decide to
+just add it to their product.
+
+00:24:41.090 --> 00:24:45.190 align:middle line:84%
+They add it to their product in
+this experimental paradigm where
+
+00:24:45.190 --> 00:24:48.130 align:middle line:84%
+some people get it,
+and some people don't.
+
+00:24:48.130 --> 00:24:50.680 align:middle line:84%
+And so people in the
+same class are going
+
+00:24:50.680 --> 00:24:52.960 align:middle line:90%
+to have a different experience.
+
+00:24:52.960 --> 00:24:56.500 align:middle line:84%
+So Dana proposes that one
+problem with that is that
+
+00:24:56.500 --> 00:24:59.680 align:middle line:84%
+the people who get the
+experimental intervention might
+
+00:24:59.680 --> 00:25:02.360 align:middle line:84%
+benefit in the way that people
+in the control group don't.
+
+00:25:02.360 --> 00:25:04.715 align:middle line:84%
+What are some other
+problems that potentially
+
+00:25:04.715 --> 00:25:05.715 align:middle line:90%
+could show up with this?
+
+00:25:05.715 --> 00:25:15.700 align:middle line:90%
+
+
+00:25:15.700 --> 00:25:17.950 align:middle line:84%
+AUDIENCE: I guess you have
+to take into account who's
+
+00:25:17.950 --> 00:25:20.330 align:middle line:84%
+in the control group and who's
+in the experimental group.
+
+00:25:20.330 --> 00:25:23.140 align:middle line:84%
+How good of a job do they do
+at filtering out their students
+
+00:25:23.140 --> 00:25:25.420 align:middle line:84%
+to make sure it's
+roughly equal in terms
+
+00:25:25.420 --> 00:25:28.150 align:middle line:84%
+of socioeconomic background
+or prior experience
+
+00:25:28.150 --> 00:25:29.510 align:middle line:90%
+with the subject, et cetera?
+
+00:25:29.510 --> 00:25:30.910 align:middle line:90%
+JUSTIN REICH: That's good.
+
+00:25:30.910 --> 00:25:33.680 align:middle line:84%
+And I would say, under
+most circumstances,
+
+00:25:33.680 --> 00:25:36.020 align:middle line:84%
+especially in these
+kinds of digital systems,
+
+00:25:36.020 --> 00:25:40.820 align:middle line:84%
+we can be really good
+at randomization.
+
+00:25:40.820 --> 00:25:44.962 align:middle line:84%
+You could imagine that if you're
+randomizing across whole schools
+
+00:25:44.962 --> 00:25:47.420 align:middle line:84%
+or something like that, there
+might be people who are like,
+
+00:25:47.420 --> 00:25:49.003 align:middle line:84%
+well, I don't want
+my school to do it,
+
+00:25:49.003 --> 00:25:50.378 align:middle line:84%
+or you put me in
+a control group,
+
+00:25:50.378 --> 00:25:52.378 align:middle line:84%
+but I just want to get
+the intervention, anyway,
+
+00:25:52.378 --> 00:25:53.470 align:middle line:90%
+or something like that.
+
+00:25:53.470 --> 00:25:57.580 align:middle line:84%
+These kind of digital
+systems can be very strict
+
+00:25:57.580 --> 00:25:59.920 align:middle line:84%
+about the implementation
+of randomization.
+
+00:25:59.920 --> 00:26:03.280 align:middle line:84%
+And you can be pretty
+sure that there's not
+
+00:26:03.280 --> 00:26:05.218 align:middle line:90%
+going to be any kind of bias.
+
+00:26:05.218 --> 00:26:07.010 align:middle line:84%
+You could imagine ways
+for bias to show up.
+
+00:26:07.010 --> 00:26:10.190 align:middle line:84%
+But for the most part, there's
+going to be some computer code
+
+00:26:10.190 --> 00:26:15.670 align:middle line:84%
+which is like, if exercise 4
+assigned someone a 0 or 1--
+
+00:26:15.670 --> 00:26:17.813 align:middle line:90%
+control is 0, experiment is 1--
+
+00:26:17.813 --> 00:26:20.230 align:middle line:84%
+and especially if you have
+hundreds or thousands of people
+
+00:26:20.230 --> 00:26:21.897 align:middle line:84%
+who are participating
+in the experiment,
+
+00:26:21.897 --> 00:26:24.820 align:middle line:84%
+you can be pretty sure that
+those two groups are the same.
+
+00:26:24.820 --> 00:26:27.460 align:middle line:84%
+Not only that, but
+you can also verify
+
+00:26:27.460 --> 00:26:30.010 align:middle line:84%
+that they're the same if you
+collect all this information
+
+00:26:30.010 --> 00:26:31.840 align:middle line:90%
+about them going into it.
+
+00:26:31.840 --> 00:26:35.320 align:middle line:84%
+So these things are going
+to be pretty good at that.
+
+00:26:35.320 --> 00:26:37.910 align:middle line:84%
+AUDIENCE: Well, I don't know
+if there was any consent given,
+
+00:26:37.910 --> 00:26:42.310 align:middle line:84%
+but from what I can gather
+is that this was just
+
+00:26:42.310 --> 00:26:44.620 align:middle line:84%
+done without the
+students' knowledge.
+
+00:26:44.620 --> 00:26:45.370 align:middle line:90%
+JUSTIN REICH: Yes.
+
+00:26:45.370 --> 00:26:47.065 align:middle line:84%
+AUDIENCE: So I
+wouldn't necessarily
+
+00:26:47.065 --> 00:26:49.750 align:middle line:84%
+like it if I came out
+of MIT and graduating,
+
+00:26:49.750 --> 00:26:51.250 align:middle line:84%
+and then someone's,
+like, OK, here's
+
+00:26:51.250 --> 00:26:54.880 align:middle line:84%
+a paper of what we analyzed
+during your four years here.
+
+00:26:54.880 --> 00:26:56.920 align:middle line:84%
+I don't necessarily
+want to know that people
+
+00:26:56.920 --> 00:26:59.470 align:middle line:84%
+have been like watching
+every movement,
+
+00:26:59.470 --> 00:27:02.770 align:middle line:84%
+analyzing certain things
+about me psychologically.
+
+00:27:02.770 --> 00:27:03.770 align:middle line:90%
+JUSTIN REICH: Why not?
+
+00:27:03.770 --> 00:27:05.437 align:middle line:84%
+AUDIENCE: It feels
+a little creepy.
+
+00:27:05.437 --> 00:27:06.895 align:middle line:84%
+It feels like you're
+being watched.
+
+00:27:06.895 --> 00:27:08.170 align:middle line:84%
+JUSTIN REICH: It could
+feel a little creepy, feels
+
+00:27:08.170 --> 00:27:08.980 align:middle line:90%
+like you're being watched.
+
+00:27:08.980 --> 00:27:10.360 align:middle line:84%
+AUDIENCE: Without any consent,
+I can see why this is--
+
+00:27:10.360 --> 00:27:11.810 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:27:11.810 --> 00:27:14.320 align:middle line:84%
+Other observations
+that people have?
+
+00:27:14.320 --> 00:27:18.310 align:middle line:84%
+AUDIENCE: Also, calling it a
+social-psychological message
+
+00:27:18.310 --> 00:27:21.400 align:middle line:84%
+makes it feel like the
+experimental group's being
+
+00:27:21.400 --> 00:27:23.560 align:middle line:84%
+propagandized or
+something like that.
+
+00:27:23.560 --> 00:27:25.720 align:middle line:84%
+And so it's like, oh,
+they're being experimented
+
+00:27:25.720 --> 00:27:28.137 align:middle line:84%
+with these different messagings
+to make their brains these
+
+00:27:28.137 --> 00:27:29.095 align:middle line:90%
+think different things.
+
+00:27:29.095 --> 00:27:31.390 align:middle line:84%
+JUSTIN REICH: With the
+social-psychological messages.
+
+00:27:31.390 --> 00:27:34.330 align:middle line:84%
+AUDIENCE: It seems like
+that specific verbiage can
+
+00:27:34.330 --> 00:27:39.070 align:middle line:84%
+be uncomfortable for people
+to accept as something
+
+00:27:39.070 --> 00:27:41.328 align:middle line:90%
+that is potentially beneficial.
+
+00:27:41.328 --> 00:27:42.120 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:27:42.120 --> 00:27:42.230 align:middle line:90%
+Yeah.
+
+00:27:42.230 --> 00:27:43.930 align:middle line:84%
+So the reason why
+people are doing
+
+00:27:43.930 --> 00:27:45.580 align:middle line:84%
+this social-psychological
+messaging
+
+00:27:45.580 --> 00:27:48.460 align:middle line:84%
+is because maybe
+it works, actually.
+
+00:27:48.460 --> 00:27:50.080 align:middle line:84%
+And in this
+particular case, it's
+
+00:27:50.080 --> 00:27:52.760 align:middle line:84%
+not just like, hey, we got
+kind of a hunch this works.
+
+00:27:52.760 --> 00:27:54.700 align:middle line:84%
+These are like, well,
+actually, at this point,
+
+00:27:54.700 --> 00:27:59.000 align:middle line:84%
+there is maybe a decade of
+research that was totally,
+
+00:27:59.000 --> 00:28:01.540 align:middle line:84%
+plausibly suggesting that this
+could genuinely help students
+
+00:28:01.540 --> 00:28:03.730 align:middle line:84%
+learn and improve
+their life outcomes
+
+00:28:03.730 --> 00:28:06.370 align:middle line:84%
+and other kinds of
+things like that.
+
+00:28:06.370 --> 00:28:09.790 align:middle line:84%
+And the way you do that is
+through a social-psychological
+
+00:28:09.790 --> 00:28:12.850 align:middle line:84%
+intervention, although it's not
+clear to me what, in schools, is
+
+00:28:12.850 --> 00:28:14.570 align:middle line:90%
+not social-psychological.
+
+00:28:14.570 --> 00:28:16.470 align:middle line:90%
+
+
+00:28:16.470 --> 00:28:18.220 align:middle line:84%
+AUDIENCE: I was going
+to say another thing
+
+00:28:18.220 --> 00:28:22.450 align:middle line:84%
+that, as much as we need
+the two populations to be
+
+00:28:22.450 --> 00:28:28.150 align:middle line:84%
+like just as representative,
+are the experimental groups even
+
+00:28:28.150 --> 00:28:30.410 align:middle line:84%
+representative of the
+general population?
+
+00:28:30.410 --> 00:28:33.340 align:middle line:84%
+You have to imagine that
+people aren't being forced
+
+00:28:33.340 --> 00:28:36.290 align:middle line:90%
+to participate in these things.
+
+00:28:36.290 --> 00:28:38.810 align:middle line:84%
+Or maybe, if they are, the
+schools that they chose,
+
+00:28:38.810 --> 00:28:41.920 align:middle line:84%
+are they actually representative
+of the entire population?
+
+00:28:41.920 --> 00:28:43.990 align:middle line:84%
+Because there,
+obviously, are studies
+
+00:28:43.990 --> 00:28:46.520 align:middle line:84%
+where they get
+outstanding results,
+
+00:28:46.520 --> 00:28:48.670 align:middle line:84%
+but then the population
+used is not representative
+
+00:28:48.670 --> 00:28:49.880 align:middle line:90%
+of the general population.
+
+00:28:49.880 --> 00:28:52.310 align:middle line:84%
+So then, once they apply those,
+it doesn't actually work.
+
+00:28:52.310 --> 00:28:53.740 align:middle line:90%
+JUSTIN REICH: Yeah, good.
+
+00:28:53.740 --> 00:28:55.690 align:middle line:84%
+And to some extent,
+you might think
+
+00:28:55.690 --> 00:28:58.780 align:middle line:84%
+that organizations like
+Pearson would have an advantage
+
+00:28:58.780 --> 00:29:01.030 align:middle line:90%
+over much smaller companies.
+
+00:29:01.030 --> 00:29:04.720 align:middle line:84%
+Because if you have products
+that are adopted very, very
+
+00:29:04.720 --> 00:29:07.385 align:middle line:84%
+widely across the country in
+lots of different contexts,
+
+00:29:07.385 --> 00:29:09.010 align:middle line:84%
+you might, for
+practical purposes, say,
+
+00:29:09.010 --> 00:29:11.200 align:middle line:84%
+let's just pick these
+handful of schools
+
+00:29:11.200 --> 00:29:13.610 align:middle line:90%
+to be able to test things in.
+
+00:29:13.610 --> 00:29:16.780 align:middle line:84%
+But you could say, we're going
+to pick these handful of schools
+
+00:29:16.780 --> 00:29:20.180 align:middle line:84%
+because these are particularly
+representative schools.
+
+00:29:20.180 --> 00:29:23.960 align:middle line:84%
+Or there might be systems
+that are adopted and laid out
+
+00:29:23.960 --> 00:29:26.900 align:middle line:84%
+in such a way that you
+say, well, let's just pick
+
+00:29:26.900 --> 00:29:29.240 align:middle line:84%
+1% of all students
+in any of the schools
+
+00:29:29.240 --> 00:29:32.020 align:middle line:84%
+who are using our
+system to participate
+
+00:29:32.020 --> 00:29:34.020 align:middle line:84%
+in this randomized study
+or something like that.
+
+00:29:34.020 --> 00:29:35.562 align:middle line:84%
+AUDIENCE: I feel
+like we talked a lot
+
+00:29:35.562 --> 00:29:40.058 align:middle line:84%
+about all of the things that go
+into using a software program.
+
+00:29:40.058 --> 00:29:41.600 align:middle line:84%
+Because, obviously,
+that then entails
+
+00:29:41.600 --> 00:29:44.790 align:middle line:84%
+that you have something to
+run the software program on.
+
+00:29:44.790 --> 00:29:47.540 align:middle line:84%
+So anything online already
+comes with its own set
+
+00:29:47.540 --> 00:29:52.520 align:middle line:84%
+of biases and things that
+affect the types of people
+
+00:29:52.520 --> 00:29:53.628 align:middle line:90%
+that are using it.
+
+00:29:53.628 --> 00:29:54.420 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+00:29:54.420 --> 00:29:55.400 align:middle line:90%
+No, I think that's fair.
+
+00:29:55.400 --> 00:29:57.108 align:middle line:84%
+AUDIENCE: Also, another
+thing that I just
+
+00:29:57.108 --> 00:30:03.050 align:middle line:84%
+realized in what Dana said was
+the population that they're
+
+00:30:03.050 --> 00:30:05.720 align:middle line:84%
+testing this on is in
+college, so they've already
+
+00:30:05.720 --> 00:30:08.270 align:middle line:90%
+probably developed a mindset.
+
+00:30:08.270 --> 00:30:10.530 align:middle line:90%
+And also, they are in college.
+
+00:30:10.530 --> 00:30:13.760 align:middle line:84%
+They probably have already
+a good enough mindset
+
+00:30:13.760 --> 00:30:15.660 align:middle line:90%
+that got them to college.
+
+00:30:15.660 --> 00:30:17.650 align:middle line:90%
+JUSTIN REICH: Yep, although--
+
+00:30:17.650 --> 00:30:20.150 align:middle line:84%
+well, one thing that I really
+love about this study, which I
+
+00:30:20.150 --> 00:30:22.230 align:middle line:90%
+think--
+
+00:30:22.230 --> 00:30:26.240 align:middle line:84%
+so after this
+article came out, I
+
+00:30:26.240 --> 00:30:28.410 align:middle line:84%
+wrote a bunch of things
+which basically said,
+
+00:30:28.410 --> 00:30:30.620 align:middle line:84%
+I think this is a
+pretty unfair article.
+
+00:30:30.620 --> 00:30:32.360 align:middle line:84%
+Here, I'll give you
+the case for why--
+
+00:30:32.360 --> 00:30:35.865 align:middle line:84%
+I think what Pearson
+did here is admirable
+
+00:30:35.865 --> 00:30:37.490 align:middle line:84%
+and needs to be done
+more, although you
+
+00:30:37.490 --> 00:30:39.140 align:middle line:90%
+don't have to agree with me.
+
+00:30:39.140 --> 00:30:43.290 align:middle line:84%
+So, number one,
+generally speaking,
+
+00:30:43.290 --> 00:30:44.990 align:middle line:84%
+there's a body of
+research that suggests
+
+00:30:44.990 --> 00:30:46.500 align:middle line:90%
+these things are a good idea.
+
+00:30:46.500 --> 00:30:49.220 align:middle line:84%
+We don't know, however,
+are they a good idea
+
+00:30:49.220 --> 00:30:52.440 align:middle line:84%
+in this particular product for
+this particular population?
+
+00:30:52.440 --> 00:30:55.310 align:middle line:84%
+So I think it makes
+more sense to run
+
+00:30:55.310 --> 00:30:57.260 align:middle line:84%
+an experiment in this
+particular product
+
+00:30:57.260 --> 00:30:59.870 align:middle line:84%
+for this particular
+population to test the thing
+
+00:30:59.870 --> 00:31:01.350 align:middle line:90%
+rather than just roll it out.
+
+00:31:01.350 --> 00:31:03.270 align:middle line:84%
+This is an important
+counterfactual.
+
+00:31:03.270 --> 00:31:06.080 align:middle line:84%
+If Pearson had simply
+added these messages
+
+00:31:06.080 --> 00:31:08.000 align:middle line:84%
+to everyone in the
+product, there never
+
+00:31:08.000 --> 00:31:09.950 align:middle line:84%
+would have been an
+article about it.
+
+00:31:09.950 --> 00:31:14.090 align:middle line:84%
+Nobody would have
+ever written like,
+
+00:31:14.090 --> 00:31:16.850 align:middle line:84%
+"encouraging messages show
+up in software product"
+
+00:31:16.850 --> 00:31:20.450 align:middle line:84%
+is not an article that even
+the Education Press is going
+
+00:31:20.450 --> 00:31:21.830 align:middle line:90%
+to populate.
+
+00:31:21.830 --> 00:31:24.150 align:middle line:84%
+Number two, another
+counterfactual,
+
+00:31:24.150 --> 00:31:27.800 align:middle line:84%
+there is no
+non-social-psychological
+
+00:31:27.800 --> 00:31:30.500 align:middle line:90%
+response to--
+
+00:31:30.500 --> 00:31:34.190 align:middle line:84%
+every mark your teacher
+has ever put on your paper
+
+00:31:34.190 --> 00:31:36.020 align:middle line:84%
+to indicate whether
+you're right or wrong
+
+00:31:36.020 --> 00:31:38.510 align:middle line:84%
+is a social-psychological
+message.
+
+00:31:38.510 --> 00:31:40.350 align:middle line:84%
+If you go on EdX and
+get something right,
+
+00:31:40.350 --> 00:31:41.460 align:middle line:84%
+you're going to
+get a green check.
+
+00:31:41.460 --> 00:31:42.600 align:middle line:84%
+If you're going to
+get something wrong,
+
+00:31:42.600 --> 00:31:44.150 align:middle line:90%
+you're going to get a red X.
+
+00:31:44.150 --> 00:31:46.020 align:middle line:90%
+That is a set of messaging.
+
+00:31:46.020 --> 00:31:47.420 align:middle line:90%
+If you've ever had a--
+
+00:31:47.420 --> 00:31:50.570 align:middle line:84%
+none of us would say that
+teachers who say "try harder"
+
+00:31:50.570 --> 00:31:52.110 align:middle line:90%
+or "that was great.
+
+00:31:52.110 --> 00:31:55.440 align:middle line:84%
+I'm really proud of you," no
+one would be like, Ms. Jenkins,
+
+00:31:55.440 --> 00:31:57.500 align:middle line:90%
+stop manipulating my children.
+
+00:31:57.500 --> 00:32:02.900 align:middle line:84%
+No, that's exactly what
+we want them to do.
+
+00:32:02.900 --> 00:32:07.070 align:middle line:84%
+Some people are
+concerned about consent.
+
+00:32:07.070 --> 00:32:10.160 align:middle line:84%
+People who go to
+school do not consent
+
+00:32:10.160 --> 00:32:12.110 align:middle line:90%
+to their learning experiences.
+
+00:32:12.110 --> 00:32:15.160 align:middle line:84%
+One of the things that
+we do as a state is
+
+00:32:15.160 --> 00:32:17.460 align:middle line:90%
+say, you must learn stuff.
+
+00:32:17.460 --> 00:32:20.070 align:middle line:84%
+And, in fact, you must learn
+stuff that the state just
+
+00:32:20.070 --> 00:32:23.550 align:middle line:90%
+requires you to learn.
+
+00:32:23.550 --> 00:32:26.940 align:middle line:84%
+These people didn't get to
+decide which Pearson product
+
+00:32:26.940 --> 00:32:30.270 align:middle line:84%
+or which computer science
+project they chose.
+
+00:32:30.270 --> 00:32:33.300 align:middle line:84%
+Why should they get to
+decide whether or not
+
+00:32:33.300 --> 00:32:35.770 align:middle line:84%
+they get an experimental
+version or a control version?
+
+00:32:35.770 --> 00:32:39.475 align:middle line:84%
+And, in fact, the US
+government, for the most part,
+
+00:32:39.475 --> 00:32:40.600 align:middle line:90%
+agrees with this principle.
+
+00:32:40.600 --> 00:32:44.400 align:middle line:84%
+So there's a rule called the
+Common Rule, which dictates
+
+00:32:44.400 --> 00:32:47.940 align:middle line:90%
+how research can be conducted.
+
+00:32:47.940 --> 00:32:49.753 align:middle line:84%
+There's a bunch
+of policy guidance
+
+00:32:49.753 --> 00:32:50.920 align:middle line:90%
+that's associated with that.
+
+00:32:50.920 --> 00:32:53.350 align:middle line:84%
+And there's some categories
+of research that are exempt.
+
+00:32:53.350 --> 00:32:55.530 align:middle line:84%
+The first category of
+research that's exempt
+
+00:32:55.530 --> 00:32:58.832 align:middle line:84%
+is research about typical
+educational practices.
+
+00:32:58.832 --> 00:33:01.290 align:middle line:84%
+If you're studying the kinds
+of ways people teach and learn
+
+00:33:01.290 --> 00:33:04.830 align:middle line:84%
+in the classroom, you are
+not held to the same standard
+
+00:33:04.830 --> 00:33:09.120 align:middle line:84%
+if you're doing pharmaceutical
+research or something like that.
+
+00:33:09.120 --> 00:33:10.780 align:middle line:90%
+There are some exceptions.
+
+00:33:10.780 --> 00:33:13.530 align:middle line:84%
+If you're doing things
+that you could reasonably
+
+00:33:13.530 --> 00:33:17.910 align:middle line:84%
+believe in advance
+might harm people,
+
+00:33:17.910 --> 00:33:19.990 align:middle line:84%
+then you're not exempted
+in the same way,
+
+00:33:19.990 --> 00:33:23.583 align:middle line:84%
+although you can still
+conceivably do the research.
+
+00:33:23.583 --> 00:33:25.500 align:middle line:84%
+Another thing that's
+important about the study
+
+00:33:25.500 --> 00:33:30.720 align:middle line:84%
+is that people talk about
+the potential benefits
+
+00:33:30.720 --> 00:33:32.100 align:middle line:90%
+of an experiment.
+
+00:33:32.100 --> 00:33:34.180 align:middle line:84%
+But experiments can
+also harm people.
+
+00:33:34.180 --> 00:33:37.980 align:middle line:84%
+It could be that, even if, on
+average, this growth messaging
+
+00:33:37.980 --> 00:33:39.670 align:middle line:84%
+was great and worked
+in lots of studies,
+
+00:33:39.670 --> 00:33:41.970 align:middle line:84%
+it could be that, in
+this particular context
+
+00:33:41.970 --> 00:33:45.687 align:middle line:84%
+or other kinds of things,
+it made things worse.
+
+00:33:45.687 --> 00:33:48.270 align:middle line:84%
+And we should probably make sure
+that when we introduce things
+
+00:33:48.270 --> 00:33:50.040 align:middle line:84%
+in the classroom, we
+make things worse.
+
+00:33:50.040 --> 00:33:52.380 align:middle line:84%
+How many people would have
+been concerned-- let's
+
+00:33:52.380 --> 00:33:58.440 align:middle line:84%
+say that in 2017, they had
+everyone use one Pearson
+
+00:33:58.440 --> 00:34:01.210 align:middle line:84%
+product, maybe, that doesn't
+have any growth messaging.
+
+00:34:01.210 --> 00:34:04.650 align:middle line:84%
+And in 2018, everyone
+uses a Pearson product
+
+00:34:04.650 --> 00:34:07.282 align:middle line:84%
+that had the messaging
+associated with it.
+
+00:34:07.282 --> 00:34:09.449 align:middle line:84%
+Do you think that would
+have raised people's concern
+
+00:34:09.449 --> 00:34:12.550 align:middle line:90%
+or felt creepy?
+
+00:34:12.550 --> 00:34:13.050 align:middle line:90%
+Why not?
+
+00:34:13.050 --> 00:34:14.125 align:middle line:90%
+Why does that feel OK?
+
+00:34:14.125 --> 00:34:22.485 align:middle line:90%
+
+
+00:34:22.485 --> 00:34:23.610 align:middle line:90%
+You're like, wait a minute.
+
+00:34:23.610 --> 00:34:25.352 align:middle line:90%
+It's the exact same thing.
+
+00:34:25.352 --> 00:34:26.810 align:middle line:84%
+AUDIENCE: I think
+there's this idea
+
+00:34:26.810 --> 00:34:31.230 align:middle line:90%
+of potential discrimination.
+
+00:34:31.230 --> 00:34:33.060 align:middle line:84%
+Hey, why can't I
+be part of that?
+
+00:34:33.060 --> 00:34:36.500 align:middle line:90%
+It's either everybody or nobody.
+
+00:34:36.500 --> 00:34:38.750 align:middle line:84%
+JUSTIN REICH: The more an
+intervention is particularly
+
+00:34:38.750 --> 00:34:41.900 align:middle line:84%
+powerful, the more
+you're like, it
+
+00:34:41.900 --> 00:34:46.489 align:middle line:84%
+feels kind of like if control
+group gets this intervention
+
+00:34:46.489 --> 00:34:51.560 align:middle line:84%
+and gets an average grade of
+89 and experimental group gets
+
+00:34:51.560 --> 00:34:54.949 align:middle line:84%
+the intervention, and they
+have an average grade of 89.5,
+
+00:34:54.949 --> 00:34:57.360 align:middle line:84%
+there's something that
+seems unfair about that,
+
+00:34:57.360 --> 00:35:02.720 align:middle line:84%
+although, again, if, in
+2018, we give you a software
+
+00:35:02.720 --> 00:35:05.295 align:middle line:84%
+product that you get an
+average grade of an 89,
+
+00:35:05.295 --> 00:35:06.920 align:middle line:84%
+and, in the following
+year, we give you
+
+00:35:06.920 --> 00:35:10.440 align:middle line:84%
+a software product with
+an average grade of 89.5--
+
+00:35:10.440 --> 00:35:13.350 align:middle line:84%
+your birth year was
+pretty random, too.
+
+00:35:13.350 --> 00:35:16.147 align:middle line:84%
+And so there's
+something about that.
+
+00:35:16.147 --> 00:35:17.730 align:middle line:84%
+The case I want to
+make is that here's
+
+00:35:17.730 --> 00:35:20.730 align:middle line:90%
+another way to think about it.
+
+00:35:20.730 --> 00:35:24.210 align:middle line:84%
+Most people would be appalled
+by an education system that
+
+00:35:24.210 --> 00:35:26.040 align:middle line:90%
+didn't have variation.
+
+00:35:26.040 --> 00:35:28.650 align:middle line:84%
+My hunch is all of you
+believe that variation
+
+00:35:28.650 --> 00:35:31.150 align:middle line:84%
+is an essential part
+of educational systems.
+
+00:35:31.150 --> 00:35:36.110 align:middle line:84%
+You believe that your teachers,
+your textbook publishers,
+
+00:35:36.110 --> 00:35:37.860 align:middle line:84%
+your software developers,
+should be trying
+
+00:35:37.860 --> 00:35:39.285 align:middle line:90%
+to improve their products.
+
+00:35:39.285 --> 00:35:41.410 align:middle line:84%
+They should be trying to
+improve their instruction.
+
+00:35:41.410 --> 00:35:43.210 align:middle line:84%
+They should be trying to
+improve their lesson plans.
+
+00:35:43.210 --> 00:35:45.190 align:middle line:84%
+The only way you do that
+is through variation.
+
+00:35:45.190 --> 00:35:46.720 align:middle line:84%
+You teach one lesson
+plan one year.
+
+00:35:46.720 --> 00:35:48.790 align:middle line:84%
+You teach a different
+lesson plan the next year.
+
+00:35:48.790 --> 00:35:49.540 align:middle line:90%
+Sometimes it's better.
+
+00:35:49.540 --> 00:35:50.440 align:middle line:90%
+Sometimes it's worse.
+
+00:35:50.440 --> 00:35:53.670 align:middle line:84%
+My hunch is you all are totally
+comfortable with the idea
+
+00:35:53.670 --> 00:35:57.220 align:middle line:84%
+that some of that variation
+will be bad and that most of it,
+
+00:35:57.220 --> 00:35:58.740 align:middle line:90%
+on average, will be good.
+
+00:35:58.740 --> 00:36:03.060 align:middle line:84%
+The main thing that
+randomized trials like this do
+
+00:36:03.060 --> 00:36:06.690 align:middle line:84%
+is they take that variation,
+and they make it systematic
+
+00:36:06.690 --> 00:36:08.340 align:middle line:90%
+so we can learn from it.
+
+00:36:08.340 --> 00:36:13.120 align:middle line:84%
+If we do one thing in 2017
+and a different thing in 2018,
+
+00:36:13.120 --> 00:36:16.050 align:middle line:84%
+it's actually much, much
+harder to figure out
+
+00:36:16.050 --> 00:36:17.940 align:middle line:84%
+if the different
+thing worked or not
+
+00:36:17.940 --> 00:36:20.118 align:middle line:84%
+because all the
+people in 2017 might
+
+00:36:20.118 --> 00:36:21.660 align:middle line:84%
+be, in some systematic
+way, different
+
+00:36:21.660 --> 00:36:23.370 align:middle line:90%
+from the people in 2018.
+
+00:36:23.370 --> 00:36:27.630 align:middle line:84%
+The best way to be sure that the
+difference between two groups
+
+00:36:27.630 --> 00:36:30.250 align:middle line:84%
+is just because of the thing
+we're intervening about
+
+00:36:30.250 --> 00:36:31.440 align:middle line:90%
+is a randomized trial.
+
+00:36:31.440 --> 00:36:33.735 align:middle line:84%
+That is the magic
+of randomized trial.
+
+00:36:33.735 --> 00:36:36.390 align:middle line:90%
+
+
+00:36:36.390 --> 00:36:38.830 align:middle line:84%
+Everyone in the education
+system believes in variation.
+
+00:36:38.830 --> 00:36:42.420 align:middle line:90%
+We all want things to improve.
+
+00:36:42.420 --> 00:36:45.150 align:middle line:84%
+It's actually not that
+hard to convince people
+
+00:36:45.150 --> 00:36:48.090 align:middle line:84%
+that the best way
+to systematically
+
+00:36:48.090 --> 00:36:50.700 align:middle line:84%
+vary things is
+through randomization.
+
+00:36:50.700 --> 00:36:55.980 align:middle line:84%
+And almost all of us find
+that randomization creepy.
+
+00:36:55.980 --> 00:36:58.033 align:middle line:84%
+Even if you explain all
+of it, you're like, ah,
+
+00:36:58.033 --> 00:36:59.200 align:middle line:90%
+it still doesn't feel right.
+
+00:36:59.200 --> 00:36:59.820 align:middle line:90%
+It still doesn't feel--
+
+00:36:59.820 --> 00:37:01.780 align:middle line:84%
+there's been some cool studies
+they've done in the past.
+
+00:37:01.780 --> 00:37:02.800 align:middle line:90%
+It shows up in health care.
+
+00:37:02.800 --> 00:37:04.350 align:middle line:84%
+It shows up in other
+kinds of things,
+
+00:37:04.350 --> 00:37:08.970 align:middle line:84%
+like you ask
+patients like, do you
+
+00:37:08.970 --> 00:37:11.680 align:middle line:84%
+want an unproven treatment
+that might work better?
+
+00:37:11.680 --> 00:37:13.663 align:middle line:84%
+And they'll be like,
+well, yeah, maybe.
+
+00:37:13.663 --> 00:37:16.080 align:middle line:84%
+Do you want to be randomized
+to an unproven treatment that
+
+00:37:16.080 --> 00:37:16.830 align:middle line:90%
+might work better?
+
+00:37:16.830 --> 00:37:18.870 align:middle line:84%
+No, definitely--
+and it's like, it's
+
+00:37:18.870 --> 00:37:23.250 align:middle line:84%
+the same thing, except we can
+learn from the randomization.
+
+00:37:23.250 --> 00:37:26.460 align:middle line:84%
+AUDIENCE: My question
+is, in this case,
+
+00:37:26.460 --> 00:37:34.890 align:middle line:84%
+how are these different from
+when companies release betas
+
+00:37:34.890 --> 00:37:37.480 align:middle line:84%
+that some people get
+and some people don't?
+
+00:37:37.480 --> 00:37:38.710 align:middle line:90%
+JUSTIN REICH: Oh, here's--
+
+00:37:38.710 --> 00:37:42.810 align:middle line:84%
+every time you interact with
+a software product, every time
+
+00:37:42.810 --> 00:37:44.772 align:middle line:84%
+you interact with a
+web-based software product,
+
+00:37:44.772 --> 00:37:46.230 align:middle line:84%
+there is a reasonable
+chance you're
+
+00:37:46.230 --> 00:37:49.530 align:middle line:84%
+participating in an
+experiment just like this.
+
+00:37:49.530 --> 00:37:50.740 align:middle line:90%
+The numbers won't be right.
+
+00:37:50.740 --> 00:37:53.340 align:middle line:84%
+One out of every 100
+times you go to Amazon,
+
+00:37:53.340 --> 00:37:56.320 align:middle line:84%
+the buy button is going to
+be green instead of blue.
+
+00:37:56.320 --> 00:37:59.070 align:middle line:84%
+And someone is doing a test
+to figure out whether or not
+
+00:37:59.070 --> 00:38:01.830 align:middle line:84%
+you pushing the green
+button is better.
+
+00:38:01.830 --> 00:38:05.230 align:middle line:84%
+One out of every 100 times, or
+1,000 times or 10 times you go
+
+00:38:05.230 --> 00:38:07.990 align:middle line:84%
+to Google, they're going to give
+you some variation of the search
+
+00:38:07.990 --> 00:38:11.020 align:middle line:84%
+algorithm to see if you're
+happier or you linger longer
+
+00:38:11.020 --> 00:38:12.820 align:middle line:84%
+or you're more
+likely to click ads.
+
+00:38:12.820 --> 00:38:17.530 align:middle line:84%
+We interact every day
+with software platforms
+
+00:38:17.530 --> 00:38:20.290 align:middle line:84%
+that are collecting vast
+amounts of information on us
+
+00:38:20.290 --> 00:38:23.010 align:middle line:84%
+and conducting experiments
+on us all the time.
+
+00:38:23.010 --> 00:38:25.600 align:middle line:90%
+
+
+00:38:25.600 --> 00:38:29.500 align:middle line:84%
+The reason why those companies
+use those two approaches
+
+00:38:29.500 --> 00:38:33.460 align:middle line:84%
+is because they are enormously
+powerful at improving products.
+
+00:38:33.460 --> 00:38:37.010 align:middle line:84%
+The reason why just about
+any query you have--
+
+00:38:37.010 --> 00:38:39.200 align:middle line:84%
+you go into Google
+and ask it a question,
+
+00:38:39.200 --> 00:38:40.698 align:middle line:84%
+and it tells you
+an accurate answer
+
+00:38:40.698 --> 00:38:42.490 align:middle line:84%
+that's relevant to the
+question you asked--
+
+00:38:42.490 --> 00:38:46.900 align:middle line:84%
+is because they have conducted
+billions of experiments
+
+00:38:46.900 --> 00:38:49.000 align:middle line:84%
+on millions or
+billions of people
+
+00:38:49.000 --> 00:38:51.880 align:middle line:84%
+all throughout the last
+20, 25 years that they've
+
+00:38:51.880 --> 00:38:52.870 align:middle line:90%
+been operating.
+
+00:38:52.870 --> 00:38:57.850 align:middle line:84%
+It is an essential part of
+our software infrastructure.
+
+00:38:57.850 --> 00:39:01.390 align:middle line:90%
+And I don't like--
+
+00:39:01.390 --> 00:39:05.880 align:middle line:84%
+does the idea that you are
+participating in experiments all
+
+00:39:05.880 --> 00:39:08.010 align:middle line:84%
+the time when you
+go Amazon shopping,
+
+00:39:08.010 --> 00:39:12.480 align:middle line:84%
+does that have the same
+level of creepiness to you?
+
+00:39:12.480 --> 00:39:15.010 align:middle line:84%
+For some reason, it's
+like, yeah, Jeff Bezos,
+
+00:39:15.010 --> 00:39:16.030 align:middle line:90%
+do whatever you want.
+
+00:39:16.030 --> 00:39:20.410 align:middle line:84%
+But we feel differently about
+Pearson, for some reason.
+
+00:39:20.410 --> 00:39:23.170 align:middle line:84%
+AUDIENCE: I have a
+question about beyond the,
+
+00:39:23.170 --> 00:39:25.060 align:middle line:84%
+is this creepy or
+not creepy question,
+
+00:39:25.060 --> 00:39:28.740 align:middle line:84%
+but if I have decided
+to buy a product,
+
+00:39:28.740 --> 00:39:32.170 align:middle line:84%
+like I'm paying to use Amazon
+or I'm paying to use Pearson,
+
+00:39:32.170 --> 00:39:34.770 align:middle line:84%
+and with that is the
+assumption that I
+
+00:39:34.770 --> 00:39:37.680 align:middle line:84%
+understand the thing I am buying
+because you pitched it to me--
+
+00:39:37.680 --> 00:39:38.280 align:middle line:90%
+JUSTIN REICH: I love this.
+
+00:39:38.280 --> 00:39:40.238 align:middle line:84%
+AUDIENCE: --in a certain
+way and I will get it.
+
+00:39:40.238 --> 00:39:42.060 align:middle line:84%
+So then how does
+the question of, are
+
+00:39:42.060 --> 00:39:44.730 align:middle line:84%
+you allowed or not allowed
+to do this go from there?
+
+00:39:44.730 --> 00:39:47.340 align:middle line:84%
+JUSTIN REICH: And it
+would be a huge difference
+
+00:39:47.340 --> 00:39:51.240 align:middle line:84%
+from historical educational
+curriculum material purchases.
+
+00:39:51.240 --> 00:39:56.620 align:middle line:84%
+It used to be I bought Houghton
+Mifflin Biology, eighth edition,
+
+00:39:56.620 --> 00:39:59.470 align:middle line:84%
+and I just know exactly
+what's in eighth edition.
+
+00:39:59.470 --> 00:40:01.522 align:middle line:84%
+And, in fact, the
+salesperson is going
+
+00:40:01.522 --> 00:40:03.730 align:middle line:84%
+to come back when ninth
+edition is going to come out.
+
+00:40:03.730 --> 00:40:04.990 align:middle line:84%
+And they're going
+to be like, here's
+
+00:40:04.990 --> 00:40:07.220 align:middle line:84%
+what's different about ninth
+edition, why you could buy it.
+
+00:40:07.220 --> 00:40:08.762 align:middle line:84%
+And I might be like,
+no, I don't like
+
+00:40:08.762 --> 00:40:10.060 align:middle line:90%
+what you did in ninth edition.
+
+00:40:10.060 --> 00:40:12.268 align:middle line:84%
+I'm going to switch to a
+different company's products
+
+00:40:12.268 --> 00:40:16.990 align:middle line:84%
+because these improvements
+are not improvements.
+
+00:40:16.990 --> 00:40:19.510 align:middle line:84%
+Under what circumstances
+should companies
+
+00:40:19.510 --> 00:40:23.410 align:middle line:84%
+be able to dynamically improve
+their educational products?
+
+00:40:23.410 --> 00:40:27.940 align:middle line:84%
+What kind of information should
+they make accessible about that?
+
+00:40:27.940 --> 00:40:30.230 align:middle line:90%
+Should they tell families?
+
+00:40:30.230 --> 00:40:32.120 align:middle line:90%
+Should they tell educators?
+
+00:40:32.120 --> 00:40:35.050 align:middle line:84%
+Should they tell-- people could
+come up with different answers
+
+00:40:35.050 --> 00:40:36.760 align:middle line:90%
+to these questions.
+
+00:40:36.760 --> 00:40:38.440 align:middle line:84%
+I think actually
+publishing a bunch
+
+00:40:38.440 --> 00:40:41.270 align:middle line:84%
+of that information is
+probably enormously important
+
+00:40:41.270 --> 00:40:43.923 align:middle line:84%
+but not to parents and
+teachers and educators.
+
+00:40:43.923 --> 00:40:45.340 align:middle line:84%
+Parents and teachers
+and educators
+
+00:40:45.340 --> 00:40:49.870 align:middle line:84%
+have no time to be tracking how
+your Pearson computer science
+
+00:40:49.870 --> 00:40:51.910 align:middle line:90%
+practice problems are changing.
+
+00:40:51.910 --> 00:40:55.240 align:middle line:84%
+There are specialized advocates
+across the country who
+
+00:40:55.240 --> 00:40:57.820 align:middle line:84%
+focus on education, who
+focus on student privacy
+
+00:40:57.820 --> 00:40:59.608 align:middle line:84%
+or other kinds of
+things, who actually
+
+00:40:59.608 --> 00:41:01.900 align:middle line:84%
+would have the time and
+expertise to follow those audit
+
+00:41:01.900 --> 00:41:03.040 align:middle line:90%
+records.
+
+00:41:03.040 --> 00:41:05.860 align:middle line:84%
+But if we started
+sending home a notice
+
+00:41:05.860 --> 00:41:09.370 align:middle line:84%
+to parents every time a company
+who used one of their products
+
+00:41:09.370 --> 00:41:12.190 align:middle line:84%
+was conducting an
+experiment, it would just
+
+00:41:12.190 --> 00:41:16.240 align:middle line:84%
+be the terms and service
+conditions of your--
+
+00:41:16.240 --> 00:41:19.060 align:middle line:84%
+presumably, too,
+by the way, it's
+
+00:41:19.060 --> 00:41:23.800 align:middle line:84%
+very unlikely that when whatever
+school bought this Pearson
+
+00:41:23.800 --> 00:41:27.190 align:middle line:84%
+product, presumably their
+lawyers are competent,
+
+00:41:27.190 --> 00:41:29.650 align:middle line:84%
+and they made them sign a
+purchase and sale agreement that
+
+00:41:29.650 --> 00:41:31.570 align:middle line:84%
+included these
+kinds of conditions
+
+00:41:31.570 --> 00:41:35.590 align:middle line:84%
+in them, although it's also the
+case that the researchers who
+
+00:41:35.590 --> 00:41:38.750 align:middle line:84%
+did this thing didn't sit down
+with these schools and are like,
+
+00:41:38.750 --> 00:41:41.450 align:middle line:84%
+let me tell you what we're doing
+in the next phase so that you--
+
+00:41:41.450 --> 00:41:41.950 align:middle line:90%
+they might.
+
+00:41:41.950 --> 00:41:43.783 align:middle line:84%
+I think, in this case,
+they didn't give them
+
+00:41:43.783 --> 00:41:44.630 align:middle line:90%
+much indication.
+
+00:41:44.630 --> 00:41:48.340 align:middle line:90%
+
+
+00:41:48.340 --> 00:41:50.835 align:middle line:90%
+AUDIENCE: Would it be--
+
+00:41:50.835 --> 00:41:52.210 align:middle line:84%
+I guess, back to
+the conversation
+
+00:41:52.210 --> 00:41:56.800 align:middle line:84%
+of if it's creepy
+or not, do you think
+
+00:41:56.800 --> 00:42:00.580 align:middle line:84%
+it might have anything to do
+with the illusion of choice
+
+00:42:00.580 --> 00:42:01.370 align:middle line:90%
+that you're given?
+
+00:42:01.370 --> 00:42:05.260 align:middle line:84%
+For example, if you're
+on Amazon or something,
+
+00:42:05.260 --> 00:42:08.980 align:middle line:84%
+or if you're on an app, you
+have the choice sometimes
+
+00:42:08.980 --> 00:42:12.760 align:middle line:84%
+not to update the app and just
+stay on the previous setting,
+
+00:42:12.760 --> 00:42:18.100 align:middle line:84%
+or if you have something like
+Amazon, you can not use Amazon,
+
+00:42:18.100 --> 00:42:21.640 align:middle line:84%
+or you're perceiving
+it as you're
+
+00:42:21.640 --> 00:42:25.840 align:middle line:84%
+choosing to opt into that, while
+in a situation where you have
+
+00:42:25.840 --> 00:42:28.030 align:middle line:84%
+to use a certain
+technology in school,
+
+00:42:28.030 --> 00:42:30.970 align:middle line:84%
+you could argue that this
+student doesn't have a choice
+
+00:42:30.970 --> 00:42:34.672 align:middle line:90%
+to opt out of this if they--
+
+00:42:34.672 --> 00:42:36.880 align:middle line:84%
+JUSTIN REICH: And you could
+see that choice operating
+
+00:42:36.880 --> 00:42:37.713 align:middle line:90%
+at different levels.
+
+00:42:37.713 --> 00:42:40.480 align:middle line:84%
+So a grade school student
+has zero choice about whether
+
+00:42:40.480 --> 00:42:41.840 align:middle line:90%
+or not to go to grade school.
+
+00:42:41.840 --> 00:42:45.010 align:middle line:84%
+Every college student
+chose to go to college.
+
+00:42:45.010 --> 00:42:48.560 align:middle line:84%
+Now, once you've chosen
+to go to college,
+
+00:42:48.560 --> 00:42:50.770 align:middle line:84%
+it doesn't feel like
+that should mean
+
+00:42:50.770 --> 00:42:53.860 align:middle line:84%
+you have to accept
+everything that comes along
+
+00:42:53.860 --> 00:42:59.590 align:middle line:84%
+with college,
+although, again, you
+
+00:42:59.590 --> 00:43:01.930 align:middle line:84%
+could choose some
+majors over other majors
+
+00:43:01.930 --> 00:43:03.350 align:middle line:90%
+based on the technology.
+
+00:43:03.350 --> 00:43:05.710 align:middle line:84%
+You choose some
+classes over classes.
+
+00:43:05.710 --> 00:43:09.310 align:middle line:84%
+The moment recently in
+which some of this most
+
+00:43:09.310 --> 00:43:14.740 align:middle line:84%
+came into focus was when schools
+started requiring students
+
+00:43:14.740 --> 00:43:18.550 align:middle line:90%
+to adopt proctoring software.
+
+00:43:18.550 --> 00:43:21.010 align:middle line:90%
+So probably none of you--
+
+00:43:21.010 --> 00:43:24.370 align:middle line:84%
+have any of you ever taken
+a remotely proctored test?
+
+00:43:24.370 --> 00:43:25.385 align:middle line:90%
+At MIT?
+
+00:43:25.385 --> 00:43:26.260 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:43:26.260 --> 00:43:28.677 align:middle line:84%
+JUSTIN REICH: Where did you
+take a remotely proctored test
+
+00:43:28.677 --> 00:43:29.290 align:middle line:90%
+at MIT?
+
+00:43:29.290 --> 00:43:35.590 align:middle line:84%
+AUDIENCE: I believe it was
+at the ASE during my freshman
+
+00:43:35.590 --> 00:43:36.620 align:middle line:90%
+starting year.
+
+00:43:36.620 --> 00:43:39.920 align:middle line:84%
+They used some weird
+proctoring software for that.
+
+00:43:39.920 --> 00:43:44.210 align:middle line:84%
+JUSTIN REICH: Where you had
+to take your laptop or webcam,
+
+00:43:44.210 --> 00:43:46.650 align:middle line:84%
+show the rest of your room,
+all these kinds of things?
+
+00:43:46.650 --> 00:43:47.380 align:middle line:90%
+AUDIENCE: Yeah, essentially.
+
+00:43:47.380 --> 00:43:48.190 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:43:48.190 --> 00:43:52.660 align:middle line:84%
+So there are a number
+of cases where,
+
+00:43:52.660 --> 00:43:56.230 align:middle line:84%
+for instance,
+universities implemented
+
+00:43:56.230 --> 00:44:00.200 align:middle line:84%
+this kind of proctoring software
+mid-semester and, in fact,
+
+00:44:00.200 --> 00:44:03.920 align:middle line:84%
+implemented at mid-semester and
+required students to pay for it.
+
+00:44:03.920 --> 00:44:07.570 align:middle line:84%
+You can imagine that as a set of
+circumstances which most draws
+
+00:44:07.570 --> 00:44:10.217 align:middle line:84%
+the ire of people
+because I've already
+
+00:44:10.217 --> 00:44:11.300 align:middle line:90%
+committed to this college.
+
+00:44:11.300 --> 00:44:12.890 align:middle line:84%
+I've already committed
+to this course.
+
+00:44:12.890 --> 00:44:15.880 align:middle line:84%
+Now you're making me,
+essentially, install spyware
+
+00:44:15.880 --> 00:44:19.930 align:middle line:84%
+on my machine and then, I don't
+know, have some random person
+
+00:44:19.930 --> 00:44:22.430 align:middle line:84%
+see what my dorm room looks
+like and other kinds of things--
+
+00:44:22.430 --> 00:44:23.150 align:middle line:90%
+or my bedroom.
+
+00:44:23.150 --> 00:44:25.390 align:middle line:84%
+These sort of
+things seem creepy.
+
+00:44:25.390 --> 00:44:28.270 align:middle line:84%
+Arguably, maybe, they're
+less creepy the more that
+
+00:44:28.270 --> 00:44:30.740 align:middle line:84%
+they're disclosed
+to people over time,
+
+00:44:30.740 --> 00:44:33.940 align:middle line:84%
+although I also use the
+phrase "illusion of choice"
+
+00:44:33.940 --> 00:44:35.920 align:middle line:84%
+because, in fact,
+for lots of things--
+
+00:44:35.920 --> 00:44:40.060 align:middle line:84%
+for instance, there are
+no cell service companies
+
+00:44:40.060 --> 00:44:44.560 align:middle line:84%
+that compete on the basis of
+not selling your location data.
+
+00:44:44.560 --> 00:44:49.330 align:middle line:84%
+It is not really a choice to
+not have a mobile phone anymore
+
+00:44:49.330 --> 00:44:50.330 align:middle line:90%
+in society.
+
+00:44:50.330 --> 00:44:53.113 align:middle line:90%
+And so you're not really--
+
+00:44:53.113 --> 00:44:55.280 align:middle line:84%
+in theory, that's a choice,
+but it's not really one.
+
+00:44:55.280 --> 00:44:56.580 align:middle line:84%
+Going to college
+for some people,
+
+00:44:56.580 --> 00:44:57.300 align:middle line:90%
+it's not really a choice.
+
+00:44:57.300 --> 00:44:59.092 align:middle line:84%
+Like you're going to
+have to go to a choice
+
+00:44:59.092 --> 00:45:02.280 align:middle line:84%
+to have the life that you
+want and things like that.
+
+00:45:02.280 --> 00:45:05.820 align:middle line:84%
+But I do think K-12 students,
+in particular-- now,
+
+00:45:05.820 --> 00:45:09.030 align:middle line:84%
+another unusual feature
+of this is that--
+
+00:45:09.030 --> 00:45:13.920 align:middle line:84%
+and it goes back to this
+sort of data collection--
+
+00:45:13.920 --> 00:45:15.500 align:middle line:84%
+many K-12 students
+across the country
+
+00:45:15.500 --> 00:45:17.990 align:middle line:84%
+are mandated to create
+a Google account.
+
+00:45:17.990 --> 00:45:20.030 align:middle line:84%
+And then Google
+has reams of data
+
+00:45:20.030 --> 00:45:25.190 align:middle line:84%
+about all these kinds of things
+that they do with that data.
+
+00:45:25.190 --> 00:45:30.260 align:middle line:84%
+And there might be
+various ways that, again--
+
+00:45:30.260 --> 00:45:33.080 align:middle line:84%
+so to what extent these
+things are legitimate or not.
+
+00:45:33.080 --> 00:45:35.877 align:middle line:84%
+It's probably much less
+of a debate these days.
+
+00:45:35.877 --> 00:45:37.460 align:middle line:84%
+But definitely when
+schools were first
+
+00:45:37.460 --> 00:45:40.220 align:middle line:84%
+adopting Google
+for Education, it
+
+00:45:40.220 --> 00:45:43.820 align:middle line:84%
+was not uncommon to hear
+that school boards had
+
+00:45:43.820 --> 00:45:45.810 align:middle line:84%
+really vigorous
+complaints from parents.
+
+00:45:45.810 --> 00:45:48.560 align:middle line:84%
+And oftentimes, the
+most vigorous complaints
+
+00:45:48.560 --> 00:45:51.685 align:middle line:84%
+came from parents who worked
+in the software industry.
+
+00:45:51.685 --> 00:45:53.850 align:middle line:84%
+They're like, I know
+who these people are.
+
+00:45:53.850 --> 00:45:55.340 align:middle line:90%
+I work for these companies.
+
+00:45:55.340 --> 00:45:58.670 align:middle line:84%
+How are you going to make my
+kid do these kinds of things?
+
+00:45:58.670 --> 00:46:02.570 align:middle line:84%
+Let's talk about another
+one of these cases.
+
+00:46:02.570 --> 00:46:07.770 align:middle line:84%
+So another story that you read
+about was inBloom in 2013.
+
+00:46:07.770 --> 00:46:10.640 align:middle line:84%
+So the Gates Foundation,
+along with a number
+
+00:46:10.640 --> 00:46:11.640 align:middle line:90%
+of other organizations--
+
+00:46:11.640 --> 00:46:13.307 align:middle line:84%
+Wireless Generation,
+some other people--
+
+00:46:13.307 --> 00:46:17.600 align:middle line:84%
+observed, man,
+here's a weird thing.
+
+00:46:17.600 --> 00:46:24.600 align:middle line:84%
+Companies who serve schools have
+tons of data about students.
+
+00:46:24.600 --> 00:46:28.460 align:middle line:84%
+And the only way we can
+make this system work,
+
+00:46:28.460 --> 00:46:30.180 align:middle line:84%
+or the way the system
+currently works,
+
+00:46:30.180 --> 00:46:33.732 align:middle line:84%
+is some company goes to a
+school district and says,
+
+00:46:33.732 --> 00:46:35.190 align:middle line:84%
+we'll operate this
+service for you,
+
+00:46:35.190 --> 00:46:36.920 align:middle line:90%
+but here's all the data we need.
+
+00:46:36.920 --> 00:46:40.850 align:middle line:84%
+And the schools are
+like, yeah, OK, deal.
+
+00:46:40.850 --> 00:46:44.300 align:middle line:84%
+And if you make enough of
+those kinds of arrangements--
+
+00:46:44.300 --> 00:46:45.830 align:middle line:84%
+another exercise
+we could do here
+
+00:46:45.830 --> 00:46:49.130 align:middle line:84%
+is make a list of all of the
+educational software products
+
+00:46:49.130 --> 00:46:51.200 align:middle line:84%
+that you've ever
+used in schools.
+
+00:46:51.200 --> 00:46:52.670 align:middle line:84%
+And you all could
+probably come up
+
+00:46:52.670 --> 00:46:55.977 align:middle line:84%
+with lists of dozens or
+more software products
+
+00:46:55.977 --> 00:46:57.810 align:middle line:84%
+that you've encountered
+in some kind of way.
+
+00:46:57.810 --> 00:46:59.810 align:middle line:84%
+Those are all people that
+have some kind of data
+
+00:46:59.810 --> 00:47:01.190 align:middle line:90%
+about you somewhere.
+
+00:47:01.190 --> 00:47:03.290 align:middle line:84%
+That seems like a
+terrible infrastructure.
+
+00:47:03.290 --> 00:47:05.570 align:middle line:84%
+You require people
+to go to schools.
+
+00:47:05.570 --> 00:47:08.210 align:middle line:84%
+The schools make contracts
+with third parties
+
+00:47:08.210 --> 00:47:09.480 align:middle line:90%
+to provide services.
+
+00:47:09.480 --> 00:47:12.560 align:middle line:84%
+And all those third parties
+end up with shards of data.
+
+00:47:12.560 --> 00:47:17.030 align:middle line:84%
+So the idea of
+inBloom was, let's
+
+00:47:17.030 --> 00:47:20.420 align:middle line:84%
+concentrate all of the
+data about students
+
+00:47:20.420 --> 00:47:25.328 align:middle line:90%
+in one nonprofit organization.
+
+00:47:25.328 --> 00:47:26.870 align:middle line:84%
+It would be something
+along the lines
+
+00:47:26.870 --> 00:47:28.970 align:middle line:84%
+of trying to generate
+the kind of data
+
+00:47:28.970 --> 00:47:31.190 align:middle line:84%
+set that the Norwegian
+study that I just showed you
+
+00:47:31.190 --> 00:47:32.480 align:middle line:90%
+would require.
+
+00:47:32.480 --> 00:47:36.050 align:middle line:84%
+Let's get all their
+student records.
+
+00:47:36.050 --> 00:47:38.190 align:middle line:90%
+Let's get all their app usage.
+
+00:47:38.190 --> 00:47:39.980 align:middle line:84%
+Let's get all those
+kinds of things
+
+00:47:39.980 --> 00:47:45.380 align:middle line:84%
+and have a nonprofit entity
+hold on to that data.
+
+00:47:45.380 --> 00:47:47.600 align:middle line:84%
+And, in particular,
+let's make it
+
+00:47:47.600 --> 00:47:53.663 align:middle line:84%
+so that, instead of
+companies making arrangements
+
+00:47:53.663 --> 00:47:55.580 align:middle line:84%
+with individual school
+districts to get access
+
+00:47:55.580 --> 00:47:57.800 align:middle line:84%
+to the data they
+need, they just get
+
+00:47:57.800 --> 00:48:00.860 align:middle line:90%
+in touch with this nonprofit.
+
+00:48:00.860 --> 00:48:03.770 align:middle line:84%
+Now, what could potentially
+be good about having
+
+00:48:03.770 --> 00:48:08.443 align:middle line:84%
+a nonprofit intermediary between
+schools and third parties
+
+00:48:08.443 --> 00:48:10.110 align:middle line:84%
+that want to provide
+services to schools
+
+00:48:10.110 --> 00:48:11.305 align:middle line:90%
+but require data to do it?
+
+00:48:11.305 --> 00:48:14.210 align:middle line:90%
+
+
+00:48:14.210 --> 00:48:16.460 align:middle line:84%
+AUDIENCE: I think public
+perception is that nonprofits
+
+00:48:16.460 --> 00:48:19.170 align:middle line:84%
+are a lot more trustworthy
+than for-profit companies,
+
+00:48:19.170 --> 00:48:21.090 align:middle line:84%
+so people won't get as
+freaked out about it.
+
+00:48:21.090 --> 00:48:21.600 align:middle line:90%
+JUSTIN REICH: Yeah, good.
+
+00:48:21.600 --> 00:48:24.000 align:middle line:84%
+So do you want Pearson
+to have all of this data,
+
+00:48:24.000 --> 00:48:28.250 align:middle line:84%
+or do you want inBloom, funded
+by a consortium of state
+
+00:48:28.250 --> 00:48:31.080 align:middle line:84%
+departments-- it was funded
+by the Gates Foundation
+
+00:48:31.080 --> 00:48:33.540 align:middle line:84%
+but sponsored by a set of
+state departments of education
+
+00:48:33.540 --> 00:48:34.290 align:middle line:90%
+to have this data?
+
+00:48:34.290 --> 00:48:34.790 align:middle line:90%
+What else?
+
+00:48:34.790 --> 00:48:38.630 align:middle line:90%
+
+
+00:48:38.630 --> 00:48:40.860 align:middle line:84%
+AUDIENCE: I had a question
+of how it functions.
+
+00:48:40.860 --> 00:48:44.840 align:middle line:84%
+So if they have
+the data and then
+
+00:48:44.840 --> 00:48:47.270 align:middle line:84%
+a company or some
+kind of researcher
+
+00:48:47.270 --> 00:48:50.420 align:middle line:84%
+is trying to access it,
+do they have final say
+
+00:48:50.420 --> 00:48:52.230 align:middle line:90%
+on how it's being used?
+
+00:48:52.230 --> 00:48:55.837 align:middle line:84%
+Or do they then go
+back to the schools?
+
+00:48:55.837 --> 00:48:57.170 align:middle line:90%
+JUSTIN REICH: So inBloom failed.
+
+00:48:57.170 --> 00:48:58.440 align:middle line:84%
+And we can talk
+about why it failed.
+
+00:48:58.440 --> 00:48:59.880 align:middle line:84%
+So you don't have to
+worry about it existing,
+
+00:48:59.880 --> 00:49:01.505 align:middle line:84%
+although I'll show
+you a new thing that
+
+00:49:01.505 --> 00:49:04.820 align:middle line:84%
+showed up this past week,
+which is remarkably similar.
+
+00:49:04.820 --> 00:49:08.940 align:middle line:84%
+But I think some of the
+key value proposition
+
+00:49:08.940 --> 00:49:12.980 align:middle line:84%
+was that the companies
+would go to inBloom and get
+
+00:49:12.980 --> 00:49:14.432 align:middle line:90%
+just the data they need.
+
+00:49:14.432 --> 00:49:16.640 align:middle line:84%
+What do you think inBloom
+would potentially be better
+
+00:49:16.640 --> 00:49:19.030 align:middle line:90%
+at than schools might be?
+
+00:49:19.030 --> 00:49:23.420 align:middle line:90%
+
+
+00:49:23.420 --> 00:49:24.930 align:middle line:90%
+AUDIENCE: Raw data processing?
+
+00:49:24.930 --> 00:49:25.722 align:middle line:90%
+JUSTIN REICH: Good.
+
+00:49:25.722 --> 00:49:27.680 align:middle line:84%
+So first of all,
+they're just like,
+
+00:49:27.680 --> 00:49:32.160 align:middle line:84%
+your job is not to teach
+kindergarten and Mandarin
+
+00:49:32.160 --> 00:49:33.535 align:middle line:84%
+but just to process
+student data,
+
+00:49:33.535 --> 00:49:34.952 align:middle line:84%
+you're probably
+going to be better
+
+00:49:34.952 --> 00:49:37.520 align:middle line:84%
+at processing student data
+than this organization that
+
+00:49:37.520 --> 00:49:40.190 align:middle line:84%
+has to have a field
+hockey team and run buses
+
+00:49:40.190 --> 00:49:43.052 align:middle line:84%
+and other kinds of
+things like that.
+
+00:49:43.052 --> 00:49:44.510 align:middle line:84%
+AUDIENCE: Maybe
+security is better,
+
+00:49:44.510 --> 00:49:46.288 align:middle line:90%
+too, if that's your main focus.
+
+00:49:46.288 --> 00:49:48.830 align:middle line:84%
+JUSTIN REICH: There are 13,000
+school districts in the United
+
+00:49:48.830 --> 00:49:52.840 align:middle line:84%
+States of widely varying
+capacities in all kinds of IT
+
+00:49:52.840 --> 00:49:53.340 align:middle line:90%
+things.
+
+00:49:53.340 --> 00:49:56.150 align:middle line:84%
+It seems like an organization
+that is just focused on IT
+
+00:49:56.150 --> 00:49:58.250 align:middle line:90%
+things is going to be--
+
+00:49:58.250 --> 00:50:01.160 align:middle line:84%
+in a lot of ways, if you have
+a society where a school has
+
+00:50:01.160 --> 00:50:03.860 align:middle line:84%
+to be good at IT things, you may
+not be organizing that society
+
+00:50:03.860 --> 00:50:05.180 align:middle line:90%
+correctly.
+
+00:50:05.180 --> 00:50:08.030 align:middle line:84%
+And so you can find-- if
+you go to other countries
+
+00:50:08.030 --> 00:50:13.760 align:middle line:84%
+during the pandemic, we had
+schools provision laptops
+
+00:50:13.760 --> 00:50:15.990 align:middle line:90%
+and hotspots to students.
+
+00:50:15.990 --> 00:50:16.700 align:middle line:90%
+Insane.
+
+00:50:16.700 --> 00:50:18.170 align:middle line:84%
+There's no reason
+to think schools
+
+00:50:18.170 --> 00:50:19.790 align:middle line:90%
+should be any good at that.
+
+00:50:19.790 --> 00:50:22.070 align:middle line:84%
+There should be other
+institutions in society that
+
+00:50:22.070 --> 00:50:23.720 align:middle line:90%
+are good at IT procurement.
+
+00:50:23.720 --> 00:50:25.520 align:middle line:90%
+It shouldn't be your local--
+
+00:50:25.520 --> 00:50:29.120 align:middle line:84%
+sometimes I would compare it to
+people in the 19th century when
+
+00:50:29.120 --> 00:50:31.850 align:middle line:84%
+we decided that every household
+in the United States should
+
+00:50:31.850 --> 00:50:34.257 align:middle line:84%
+get-- or in the 20th century--
+we decided every household
+
+00:50:34.257 --> 00:50:36.090 align:middle line:84%
+in the United States
+should get electricity.
+
+00:50:36.090 --> 00:50:38.180 align:middle line:84%
+We didn't go to the
+local school principal
+
+00:50:38.180 --> 00:50:39.555 align:middle line:84%
+and be like, so
+how are you going
+
+00:50:39.555 --> 00:50:41.330 align:middle line:90%
+to run wires up the holler?
+
+00:50:41.330 --> 00:50:44.270 align:middle line:84%
+We invented the TVA and
+other kinds of organizations
+
+00:50:44.270 --> 00:50:46.567 align:middle line:84%
+that was really good
+at electrification
+
+00:50:46.567 --> 00:50:49.150 align:middle line:84%
+so that the schools didn't have
+to be good at electrification.
+
+00:50:49.150 --> 00:50:54.040 align:middle line:84%
+Electrification is closer
+to provisioning broadband
+
+00:50:54.040 --> 00:50:57.980 align:middle line:84%
+and laptops than it is to other
+kinds of educational things.
+
+00:50:57.980 --> 00:51:00.640 align:middle line:84%
+So these institutions
+could conceivably
+
+00:51:00.640 --> 00:51:02.750 align:middle line:84%
+develop a whole
+bunch of expertise
+
+00:51:02.750 --> 00:51:05.837 align:middle line:84%
+around data, around
+privacy, things like that.
+
+00:51:05.837 --> 00:51:07.420 align:middle line:84%
+Another thing that
+they could probably
+
+00:51:07.420 --> 00:51:11.380 align:middle line:84%
+get pretty good at doing
+is only giving providers
+
+00:51:11.380 --> 00:51:13.450 align:middle line:90%
+the exact data they need.
+
+00:51:13.450 --> 00:51:16.025 align:middle line:84%
+So schools have a tough
+time vetting all of the data
+
+00:51:16.025 --> 00:51:18.650 align:middle line:84%
+that they're making available to
+all their different providers.
+
+00:51:18.650 --> 00:51:20.800 align:middle line:84%
+And so, presumably,
+they make arrangements,
+
+00:51:20.800 --> 00:51:22.280 align:middle line:84%
+and people just
+collect whatever.
+
+00:51:22.280 --> 00:51:25.600 align:middle line:84%
+If there's a intermediary
+in that collection process,
+
+00:51:25.600 --> 00:51:27.100 align:middle line:84%
+you could imagine
+that inBloom could
+
+00:51:27.100 --> 00:51:29.360 align:middle line:84%
+be pretty good at being
+like, yeah, Canvas,
+
+00:51:29.360 --> 00:51:31.010 align:middle line:84%
+you just asked us
+for these 14 things,
+
+00:51:31.010 --> 00:51:33.838 align:middle line:84%
+but I'm pretty sure, to operate
+your system, you need these six.
+
+00:51:33.838 --> 00:51:35.380 align:middle line:84%
+So why don't you
+start with these six
+
+00:51:35.380 --> 00:51:37.120 align:middle line:90%
+and see how you do from there?
+
+00:51:37.120 --> 00:51:39.520 align:middle line:84%
+And they might be able to do
+all kinds of other-- right
+
+00:51:39.520 --> 00:51:41.050 align:middle line:84%
+now, for Canvas to
+operate, it needs
+
+00:51:41.050 --> 00:51:44.987 align:middle line:84%
+to have your actual email
+address and other kinds
+
+00:51:44.987 --> 00:51:45.820 align:middle line:90%
+of things like that.
+
+00:51:45.820 --> 00:51:48.278 align:middle line:84%
+You could imagine building all
+kinds of intermediary layers
+
+00:51:48.278 --> 00:51:50.400 align:middle line:84%
+that only hashed
+identifiers are passing
+
+00:51:50.400 --> 00:51:55.230 align:middle line:84%
+on to these third parties,
+and inBloom collects all this.
+
+00:51:55.230 --> 00:52:00.415 align:middle line:84%
+inBloom fails
+almost immediately.
+
+00:52:00.415 --> 00:52:02.790 align:middle line:84%
+Well, here's a few things that
+were written about it when
+
+00:52:02.790 --> 00:52:04.890 align:middle line:90%
+it started.
+
+00:52:04.890 --> 00:52:07.380 align:middle line:84%
+"Nonprofit inBloom offers
+an internet database service
+
+00:52:07.380 --> 00:52:09.090 align:middle line:84%
+that allows schools to store,
+track, and analyze data
+
+00:52:09.090 --> 00:52:09.790 align:middle line:90%
+on school children.
+
+00:52:09.790 --> 00:52:10.920 align:middle line:84%
+If you think about
+it, that information
+
+00:52:10.920 --> 00:52:12.220 align:middle line:90%
+is more than just test scores.
+
+00:52:12.220 --> 00:52:14.190 align:middle line:84%
+It's whether kids receive
+free lunch, a telling
+
+00:52:14.190 --> 00:52:15.260 align:middle line:84%
+indicator of the
+family's finances,
+
+00:52:15.260 --> 00:52:17.170 align:middle line:84%
+the time the school got into
+a fight in the schoolyard.
+
+00:52:17.170 --> 00:52:19.200 align:middle line:84%
+It could be your child's
+prescription medicine.
+
+00:52:19.200 --> 00:52:21.150 align:middle line:84%
+The upshot of storing all
+that data in one location
+
+00:52:21.150 --> 00:52:23.350 align:middle line:84%
+is that it can be used to
+tailor curricula to each child.
+
+00:52:23.350 --> 00:52:25.600 align:middle line:84%
+If Johnny's data suggests
+he's a tactile learner"--
+
+00:52:25.600 --> 00:52:29.460 align:middle line:84%
+which is not true, there
+are no learning styles--
+
+00:52:29.460 --> 00:52:31.740 align:middle line:84%
+"and he's failing math,
+inBloom's analytic action
+
+00:52:31.740 --> 00:52:33.880 align:middle line:84%
+might suggest a particular
+teaching approach.
+
+00:52:33.880 --> 00:52:35.880 align:middle line:84%
+This is all about building
+personalized learning
+
+00:52:35.880 --> 00:52:37.950 align:middle line:90%
+environments for kids."
+
+00:52:37.950 --> 00:52:40.240 align:middle line:84%
+But as more school districts
+team up with inBloom,
+
+00:52:40.240 --> 00:52:42.330 align:middle line:84%
+including New York, parents
+are becoming increasingly vocal
+
+00:52:42.330 --> 00:52:44.140 align:middle line:84%
+critics of the data
+collection. 'This information,
+
+00:52:44.140 --> 00:52:45.460 align:middle line:90%
+I have no idea what it is.
+
+00:52:45.460 --> 00:52:46.780 align:middle line:90%
+I have no idea who's using it.
+
+00:52:46.780 --> 00:52:50.550 align:middle line:84%
+And I have no idea
+for what purpose.'"
+
+00:52:50.550 --> 00:52:54.030 align:middle line:84%
+So part of what the
+existence of inBloom did
+
+00:52:54.030 --> 00:52:57.400 align:middle line:84%
+was to go to communities
+and be like, hey, you know
+
+00:52:57.400 --> 00:52:58.870 align:middle line:90%
+what's happening right now?
+
+00:52:58.870 --> 00:53:02.040 align:middle line:84%
+There's tons of data being
+collected about children.
+
+00:53:02.040 --> 00:53:05.250 align:middle line:84%
+And we're going to put
+it all in one place.
+
+00:53:05.250 --> 00:53:07.613 align:middle line:84%
+You can imagine that,
+for people like me,
+
+00:53:07.613 --> 00:53:09.280 align:middle line:84%
+they're like, yeah,
+that's a great idea.
+
+00:53:09.280 --> 00:53:11.110 align:middle line:84%
+We're totally going to be able
+to have all these benefits.
+
+00:53:11.110 --> 00:53:13.860 align:middle line:84%
+But there's tons of data being
+collected about children,
+
+00:53:13.860 --> 00:53:16.290 align:middle line:84%
+and it's all going to be
+put in one place is not,
+
+00:53:16.290 --> 00:53:19.530 align:middle line:84%
+actually, as it turns out,
+a very popular public pitch.
+
+00:53:19.530 --> 00:53:21.360 align:middle line:84%
+"inBloom CEO is
+quick to point out
+
+00:53:21.360 --> 00:53:25.440 align:middle line:84%
+that the company isn't
+collecting data the school
+
+00:53:25.440 --> 00:53:26.835 align:middle line:90%
+districts don't already have.
+
+00:53:26.835 --> 00:53:29.460 align:middle line:84%
+It's just providing a one-stop
+shop to make the data accessible
+
+00:53:29.460 --> 00:53:31.210 align:middle line:84%
+and usable to teachers,"
+although, really,
+
+00:53:31.210 --> 00:53:33.585 align:middle line:84%
+a lot of what it was doing
+was making the data accessible
+
+00:53:33.585 --> 00:53:35.820 align:middle line:84%
+and usable to third parties,
+which might then benefit
+
+00:53:35.820 --> 00:53:36.430 align:middle line:90%
+teachers.
+
+00:53:36.430 --> 00:53:38.440 align:middle line:84%
+"Schools and districts
+collect a lot of data,
+
+00:53:38.440 --> 00:53:40.560 align:middle line:84%
+but it's all over the
+place, Steinberger says.
+
+00:53:40.560 --> 00:53:42.270 align:middle line:84%
+Different systems
+are disconnected.
+
+00:53:42.270 --> 00:53:45.580 align:middle line:84%
+And so, as a result,
+this data is not usable."
+
+00:53:45.580 --> 00:53:47.980 align:middle line:90%
+Can anybody think of--
+
+00:53:47.980 --> 00:53:49.920 align:middle line:84%
+so that was a very
+serious problem.
+
+00:53:49.920 --> 00:53:51.640 align:middle line:84%
+Schools are collecting
+tons of data.
+
+00:53:51.640 --> 00:53:53.437 align:middle line:84%
+It's fragmented across
+all these services,
+
+00:53:53.437 --> 00:53:54.520 align:middle line:90%
+all these kinds of things.
+
+00:53:54.520 --> 00:53:59.760 align:middle line:84%
+And so, in a sense, there's
+constant ongoing either privacy
+
+00:53:59.760 --> 00:54:04.990 align:middle line:84%
+risk, privacy violations, and
+not sensible ways to manage it.
+
+00:54:04.990 --> 00:54:07.240 align:middle line:84%
+And that's the problem that
+inBloom's trying to solve.
+
+00:54:07.240 --> 00:54:11.210 align:middle line:84%
+Can anybody think of, around
+2013, major things that
+
+00:54:11.210 --> 00:54:12.960 align:middle line:84%
+are happening in the
+United States related
+
+00:54:12.960 --> 00:54:18.540 align:middle line:84%
+to people's perception of
+their data and security?
+
+00:54:18.540 --> 00:54:20.550 align:middle line:84%
+You all are a little
+young for this now.
+
+00:54:20.550 --> 00:54:22.590 align:middle line:84%
+AUDIENCE: Is that [INAUDIBLE]
+Target [INAUDIBLE]
+
+00:54:22.590 --> 00:54:25.173 align:middle line:84%
+JUSTIN REICH: Target, I think,
+is not that far away from that.
+
+00:54:25.173 --> 00:54:28.560 align:middle line:84%
+So we start seeing some of the
+major data security breaches.
+
+00:54:28.560 --> 00:54:31.525 align:middle line:84%
+AUDIENCE: It's like
+Cambridge Analytica.
+
+00:54:31.525 --> 00:54:33.900 align:middle line:84%
+JUSTIN REICH: I think Cambridge
+Analytica is a little bit
+
+00:54:33.900 --> 00:54:36.520 align:middle line:84%
+afterwards because that is
+around the 2016 election.
+
+00:54:36.520 --> 00:54:37.710 align:middle line:90%
+Yeah, Snowden.
+
+00:54:37.710 --> 00:54:43.290 align:middle line:84%
+This is the Edward
+Snowden era of recognizing
+
+00:54:43.290 --> 00:54:44.790 align:middle line:84%
+the federal government
+is collecting
+
+00:54:44.790 --> 00:54:47.560 align:middle line:84%
+much more data about people
+than was previously thought.
+
+00:54:47.560 --> 00:54:50.670 align:middle line:84%
+So in 2013, first
+of all, people are
+
+00:54:50.670 --> 00:54:52.920 align:middle line:84%
+far less accustomed
+to surveillance
+
+00:54:52.920 --> 00:54:55.740 align:middle line:84%
+than you all described yourself
+as accustomed to surveillance.
+
+00:54:55.740 --> 00:54:58.860 align:middle line:84%
+And there had just been this
+major national revelation.
+
+00:54:58.860 --> 00:55:02.040 align:middle line:84%
+An interesting thing about
+the inBloom story is--
+
+00:55:02.040 --> 00:55:04.530 align:middle line:84%
+so, eventually, what happens
+is there were 11 states that
+
+00:55:04.530 --> 00:55:05.950 align:middle line:90%
+signed on initially.
+
+00:55:05.950 --> 00:55:07.957 align:middle line:84%
+And the hope was is
+that then 13 and 14
+
+00:55:07.957 --> 00:55:10.290 align:middle line:84%
+and 18 and 20, that, eventually,
+lots and lots of states
+
+00:55:10.290 --> 00:55:10.960 align:middle line:90%
+would come on.
+
+00:55:10.960 --> 00:55:14.130 align:middle line:84%
+Almost immediately, states
+started withdrawing from it,
+
+00:55:14.130 --> 00:55:20.010 align:middle line:84%
+in particular, in part because
+of the concentrated objection
+
+00:55:20.010 --> 00:55:24.520 align:middle line:84%
+from local advocates,
+local advocacy groups,
+
+00:55:24.520 --> 00:55:27.780 align:middle line:84%
+including student privacy
+groups that were just
+
+00:55:27.780 --> 00:55:28.840 align:middle line:90%
+formed around this time.
+
+00:55:28.840 --> 00:55:30.443 align:middle line:84%
+New York was one
+of the lead ones.
+
+00:55:30.443 --> 00:55:32.110 align:middle line:84%
+It was one of the
+last ones to fall out.
+
+00:55:32.110 --> 00:55:36.360 align:middle line:84%
+But it also had one of the most
+vociferous, determined community
+
+00:55:36.360 --> 00:55:38.940 align:middle line:84%
+of student privacy
+advocates opting.
+
+00:55:38.940 --> 00:55:45.600 align:middle line:84%
+So states started-- one of
+the main outcomes of inBloom
+
+00:55:45.600 --> 00:55:48.030 align:middle line:84%
+was not its existence,
+actually, but a bunch of state
+
+00:55:48.030 --> 00:55:49.900 align:middle line:84%
+laws about student
+privacy, in part,
+
+00:55:49.900 --> 00:55:51.733 align:middle line:84%
+that would make it more
+difficult for things
+
+00:55:51.733 --> 00:55:53.400 align:middle line:90%
+like inBloom to exist.
+
+00:55:53.400 --> 00:55:58.500 align:middle line:84%
+A common problem that shows
+up when trying to fix data
+
+00:55:58.500 --> 00:56:01.200 align:middle line:84%
+and privacy problems-- and
+I'm giving you an example from
+
+00:56:01.200 --> 00:56:05.880 align:middle line:84%
+schools, but this is a thing
+that you can find in almost any
+
+00:56:05.880 --> 00:56:07.290 align:middle line:90%
+other sector--
+
+00:56:07.290 --> 00:56:11.710 align:middle line:84%
+the pre-inBloom counterfactual
+is really, really bad.
+
+00:56:11.710 --> 00:56:15.270 align:middle line:84%
+It is not a good system to force
+kids to go to public schools
+
+00:56:15.270 --> 00:56:17.400 align:middle line:84%
+and then have a bunch of
+third-party, for-profit
+
+00:56:17.400 --> 00:56:19.780 align:middle line:84%
+companies get their
+data from schools.
+
+00:56:19.780 --> 00:56:21.370 align:middle line:84%
+The schools are
+bad at managing it.
+
+00:56:21.370 --> 00:56:24.450 align:middle line:84%
+They don't have the expertise,
+all these kinds of things.
+
+00:56:24.450 --> 00:56:28.216 align:middle line:84%
+However, by trying
+to fix the problem,
+
+00:56:28.216 --> 00:56:31.371 align:middle line:84%
+inBloom draws attention
+to the problem.
+
+00:56:31.371 --> 00:56:33.270 align:middle line:84%
+Like, man, this
+data is such a mess,
+
+00:56:33.270 --> 00:56:34.770 align:middle line:84%
+and we're going
+to collect it all.
+
+00:56:34.770 --> 00:56:36.390 align:middle line:84%
+There are all kinds
+of circumstances
+
+00:56:36.390 --> 00:56:40.610 align:middle line:84%
+in which if you draw attention
+to data and experiments,
+
+00:56:40.610 --> 00:56:45.470 align:middle line:84%
+even if the status quo
+is really terrible,
+
+00:56:45.470 --> 00:56:47.830 align:middle line:84%
+people are not going to be
+enthusiastic about the fix
+
+00:56:47.830 --> 00:56:50.360 align:middle line:84%
+because nobody thinks day
+to day about the status quo,
+
+00:56:50.360 --> 00:56:53.440 align:middle line:84%
+but they think really intensely
+about this crazy inBloom thing
+
+00:56:53.440 --> 00:56:55.420 align:middle line:90%
+that you're doing.
+
+00:56:55.420 --> 00:56:57.110 align:middle line:90%
+Does that idea make sense?
+
+00:56:57.110 --> 00:57:00.070 align:middle line:84%
+Essentially, there's all--
+other studies come out
+
+00:57:00.070 --> 00:57:02.950 align:middle line:84%
+along the lines of,
+hey, we've come up
+
+00:57:02.950 --> 00:57:05.690 align:middle line:84%
+with this really good way
+to protect your privacy.
+
+00:57:05.690 --> 00:57:06.740 align:middle line:90%
+Will you opt into it?
+
+00:57:06.740 --> 00:57:08.980 align:middle line:90%
+People will be like, whoa.
+
+00:57:08.980 --> 00:57:11.077 align:middle line:84%
+Why would I have to
+protect my privacy?
+
+00:57:11.077 --> 00:57:12.410 align:middle line:90%
+Why would I opt into this thing?
+
+00:57:12.410 --> 00:57:12.860 align:middle line:90%
+It's dangerous.
+
+00:57:12.860 --> 00:57:15.250 align:middle line:84%
+They would prefer the status
+quo, where their privacy is not
+
+00:57:15.250 --> 00:57:17.170 align:middle line:84%
+protected, towards this
+thing in which you've
+
+00:57:17.170 --> 00:57:18.447 align:middle line:90%
+raised their concerns about.
+
+00:57:18.447 --> 00:57:23.380 align:middle line:90%
+
+
+00:57:23.380 --> 00:57:28.910 align:middle line:84%
+So this is an organization that
+just came into life last week.
+
+00:57:28.910 --> 00:57:31.420 align:middle line:90%
+It's called SafeInsights.
+
+00:57:31.420 --> 00:57:36.340 align:middle line:84%
+It was funded by $90 million
+from the National Science
+
+00:57:36.340 --> 00:57:37.420 align:middle line:90%
+Foundation.
+
+00:57:37.420 --> 00:57:40.030 align:middle line:84%
+It is out of Rice
+University, out
+
+00:57:40.030 --> 00:57:41.925 align:middle line:84%
+of the same people that
+developed OpenStax.
+
+00:57:41.925 --> 00:57:43.550 align:middle line:84%
+We talked about
+OpenStax the other day.
+
+00:57:43.550 --> 00:57:47.890 align:middle line:84%
+They're the company that creates
+free and open-source textbooks
+
+00:57:47.890 --> 00:57:49.290 align:middle line:90%
+for community college folks.
+
+00:57:49.290 --> 00:57:52.517 align:middle line:90%
+
+
+00:57:52.517 --> 00:57:53.600 align:middle line:90%
+Well, we have enough time.
+
+00:57:53.600 --> 00:57:56.080 align:middle line:90%
+I'll show you the one--
+
+00:57:56.080 --> 00:57:59.550 align:middle line:84%
+let's see if we can find the
+SafeInsights welcome video.
+
+00:57:59.550 --> 00:58:03.350 align:middle line:90%
+
+
+00:58:03.350 --> 00:58:04.310 align:middle line:90%
+[VIDEO PLAYBACK]
+
+00:58:04.310 --> 00:58:07.670 align:middle line:90%
+[MUSIC PLAYING]
+
+00:58:07.670 --> 00:58:11.530 align:middle line:90%
+
+
+00:58:11.530 --> 00:58:13.670 align:middle line:84%
+- As a longtime
+college instructor,
+
+00:58:13.670 --> 00:58:16.870 align:middle line:84%
+every day of my career
+has been dedicated
+
+00:58:16.870 --> 00:58:20.410 align:middle line:84%
+to helping my students
+reach their academic goals.
+
+00:58:20.410 --> 00:58:24.130 align:middle line:84%
+I'm always looking to better
+support their learning in ways
+
+00:58:24.130 --> 00:58:25.970 align:middle line:90%
+that are proven to work best.
+
+00:58:25.970 --> 00:58:28.060 align:middle line:84%
+- There's so much we
+have to understand
+
+00:58:28.060 --> 00:58:29.420 align:middle line:90%
+about how people learn.
+
+00:58:29.420 --> 00:58:31.880 align:middle line:84%
+Every mind is
+beautiful and special.
+
+00:58:31.880 --> 00:58:34.540 align:middle line:84%
+That means we all learn
+in different ways.
+
+00:58:34.540 --> 00:58:38.150 align:middle line:84%
+We all have our own definitions
+of what success looks like.
+
+00:58:38.150 --> 00:58:41.530 align:middle line:84%
+If researchers are able to
+uncover new and better ways
+
+00:58:41.530 --> 00:58:44.710 align:middle line:84%
+of learning, that will have
+a profound impact on how
+
+00:58:44.710 --> 00:58:46.750 align:middle line:90%
+educators approach teaching.
+
+00:58:46.750 --> 00:58:49.690 align:middle line:84%
+To do this, we need a
+way to securely connect
+
+00:58:49.690 --> 00:58:52.390 align:middle line:84%
+with a wide variety of
+students as they study
+
+00:58:52.390 --> 00:58:55.420 align:middle line:90%
+over time in real classrooms.
+
+00:58:55.420 --> 00:58:57.230 align:middle line:90%
+- Student needs are changing.
+
+00:58:57.230 --> 00:58:59.480 align:middle line:84%
+With more learning
+happening online,
+
+00:58:59.480 --> 00:59:02.260 align:middle line:84%
+it gets harder and
+harder to understand
+
+00:59:02.260 --> 00:59:06.700 align:middle line:84%
+what each student needs and how
+best to help them at the moment
+
+00:59:06.700 --> 00:59:08.930 align:middle line:84%
+when they really
+need it the most.
+
+00:59:08.930 --> 00:59:11.710 align:middle line:84%
+- Education research is
+essential for advancing teaching
+
+00:59:11.710 --> 00:59:14.390 align:middle line:84%
+and learning so that
+every student can succeed.
+
+00:59:14.390 --> 00:59:17.210 align:middle line:84%
+We know that research-informed
+teaching works,
+
+00:59:17.210 --> 00:59:18.850 align:middle line:84%
+but it's still too
+hard to conduct
+
+00:59:18.850 --> 00:59:21.400 align:middle line:84%
+large-scale, reliable
+research and then apply
+
+00:59:21.400 --> 00:59:22.910 align:middle line:90%
+the results in the classroom.
+
+00:59:22.910 --> 00:59:26.750 align:middle line:84%
+SafeInsights brings together
+learning researchers, educators,
+
+00:59:26.750 --> 00:59:29.530 align:middle line:84%
+schools, and colleges
+in a secure environment
+
+00:59:29.530 --> 00:59:33.070 align:middle line:84%
+to get the answers we need while
+strongly protecting students
+
+00:59:33.070 --> 00:59:34.060 align:middle line:90%
+and their interests.
+
+00:59:34.060 --> 00:59:36.250 align:middle line:84%
+- Every student
+deserves the chance
+
+00:59:36.250 --> 00:59:39.745 align:middle line:84%
+to succeed in the
+classroom and beyond.
+
+00:59:39.745 --> 00:59:42.290 align:middle line:84%
+- SafeInsights will give
+researchers, educators,
+
+00:59:42.290 --> 00:59:45.230 align:middle line:84%
+and students what they need to
+take learning to the next level.
+
+00:59:45.230 --> 00:59:47.380 align:middle line:84%
+- And as educators,
+we will benefit
+
+00:59:47.380 --> 00:59:50.030 align:middle line:84%
+from better research
+from SafeInsights
+
+00:59:50.030 --> 00:59:53.456 align:middle line:84%
+to effectively help
+all our students.
+
+00:59:53.456 --> 00:59:56.372 align:middle line:90%
+[DRAMATIC MUSIC]
+
+00:59:56.372 --> 00:59:59.774 align:middle line:90%
+
+
+00:59:59.774 --> 01:00:01.240 align:middle line:90%
+[END PLAYBACK]
+
+01:00:01.240 --> 01:00:03.680 align:middle line:90%
+AUDIENCE: Great soundtrack.
+
+01:00:03.680 --> 01:00:07.246 align:middle line:84%
+JUSTIN REICH: It is a little
+dramatic for a database.
+
+01:00:07.246 --> 01:00:09.980 align:middle line:90%
+[LAUGHS] But I don't know.
+
+01:00:09.980 --> 01:00:10.700 align:middle line:90%
+I like databases.
+
+01:00:10.700 --> 01:00:14.650 align:middle line:84%
+OK what are your first
+instincts, having
+
+01:00:14.650 --> 01:00:17.170 align:middle line:90%
+spent a whole bunch of time--
+
+01:00:17.170 --> 01:00:19.270 align:middle line:84%
+having spent an
+hour and 20 minutes
+
+01:00:19.270 --> 01:00:21.770 align:middle line:84%
+talking about the toxic power
+of data and experiments?
+
+01:00:21.770 --> 01:00:24.028 align:middle line:84%
+And how do you think a
+typical American parent
+
+01:00:24.028 --> 01:00:25.570 align:middle line:84%
+or a typical American
+college student
+
+01:00:25.570 --> 01:00:27.640 align:middle line:90%
+would react to that video?
+
+01:00:27.640 --> 01:00:29.680 align:middle line:84%
+AUDIENCE: I think
+it would change
+
+01:00:29.680 --> 01:00:31.070 align:middle line:90%
+based on different generations.
+
+01:00:31.070 --> 01:00:33.850 align:middle line:84%
+Because I think our
+generation, who is now
+
+01:00:33.850 --> 01:00:36.490 align:middle line:84%
+using TikTok when we openly
+know they use our data
+
+01:00:36.490 --> 01:00:38.500 align:middle line:84%
+and [INAUDIBLE] to
+us, is completely
+
+01:00:38.500 --> 01:00:42.100 align:middle line:84%
+different from our parents,
+who are like, oh, my god,
+
+01:00:42.100 --> 01:00:43.402 align:middle line:90%
+don't have a profile picture.
+
+01:00:43.402 --> 01:00:44.360 align:middle line:90%
+Don't do this and that.
+
+01:00:44.360 --> 01:00:48.470 align:middle line:84%
+So I think our generation will
+be way more accepting of this.
+
+01:00:48.470 --> 01:00:52.023 align:middle line:84%
+And I think, in 10, 20
+years down the line,
+
+01:00:52.023 --> 01:00:53.440 align:middle line:84%
+I think people and
+parents will be
+
+01:00:53.440 --> 01:00:56.960 align:middle line:84%
+so accustomed to their
+children's data just being,
+
+01:00:56.960 --> 01:00:57.580 align:middle line:90%
+whatever.
+
+01:00:57.580 --> 01:00:58.550 align:middle line:90%
+JUSTIN REICH: Good.
+
+01:00:58.550 --> 01:01:01.513 align:middle line:84%
+So conceivably,
+inBloom launched today
+
+01:01:01.513 --> 01:01:04.180 align:middle line:84%
+might have had a very different
+experience than inBloom launched
+
+01:01:04.180 --> 01:01:06.610 align:middle line:84%
+in 2013, not because
+of anything different
+
+01:01:06.610 --> 01:01:09.565 align:middle line:84%
+that they did but because of the
+context that they operate in.
+
+01:01:09.565 --> 01:01:10.940 align:middle line:84%
+I think there's
+evidence of that.
+
+01:01:10.940 --> 01:01:12.357 align:middle line:84%
+I was just talking
+to somebody who
+
+01:01:12.357 --> 01:01:16.720 align:middle line:84%
+runs a video repository for
+child development studies.
+
+01:01:16.720 --> 01:01:21.080 align:middle line:84%
+And one of their conditions
+is that the videos can only
+
+01:01:21.080 --> 01:01:22.580 align:middle line:84%
+be used for
+non-commercial purposes.
+
+01:01:22.580 --> 01:01:24.290 align:middle line:84%
+And I was like, why
+did you do that?
+
+01:01:24.290 --> 01:01:26.000 align:middle line:84%
+And they were like, well,
+we made it 10 years ago,
+
+01:01:26.000 --> 01:01:27.130 align:middle line:84%
+and people were really
+worried about stuff,
+
+01:01:27.130 --> 01:01:28.520 align:middle line:90%
+and that helped calm them down.
+
+01:01:28.520 --> 01:01:30.380 align:middle line:84%
+But if we did it
+again today, I don't
+
+01:01:30.380 --> 01:01:33.590 align:middle line:84%
+think the same level of concern
+exists, not only among people
+
+01:01:33.590 --> 01:01:36.500 align:middle line:84%
+generally but
+institutionally, as well.
+
+01:01:36.500 --> 01:01:38.042 align:middle line:84%
+What were you going
+to say, Courtney?
+
+01:01:38.042 --> 01:01:40.125 align:middle line:84%
+AUDIENCE: I think it was
+really smart that they've
+
+01:01:40.125 --> 01:01:41.600 align:middle line:90%
+attached themselves to Rice.
+
+01:01:41.600 --> 01:01:43.950 align:middle line:84%
+Because I think, especially
+our parents' generation,
+
+01:01:43.950 --> 01:01:46.100 align:middle line:84%
+maybe less so now,
+there's a lot of goodwill
+
+01:01:46.100 --> 01:01:47.490 align:middle line:90%
+given to universities.
+
+01:01:47.490 --> 01:01:49.760 align:middle line:84%
+And so if inBloom came
+out today and it was like,
+
+01:01:49.760 --> 01:01:51.720 align:middle line:84%
+oh, in partnership
+with MIT, I do
+
+01:01:51.720 --> 01:01:53.970 align:middle line:84%
+think people would have
+received it a lot differently.
+
+01:01:53.970 --> 01:01:56.222 align:middle line:84%
+And people have a lot
+of trust that, oh,
+
+01:01:56.222 --> 01:01:57.180 align:middle line:90%
+it's connected to Rice.
+
+01:01:57.180 --> 01:01:58.260 align:middle line:90%
+How bad could it really be?
+
+01:01:58.260 --> 01:01:59.052 align:middle line:90%
+JUSTIN REICH: Yeah.
+
+01:01:59.052 --> 01:02:03.350 align:middle line:84%
+And I would say the Gates
+Foundation-related conspiracy
+
+01:02:03.350 --> 01:02:06.350 align:middle line:84%
+theories were not quite
+as strong in 2013.
+
+01:02:06.350 --> 01:02:09.500 align:middle line:84%
+But the Gates Foundation is
+not a trusted organization
+
+01:02:09.500 --> 01:02:11.180 align:middle line:90%
+in the same way that, I think--
+
+01:02:11.180 --> 01:02:14.960 align:middle line:84%
+Rice University, universities
+in general, state schools,
+
+01:02:14.960 --> 01:02:19.010 align:middle line:84%
+are still some of the most
+trusted institutions in society.
+
+01:02:19.010 --> 01:02:22.490 align:middle line:84%
+AUDIENCE: I think, maybe,
+actually, a little connected
+
+01:02:22.490 --> 01:02:24.000 align:middle line:84%
+to that trustworthiness,
+I think,
+
+01:02:24.000 --> 01:02:27.860 align:middle line:84%
+is that if you say, oh, my
+god, look, all your data is
+
+01:02:27.860 --> 01:02:32.720 align:middle line:84%
+in one place, to someone
+who finds education research
+
+01:02:32.720 --> 01:02:34.400 align:middle line:84%
+and things like that
+really important
+
+01:02:34.400 --> 01:02:40.620 align:middle line:84%
+and is much more aware
+of how that might help,
+
+01:02:40.620 --> 01:02:41.760 align:middle line:90%
+that might sound good.
+
+01:02:41.760 --> 01:02:44.630 align:middle line:84%
+But I think, to the
+average person, first
+
+01:02:44.630 --> 01:02:46.430 align:middle line:84%
+and foremost, what's
+going to pop out
+
+01:02:46.430 --> 01:02:50.150 align:middle line:84%
+when you just tell them, oh, we
+have everything in one place,
+
+01:02:50.150 --> 01:02:53.090 align:middle line:84%
+and we promise it's
+safe, it's like, one,
+
+01:02:53.090 --> 01:02:54.620 align:middle line:84%
+you're not giving
+me any information
+
+01:02:54.620 --> 01:02:56.580 align:middle line:84%
+about how you're
+keeping the data safe,
+
+01:02:56.580 --> 01:03:00.890 align:middle line:84%
+and, two, I think it's
+always been said of,
+
+01:03:00.890 --> 01:03:03.330 align:middle line:84%
+don't put all your
+data in one place.
+
+01:03:03.330 --> 01:03:08.010 align:middle line:84%
+So it's like, well, why are you
+saying this is a good thing?
+
+01:03:08.010 --> 01:03:12.620 align:middle line:84%
+Because then this means that
+someone can have all my data,
+
+01:03:12.620 --> 01:03:16.410 align:middle line:84%
+as opposed to, let's say, if it
+is split up, even if it's there,
+
+01:03:16.410 --> 01:03:19.820 align:middle line:84%
+I can be like, OK,
+my teacher might
+
+01:03:19.820 --> 01:03:22.210 align:middle line:84%
+have this piece of data
+on me, but they might not
+
+01:03:22.210 --> 01:03:23.460 align:middle line:90%
+have this other piece of data.
+
+01:03:23.460 --> 01:03:25.980 align:middle line:84%
+JUSTIN REICH: And, actually,
+probably the main technical--
+
+01:03:25.980 --> 01:03:26.720 align:middle line:90%
+there are probably a bunch.
+
+01:03:26.720 --> 01:03:28.000 align:middle line:84%
+We don't know exactly
+where they'll be then.
+
+01:03:28.000 --> 01:03:30.690 align:middle line:84%
+But one of the earliest
+proposed technical innovations
+
+01:03:30.690 --> 01:03:33.780 align:middle line:84%
+of SafeInsights is not to
+bring all the data together.
+
+01:03:33.780 --> 01:03:36.880 align:middle line:84%
+So it doesn't propose that
+all of it gets collected.
+
+01:03:36.880 --> 01:03:39.510 align:middle line:84%
+One of the main things that
+they want to be able to do
+
+01:03:39.510 --> 01:03:43.470 align:middle line:84%
+is to be able to conduct
+research queries across data
+
+01:03:43.470 --> 01:03:46.600 align:middle line:84%
+without having people have to
+directly access those data.
+
+01:03:46.600 --> 01:03:49.260 align:middle line:84%
+So there's a whole field
+of study called things
+
+01:03:49.260 --> 01:03:50.970 align:middle line:84%
+like differential
+privacy and stuff
+
+01:03:50.970 --> 01:03:54.240 align:middle line:84%
+like that, which
+basically says, how
+
+01:03:54.240 --> 01:03:56.680 align:middle line:84%
+do I tell you the kinds of
+things that are in a data set,
+
+01:03:56.680 --> 01:04:00.180 align:middle line:84%
+let you run a query
+over that data set,
+
+01:04:00.180 --> 01:04:02.770 align:middle line:84%
+but never actually
+encounter that data set?
+
+01:04:02.770 --> 01:04:04.500 align:middle line:84%
+And in this kind of
+environment, there
+
+01:04:04.500 --> 01:04:07.050 align:middle line:84%
+might be, how would
+you run a query that
+
+01:04:07.050 --> 01:04:10.170 align:middle line:84%
+connects people's student
+behavior in a learning
+
+01:04:10.170 --> 01:04:14.460 align:middle line:84%
+platform with their registrar
+information with their state
+
+01:04:14.460 --> 01:04:18.240 align:middle line:84%
+test scores without having to
+make one giant data set out
+
+01:04:18.240 --> 01:04:19.740 align:middle line:84%
+of all those things
+but, instead,
+
+01:04:19.740 --> 01:04:26.060 align:middle line:84%
+to have the query just run
+over the data it needs--
+
+01:04:26.060 --> 01:04:28.560 align:middle line:84%
+have the people who own that
+data still hold on to that data
+
+01:04:28.560 --> 01:04:31.610 align:middle line:84%
+but have the results of
+that query go to technology
+
+01:04:31.610 --> 01:04:33.803 align:middle line:84%
+developers, researchers,
+things like that,
+
+01:04:33.803 --> 01:04:35.970 align:middle line:84%
+without having to have them
+collect all of the data?
+
+01:04:35.970 --> 01:04:38.600 align:middle line:84%
+So in some ways, it's
+explicitly trying
+
+01:04:38.600 --> 01:04:40.010 align:middle line:90%
+to be the opposite of inBloom.
+
+01:04:40.010 --> 01:04:41.840 align:middle line:84%
+Don't bring all the
+data in one place.
+
+01:04:41.840 --> 01:04:44.570 align:middle line:84%
+Try to get the benefits
+of aggregated data
+
+01:04:44.570 --> 01:04:47.392 align:middle line:84%
+without having to share it with
+either a trusted third party
+
+01:04:47.392 --> 01:04:48.850 align:middle line:84%
+or everyone or
+something like that.
+
+01:04:48.850 --> 01:04:51.438 align:middle line:90%
+
+
+01:04:51.438 --> 01:04:51.980 align:middle line:90%
+AUDIENCE: Oh.
+
+01:04:51.980 --> 01:04:53.022 align:middle line:90%
+I was just going to say--
+
+01:04:53.022 --> 01:04:55.017 align:middle line:84%
+I feel like you
+answered it right there
+
+01:04:55.017 --> 01:04:56.100 align:middle line:90%
+with what you were saying.
+
+01:04:56.100 --> 01:04:58.430 align:middle line:84%
+But in your opinion,
+do you think
+
+01:04:58.430 --> 01:05:04.310 align:middle line:84%
+the people who are creating
+this, the SafeInsights,
+
+01:05:04.310 --> 01:05:06.890 align:middle line:84%
+do you think they really
+understood what went wrong
+
+01:05:06.890 --> 01:05:07.530 align:middle line:90%
+in inBloom?
+
+01:05:07.530 --> 01:05:10.040 align:middle line:84%
+And do you think
+like, ultimately,
+
+01:05:10.040 --> 01:05:11.815 align:middle line:90%
+does it lead back [INAUDIBLE]?
+
+01:05:11.815 --> 01:05:15.740 align:middle line:84%
+JUSTIN REICH: Boy, it
+sure sounds like it to me.
+
+01:05:15.740 --> 01:05:19.340 align:middle line:84%
+Powerful, privacy-preserving
+learning research.
+
+01:05:19.340 --> 01:05:24.170 align:middle line:84%
+So the very first concept they
+want to ingrain in your head
+
+01:05:24.170 --> 01:05:25.580 align:middle line:90%
+is safe.
+
+01:05:25.580 --> 01:05:29.720 align:middle line:84%
+The second concept that I think
+they're doing rhetorically
+
+01:05:29.720 --> 01:05:33.230 align:middle line:84%
+is leaning into insight
+rather than data.
+
+01:05:33.230 --> 01:05:35.990 align:middle line:84%
+So I think if you asked
+people what inBloom
+
+01:05:35.990 --> 01:05:39.020 align:middle line:84%
+was, they would have described
+it as some kind of data
+
+01:05:39.020 --> 01:05:40.050 align:middle line:90%
+repository.
+
+01:05:40.050 --> 01:05:44.450 align:middle line:84%
+My hunch is that the
+SafeInsights people
+
+01:05:44.450 --> 01:05:48.710 align:middle line:84%
+are going to describe themselves
+as an insight generator,
+
+01:05:48.710 --> 01:05:50.160 align:middle line:90%
+as a research producer.
+
+01:05:50.160 --> 01:05:52.220 align:middle line:84%
+Now, it's the exact
+same thing, right?
+
+01:05:52.220 --> 01:05:53.970 align:middle line:84%
+Because in order to
+get the insights,
+
+01:05:53.970 --> 01:05:55.650 align:middle line:84%
+you have to have
+the data somewhere.
+
+01:05:55.650 --> 01:05:59.790 align:middle line:84%
+And inBloom's purpose was
+never just to hoard data.
+
+01:05:59.790 --> 01:06:02.180 align:middle line:84%
+It was to make learning
+better for kids.
+
+01:06:02.180 --> 01:06:05.090 align:middle line:90%
+But I think there are--
+
+01:06:05.090 --> 01:06:09.860 align:middle line:84%
+I guarantee you that
+many of the people who
+
+01:06:09.860 --> 01:06:12.650 align:middle line:84%
+worked on SafeInsights
+have done plenty
+
+01:06:12.650 --> 01:06:15.440 align:middle line:84%
+of studying of what
+went wrong with inBloom
+
+01:06:15.440 --> 01:06:19.220 align:middle line:84%
+and are designing this
+enterprise so that--
+
+01:06:19.220 --> 01:06:20.810 align:middle line:90%
+it's with a trusted University.
+
+01:06:20.810 --> 01:06:22.310 align:middle line:84%
+It's founded by the
+National Science
+
+01:06:22.310 --> 01:06:25.390 align:middle line:84%
+Foundation, which I assume
+also has very high trust.
+
+01:06:25.390 --> 01:06:28.560 align:middle line:84%
+But all this language,
+it definitely
+
+01:06:28.560 --> 01:06:32.580 align:middle line:84%
+strikes me as people who read
+up on the inBloom case study
+
+01:06:32.580 --> 01:06:35.730 align:middle line:90%
+and are trying a different tack.
+
+01:06:35.730 --> 01:06:38.887 align:middle line:84%
+AUDIENCE: I think
+another good thing
+
+01:06:38.887 --> 01:06:40.470 align:middle line:84%
+that they did was
+associate themselves
+
+01:06:40.470 --> 01:06:42.910 align:middle line:84%
+with a previous product
+that was successful,
+
+01:06:42.910 --> 01:06:46.420 align:middle line:84%
+which was OpenStax, which,
+in itself, OpenStax,
+
+01:06:46.420 --> 01:06:48.390 align:middle line:90%
+they are open--
+
+01:06:48.390 --> 01:06:52.570 align:middle line:84%
+what is it open-source,
+free-to-use textbooks.
+
+01:06:52.570 --> 01:06:54.810 align:middle line:84%
+And that, in itself, has
+proven to be like, OK, we
+
+01:06:54.810 --> 01:06:57.060 align:middle line:84%
+are transparent, quite
+literally transparent,
+
+01:06:57.060 --> 01:06:58.090 align:middle line:90%
+about what we're doing.
+
+01:06:58.090 --> 01:07:00.600 align:middle line:84%
+And we've already provided
+a useful, successful product
+
+01:07:00.600 --> 01:07:02.440 align:middle line:90%
+for the masses.
+
+01:07:02.440 --> 01:07:07.350 align:middle line:84%
+JUSTIN REICH: And
+they have a ton--
+
+01:07:07.350 --> 01:07:11.820 align:middle line:84%
+they have 40 partners, 39
+collaborating institutions.
+
+01:07:11.820 --> 01:07:13.450 align:middle line:84%
+Of their collaborating
+institutions,
+
+01:07:13.450 --> 01:07:16.330 align:middle line:84%
+77% are minority-serving
+institutions.
+
+01:07:16.330 --> 01:07:18.780 align:middle line:84%
+So they're trying to start
+from the beginning, saying,
+
+01:07:18.780 --> 01:07:21.400 align:middle line:84%
+we're not just going to do this
+to improve Columbia and Rice.
+
+01:07:21.400 --> 01:07:22.950 align:middle line:84%
+We're going to do
+this to improve
+
+01:07:22.950 --> 01:07:26.400 align:middle line:84%
+lots of different
+kinds of organizations.
+
+01:07:26.400 --> 01:07:32.250 align:middle line:84%
+It also, instead of being
+a consortium of states,
+
+01:07:32.250 --> 01:07:37.750 align:middle line:84%
+it's really mostly a consortium
+of digital learning platforms.
+
+01:07:37.750 --> 01:07:41.070 align:middle line:90%
+It probably matters, too--
+
+01:07:41.070 --> 01:07:46.027 align:middle line:84%
+there's clear
+emphasis on college.
+
+01:07:46.027 --> 01:07:47.860 align:middle line:84%
+ASSISTments doesn't do
+anything for college.
+
+01:07:47.860 --> 01:07:49.650 align:middle line:84%
+So they definitely have
+some things that are not--
+
+01:07:49.650 --> 01:07:51.250 align:middle line:84%
+I'm not sure it's
+literally true,
+
+01:07:51.250 --> 01:07:55.950 align:middle line:84%
+but ASSISTments, 99% of what
+they do is serve K-12 students.
+
+01:07:55.950 --> 01:08:00.840 align:middle line:84%
+But I think it maybe does
+make a difference to--
+
+01:08:00.840 --> 01:08:02.440 align:middle line:90%
+college students are adults.
+
+01:08:02.440 --> 01:08:04.280 align:middle line:84%
+College students opt
+in to go to college.
+
+01:08:04.280 --> 01:08:06.280 align:middle line:84%
+The state doesn't force
+anyone to go to college.
+
+01:08:06.280 --> 01:08:10.540 align:middle line:84%
+And so you're just operating
+in, maybe, illusory choice,
+
+01:08:10.540 --> 01:08:12.480 align:middle line:84%
+but you're operating
+in a space where
+
+01:08:12.480 --> 01:08:14.880 align:middle line:84%
+you feel like people have
+more agency, to begin with,
+
+01:08:14.880 --> 01:08:16.060 align:middle line:90%
+to operate.
+
+01:08:16.060 --> 01:08:19.164 align:middle line:90%
+
+
+01:08:19.164 --> 01:08:23.640 align:middle line:84%
+Unlike inBloom, which said these
+11 states are the organization--
+
+01:08:23.640 --> 01:08:26.069 align:middle line:84%
+these state education agencies
+are the key people we're
+
+01:08:26.069 --> 01:08:28.680 align:middle line:84%
+interacting with,
+they don't mention
+
+01:08:28.680 --> 01:08:30.907 align:middle line:84%
+higher education
+accreditors or state boards
+
+01:08:30.907 --> 01:08:31.740 align:middle line:90%
+of higher education.
+
+01:08:31.740 --> 01:08:33.198 align:middle line:84%
+They basically have
+left government
+
+01:08:33.198 --> 01:08:35.670 align:middle line:84%
+out, except from the
+National Science Foundation,
+
+01:08:35.670 --> 01:08:37.029 align:middle line:90%
+of this development.
+
+01:08:37.029 --> 01:08:38.609 align:middle line:84%
+Maybe people are
+more trustworthy
+
+01:08:38.609 --> 01:08:40.180 align:middle line:90%
+of these organizations.
+
+01:08:40.180 --> 01:08:41.189 align:middle line:90%
+Or maybe they're just--
+
+01:08:41.189 --> 01:08:42.689 align:middle line:84%
+even if they're not
+more trustworthy
+
+01:08:42.689 --> 01:08:47.100 align:middle line:84%
+of these organizations,
+critics are potentially
+
+01:08:47.100 --> 01:08:48.779 align:middle line:84%
+drawn to things
+like New York State
+
+01:08:48.779 --> 01:08:55.029 align:middle line:84%
+approves X versus this kind of
+arbitrary group of universities,
+
+01:08:55.029 --> 01:08:58.649 align:middle line:84%
+some of whom might be
+in New York, approve X.
+
+01:08:58.649 --> 01:09:01.560 align:middle line:84%
+So it'll be super
+interesting to watch.
+
+01:09:01.560 --> 01:09:05.130 align:middle line:84%
+The grant that they
+got was from the same--
+
+01:09:05.130 --> 01:09:07.830 align:middle line:84%
+$90 million is probably
+the largest federal grant
+
+01:09:07.830 --> 01:09:10.612 align:middle line:84%
+to an educational
+research project
+
+01:09:10.612 --> 01:09:13.279 align:middle line:84%
+ever, although there's a couple
+of educational research projects
+
+01:09:13.279 --> 01:09:15.029 align:middle line:84%
+that if you totaled
+up all the grants they
+
+01:09:15.029 --> 01:09:17.760 align:middle line:84%
+got over a period
+of time might be
+
+01:09:17.760 --> 01:09:20.430 align:middle line:90%
+at least within that ballpark.
+
+01:09:20.430 --> 01:09:25.290 align:middle line:84%
+It came from the same grant
+funding that supports telescopes
+
+01:09:25.290 --> 01:09:26.970 align:middle line:90%
+and ecological plots.
+
+01:09:26.970 --> 01:09:29.560 align:middle line:84%
+It's called Mid-scale
+Research Infrastructure,
+
+01:09:29.560 --> 01:09:31.979 align:middle line:90%
+things that are like--
+
+01:09:31.979 --> 01:09:35.508 align:middle line:84%
+no one university can build
+a giant radio telescope.
+
+01:09:35.508 --> 01:09:37.050 align:middle line:84%
+And you don't want
+one university to.
+
+01:09:37.050 --> 01:09:39.580 align:middle line:84%
+You want to build a thing that
+the entire field of astronomy
+
+01:09:39.580 --> 01:09:41.700 align:middle line:84%
+can all collectively
+use together.
+
+01:09:41.700 --> 01:09:45.240 align:middle line:84%
+And so this grant stream is
+meant to build enormous things
+
+01:09:45.240 --> 01:09:47.200 align:middle line:90%
+that everyone can use together.
+
+01:09:47.200 --> 01:09:50.840 align:middle line:84%
+So it'll be interesting to see
+what they do in the decades
+
+01:09:50.840 --> 01:09:51.340 align:middle line:90%
+ahead.
+
+01:09:51.340 --> 01:09:57.630 align:middle line:84%
+But I think, in some ways,
+especially coming about 10 years
+
+01:09:57.630 --> 01:10:02.370 align:middle line:84%
+after the collapse of
+inBloom, to me, it's neat.
+
+01:10:02.370 --> 01:10:06.270 align:middle line:84%
+People still have optimism
+that if you pull together
+
+01:10:06.270 --> 01:10:09.035 align:middle line:84%
+a bunch of student learning
+data and data about students,
+
+01:10:09.035 --> 01:10:10.660 align:middle line:84%
+and you conduct a
+bunch of experiments,
+
+01:10:10.660 --> 01:10:13.020 align:middle line:84%
+you can build things that
+help them learn better.
+
+01:10:13.020 --> 01:10:17.920 align:middle line:84%
+But there are
+enormous real risks.
+
+01:10:17.920 --> 01:10:21.780 align:middle line:84%
+And there may be even more
+enormous reputational risks
+
+01:10:21.780 --> 01:10:23.380 align:middle line:90%
+that go into this work.
+
+01:10:23.380 --> 01:10:25.990 align:middle line:84%
+One thing that I've
+tried to communicate,
+
+01:10:25.990 --> 01:10:29.310 align:middle line:84%
+which it sounds like
+these folks are adopting,
+
+01:10:29.310 --> 01:10:31.590 align:middle line:90%
+to many different groups--
+
+01:10:31.590 --> 01:10:33.868 align:middle line:84%
+because I'm basically part
+of the community of people
+
+01:10:33.868 --> 01:10:36.160 align:middle line:84%
+that would like to collect
+lots of data about students.
+
+01:10:36.160 --> 01:10:39.720 align:middle line:84%
+And I've handled
+data files that have
+
+01:10:39.720 --> 01:10:41.220 align:middle line:84%
+way more information
+about people
+
+01:10:41.220 --> 01:10:43.740 align:middle line:84%
+than I feel comfortable
+having access to.
+
+01:10:43.740 --> 01:10:46.180 align:middle line:84%
+And part of the job is
+doing things responsibly.
+
+01:10:46.180 --> 01:10:48.510 align:middle line:84%
+But the other part of
+the job is constantly
+
+01:10:48.510 --> 01:10:51.090 align:middle line:84%
+talking to the public
+about what we're doing.
+
+01:10:51.090 --> 01:10:53.670 align:middle line:84%
+The only way people
+will not be creeped out
+
+01:10:53.670 --> 01:10:57.390 align:middle line:84%
+by doing experiments
+is if, A, we
+
+01:10:57.390 --> 01:10:59.760 align:middle line:84%
+conduct a bunch of experiments
+that meaningfully improve
+
+01:10:59.760 --> 01:11:00.720 align:middle line:90%
+learning.
+
+01:11:00.720 --> 01:11:04.800 align:middle line:84%
+A huge challenge that
+education has is we
+
+01:11:04.800 --> 01:11:07.360 align:middle line:84%
+don't have the equivalent
+of the Human Genome Project.
+
+01:11:07.360 --> 01:11:08.860 align:middle line:84%
+We don't have a
+thing that you could
+
+01:11:08.860 --> 01:11:10.710 align:middle line:84%
+point to being
+like, well, yeah, we
+
+01:11:10.710 --> 01:11:13.540 align:middle line:84%
+took a whole lot of your data,
+but we're curing cancer here,
+
+01:11:13.540 --> 01:11:15.370 align:middle line:90%
+people.
+
+01:11:15.370 --> 01:11:17.850 align:middle line:84%
+If SafeInsights came
+up with something
+
+01:11:17.850 --> 01:11:21.070 align:middle line:84%
+that made students
+learn math 33% faster,
+
+01:11:21.070 --> 01:11:23.010 align:middle line:84%
+it would totally
+change the way people
+
+01:11:23.010 --> 01:11:24.665 align:middle line:90%
+think about the collection of--
+
+01:11:24.665 --> 01:11:26.040 align:middle line:84%
+just your cost-benefit
+data would
+
+01:11:26.040 --> 01:11:28.950 align:middle line:90%
+transform quite dramatically.
+
+01:11:28.950 --> 01:11:31.980 align:middle line:84%
+But even in the absence of
+that, it's incredibly important
+
+01:11:31.980 --> 01:11:34.500 align:middle line:84%
+to be engaged with these
+student privacy groups, engaged
+
+01:11:34.500 --> 01:11:36.540 align:middle line:84%
+with families, trying
+to explain to people
+
+01:11:36.540 --> 01:11:39.930 align:middle line:84%
+there's always going to
+be variation in education.
+
+01:11:39.930 --> 01:11:43.530 align:middle line:84%
+What we probably could benefit
+the most from is systematic
+
+01:11:43.530 --> 01:11:46.140 align:middle line:84%
+variation, where we can tell
+which parts of the variation
+
+01:11:46.140 --> 01:11:47.530 align:middle line:90%
+work and which parts don't.
+
+01:11:47.530 --> 01:11:49.033 align:middle line:84%
+And the only way
+that we can do that
+
+01:11:49.033 --> 01:11:50.700 align:middle line:84%
+is through some of
+these approaches that
+
+01:11:50.700 --> 01:11:52.530 align:middle line:84%
+include data collection and
+randomization and things
+
+01:11:52.530 --> 01:11:53.233 align:middle line:90%
+like that.
+
+01:11:53.233 --> 01:11:54.900 align:middle line:84%
+AUDIENCE: So you just
+made the statement
+
+01:11:54.900 --> 01:11:59.290 align:middle line:84%
+that SafeInsights comes
+up with some solution.
+
+01:11:59.290 --> 01:12:04.830 align:middle line:84%
+So is SafeInsights, is it
+like a third party that is--
+
+01:12:04.830 --> 01:12:07.122 align:middle line:84%
+JUSTIN REICH: It is less of
+a third party than inBloom.
+
+01:12:07.122 --> 01:12:08.580 align:middle line:84%
+AUDIENCE: Is it
+actual researchers?
+
+01:12:08.580 --> 01:12:09.690 align:middle line:90%
+JUSTIN REICH: Yes.
+
+01:12:09.690 --> 01:12:12.270 align:middle line:84%
+Clearly, some of
+the things that Rice
+
+01:12:12.270 --> 01:12:15.370 align:middle line:84%
+is going to do with this
+money is build systems
+
+01:12:15.370 --> 01:12:19.853 align:middle line:84%
+and study OpenStax with it,
+much more so than inBloom.
+
+01:12:19.853 --> 01:12:23.110 align:middle line:90%
+
+
+01:12:23.110 --> 01:12:25.000 align:middle line:84%
+inBloom never, to
+my knowledge, never
+
+01:12:25.000 --> 01:12:29.650 align:middle line:84%
+had a list of partners
+that looked like this list.
+
+01:12:29.650 --> 01:12:32.950 align:middle line:84%
+They never said, from the
+beginning, oh, look, Kahoot!
+
+01:12:32.950 --> 01:12:36.280 align:middle line:84%
+and Google Classroom and
+all these other people
+
+01:12:36.280 --> 01:12:39.130 align:middle line:84%
+are our lead partners
+and are going
+
+01:12:39.130 --> 01:12:40.640 align:middle line:90%
+to use this to figure out stuff.
+
+01:12:40.640 --> 01:12:43.630 align:middle line:84%
+They really saw
+themselves solving
+
+01:12:43.630 --> 01:12:48.271 align:middle line:84%
+an infrastructural
+problem more that--
+
+01:12:48.271 --> 01:12:50.620 align:middle line:84%
+I think these folks are
+positioning themselves
+
+01:12:50.620 --> 01:12:54.970 align:middle line:84%
+more like, first, we're going
+to have a set of tech products
+
+01:12:54.970 --> 01:12:59.930 align:middle line:84%
+that improve learning through
+better research practices,
+
+01:12:59.930 --> 01:13:03.070 align:middle line:84%
+including better forms of data
+management and data sharing
+
+01:13:03.070 --> 01:13:04.900 align:middle line:90%
+and data privacy.
+
+01:13:04.900 --> 01:13:07.630 align:middle line:84%
+But if it's a real
+infrastructure product,
+
+01:13:07.630 --> 01:13:08.470 align:middle line:90%
+part of what--
+
+01:13:08.470 --> 01:13:13.270 align:middle line:84%
+I'm sure Rich's goal
+is to say, we're
+
+01:13:13.270 --> 01:13:16.120 align:middle line:84%
+going to develop these
+privacy-protecting research
+
+01:13:16.120 --> 01:13:16.940 align:middle line:90%
+enclaves.
+
+01:13:16.940 --> 01:13:19.600 align:middle line:84%
+And we're going to develop
+them in an open-source way
+
+01:13:19.600 --> 01:13:22.805 align:middle line:84%
+that whatever future
+EdTech companies come along
+
+01:13:22.805 --> 01:13:25.180 align:middle line:84%
+are going to be able to benefit
+from this infrastructure.
+
+01:13:25.180 --> 01:13:27.040 align:middle line:84%
+They're going to be able to do
+all the same kinds of things
+
+01:13:27.040 --> 01:13:28.720 align:middle line:84%
+that OpenStax is
+doing to conduct
+
+01:13:28.720 --> 01:13:31.360 align:middle line:84%
+cool experimental
+research with lots of data
+
+01:13:31.360 --> 01:13:34.460 align:middle line:84%
+while protecting
+people's privacy.
+
+01:13:34.460 --> 01:13:34.960 align:middle line:90%
+Great.
+
+01:13:34.960 --> 01:13:37.640 align:middle line:84%
+It's 2:25, so I
+should let you go.
+
+01:13:37.640 --> 01:13:40.570 align:middle line:90%
+We'll come in on Wednesday.
+
+01:13:40.570 --> 01:13:43.420 align:middle line:84%
+And you have a little bit of
+reading about implementation
+
+01:13:43.420 --> 01:13:44.450 align:middle line:90%
+in schools.
+
+01:13:44.450 --> 01:13:46.690 align:middle line:84%
+But mostly, what you
+should be working
+
+01:13:46.690 --> 01:13:52.838 align:middle line:84%
+on is getting some words on
+paper for your final project
+
+01:13:52.838 --> 01:13:54.380 align:middle line:84%
+and thinking a little
+bit about-- oh,
+
+01:13:54.380 --> 01:13:56.757 align:middle line:84%
+a thing that we'll do
+probably by email this week,
+
+01:13:56.757 --> 01:13:58.340 align:middle line:84%
+but maybe a bit in
+class on Wednesday,
+
+01:13:58.340 --> 01:14:00.340 align:middle line:84%
+is I need you to sign
+up to either present
+
+01:14:00.340 --> 01:14:01.752 align:middle line:90%
+on Monday or Wednesday.
+
+01:14:01.752 --> 01:14:03.460 align:middle line:84%
+Maybe I'll send you
+something pretty soon
+
+01:14:03.460 --> 01:14:07.500 align:middle line:84%
+that invites you to sign up
+for one of those two slots.
+
+01:14:07.500 --> 01:14:13.000 align:middle line:90%

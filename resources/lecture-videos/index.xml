@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02. How People Learn: Cognitive Load Theory</title>
+      <link>/resources/mit-cms595-s24-session-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-2_mp4/data.json</guid>
+      <description>&lt;p&gt;This video is an introduction to cognitive load theory, working and short-term memory, and instructional bottlenecks. Students discuss previous education technology experiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03. How People Learn: Situated Learning</title>
+      <link>/resources/mit-cms595-s24-session-3_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-3_mp4/data.json</guid>
+      <description>&lt;p&gt;This video explores two major educational theories: Cognitive Load Theory (CLT) and Situated Learning. Through classroom discussion, the class examines how both theories can coexist and even complement one another&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>07. EdTech Before the Internet</title>
+      <link>/resources/mit-cms595-s24-session-7_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-7_mp4/data.json</guid>
+      <description>&lt;p&gt;This session begins by thinking of the stakeholders for education technology: teachers, administrators, parents, developers, etc. Historical examples of education technology, such as projectors/TVs in classrooms, school-wide broadcasting systems, and textbooks. A key insight is the &amp;ldquo;third-party payer problem&amp;rdquo; in education technology, where the primary users (students and teachers) often don&amp;rsquo;t make purchasing decisions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>09. Massive Open Online Courses (MOOCs)</title>
+      <link>/resources/mit-cms595-s24-session-9_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-9_mp4/data.json</guid>
+      <description>&lt;p&gt;This video outlines three genres of large-scale learning: instructor-guided, algorithm-guided, and peer-guided. The discussion concludes with an introduction to Massive Open Online Courses (MOOCs) and their challenges.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10. Intelligent Tutors</title>
+      <link>/resources/mit-cms595-s24-session-10_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-10_mp4/data.json</guid>
+      <description>&lt;p&gt;This discussion explores how MOOC revolution aimed to disrupt education with accessible, data-driven learning, but largely fell short. It highlights challenges in personalized learning and the limitations of systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>12. Interest-Driven Learning</title>
+      <link>/resources/mit-cms595-s24-session-12_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-12_mp4/data.json</guid>
+      <description>&lt;p&gt;This session discusses the question of why, when there&amp;rsquo;s all this amazing learning that happens in people&amp;rsquo;s informal learning experiences, is it so hard to bring those practices into school environments? Participants discuss the tension between centralized, standardized educational platforms and more decentralized, student-owned learning environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>14. Learning Games</title>
+      <link>/resources/mit-cms595-s24-session-14_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-14_mp4/data.json</guid>
+      <description>&lt;p&gt;This video begins with a discussion of participant&amp;rsquo;s childhood learning games. The discussion expands to board games and their transferable skills. Finally, the role of gamification versus &amp;ldquo;resonant games&amp;rdquo; is examined.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>16. Start-Up and the Curse of the Familiar</title>
+      <link>/resources/mit-cms595-s24-session-16_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-16_mp4/data.json</guid>
+      <description>&lt;p&gt;This session explores how connectivist MOOCs aimed to disrupt education but were rejected due to their unfamiliarity. Overcoming this “curse of the familiar” involves starting with familiar tech and building strong educator communities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>18. Trap of Routine Assessment</title>
+      <link>/resources/mit-cms595-s24-session-18_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-18_mp4/data.json</guid>
+      <description>&lt;p&gt;The evolving job market pushes education to value critical thinking, creativity, and problem-solving. While AI aids assessment, it misses nuances in writing, communication, and emotional intelligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20. The Toxic Power of Data and Experiment</title>
+      <link>/resources/mit-cms595-s24-session-20_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit-cms595-s24-session-20_mp4/data.json</guid>
+      <description>&lt;p&gt;This video discusses the vast data collected in schools. Topics include data usage policies and the ethics of student consent in educational research. The tension between product improvement through experimentation and user autonomy are also explored.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

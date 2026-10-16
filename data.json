@@ -1,0 +1,88 @@
+{
+  "course_description": "New digital technologies are transforming learning for all ages—reading apps for toddlers, intelligent tutors for school children, blended learning for college students, MOOCs for adults, and interest-based learning communities for hobbyists. In this course, we explore these technologies and how they shape people’s lives and learning. Coursework will help students explore learning, media, and technology through multiple lenses—history, policy, social theory, design, and evaluation. Students will refine their thinking about the opportunities, limits, and tradeoffs of educational technology. Graduate students will complete additional assignments.",
+  "course_description_html": "New digital technologies are transforming learning for all ages—reading apps for toddlers, intelligent tutors for school children, blended learning for college students, MOOCs for adults, and interest-based learning communities for hobbyists. In this course, we explore these technologies and how they shape people’s lives and learning. Coursework will help students explore learning, media, and technology through multiple lenses—history, policy, social theory, design, and evaluation. Students will refine their thinking about the opportunities, limits, and tradeoffs of educational technology. Graduate students will complete additional assignments.",
+  "course_image": {
+    "content": "6f0795d3-a5d6-42f8-bd4e-9c2cf4e1d9d5",
+    "website": "learning-media-and-technology"
+  },
+  "course_image_metadata": {
+    "body": "",
+    "content_type": "resource",
+    "draft": false,
+    "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mitcms_595_s24.jpg",
+    "file_size": 157010,
+    "file_type": "image/jpeg",
+    "image_metadata": {
+      "caption": "The Raspberry Pi keyboard being used here by a young student is one example of educational technology. (Courtesy of {{% resource_link \"01ec716c-b125-421b-95a1-fedf1dba53ed\" \"Jonathon Cutrer\" %}} on Flickr. Image is in the public domain.)",
+      "credit": "Courtesy of joncutrer on Flickr. Image is in the public domain.",
+      "image-alt": "A young student types on a raspberry pi RP400 keyboard."
+    },
+    "iscjklanguage": false,
+    "learning_resource_types": [],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "resourcetype": "Image",
+    "title": "mitcms_595_s24.jpg",
+    "uid": "6f0795d3-a5d6-42f8-bd4e-9c2cf4e1d9d5",
+    "video_files": {
+      "archive_url": "",
+      "video_captions_file": "",
+      "video_thumbnail_file": "",
+      "video_transcript_file": ""
+    },
+    "video_metadata": {
+      "source": "",
+      "video_speakers": "",
+      "video_tags": "",
+      "youtube_description": "",
+      "youtube_id": ""
+    }
+  },
+  "course_title": "Learning, Media, and Technology",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.895",
+  "hide_download": false,
+  "image_src": "./static_resources/mitcms_595_s24.jpg",
+  "instructors": [
+    {
+      "first_name": "Justin",
+      "last_name": "Reich",
+      "middle_initial": "",
+      "salutation": "Prof.",
+      "title": "Prof. Justin Reich",
+      "uid": "89666a17-6a2a-c8a6-7d92-867266505def",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+Justin+Reich"
+    }
+  ],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Readings",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "legacy_uid": "",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "mit_learn_topics": [
+    [
+      "Education & Teaching",
+      "Educational Technology"
+    ]
+  ],
+  "primary_course_number": "CMS.595",
+  "site_short_id": "cms-595-spring-2024",
+  "site_uid": "52e9b491-e73c-4a54-8cdc-3a993a162f3d",
+  "site_url_path": "courses/cms-595-learning-media-and-technology-spring-2024",
+  "term": "Spring",
+  "topics": [
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "year": "2024"
+}

@@ -1,0 +1,36 @@
+{
+  "audience": [],
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1D-7nvaObwWrpyzMEuYNwAlSNaZO8eQ7T_transcript.webvtt",
+  "file_size": 166158,
+  "file_type": "application/x-subrip",
+  "gdrive_url": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "resourcetype": "Other",
+  "title": "03. How People Learn: Situated Learning captions",
+  "uid": "fc3a9e0e-041b-425a-b329-44dc6b731789",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

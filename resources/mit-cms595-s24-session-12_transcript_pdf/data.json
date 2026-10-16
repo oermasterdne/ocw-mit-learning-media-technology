@@ -1,0 +1,36 @@
+{
+  "audience": [],
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1Ebei2CikUA7glTtA35oZP7EN_dN7RHm6_transcript.pdf",
+  "file_size": 120918,
+  "file_type": "application/pdf",
+  "gdrive_url": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "resourcetype": "Document",
+  "title": "12. Interest-Driven Learning transcript",
+  "uid": "1e016497-7dc8-4c2f-85c2-6544e4feeb27",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

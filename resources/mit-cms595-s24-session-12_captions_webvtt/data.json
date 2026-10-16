@@ -1,0 +1,36 @@
+{
+  "audience": [],
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1Ebei2CikUA7glTtA35oZP7EN_dN7RHm6_transcript.webvtt",
+  "file_size": 166526,
+  "file_type": "application/x-subrip",
+  "gdrive_url": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "resourcetype": "Other",
+  "title": "12. Interest-Driven Learning captions",
+  "uid": "14fcf93f-da85-4bb0-a7df-bd69231cd898",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "audience": [],
+  "body": "",
+  "content": "",
+  "content_type": "resource",
+  "draft": false,
+  "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1D-7nvaObwWrpyzMEuYNwAlSNaZO8eQ7T_transcript.pdf",
+  "file_size": 120907,
+  "file_type": "application/pdf",
+  "gdrive_url": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "resourcetype": "Document",
+  "title": "03. How People Learn: Situated Learning transcript",
+  "uid": "d1d050f2-1a17-434a-beca-9a6a5ae4f1a7",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

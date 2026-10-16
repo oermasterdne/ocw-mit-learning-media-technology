@@ -1,0 +1,442 @@
+
+{
+  "content": "<p>A selection of class seminar videos are available to OCW users.</p>\n",
+  "content_type": "video_gallery",
+  "draft": false,
+  "iscjklanguage": false,
+  "title": "Seminar Videos",
+  "uid": "e2da6fe5-b052-4e23-aa64-073eaba90a26",
+  "videos": [
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-2_360p_16_9.mp4",
+      "file_size": 106777034,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "02. How People Learn: Cognitive Load Theory",
+      "uid": "032177c0-516f-4542-9e13-5c011ca970c3",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1V7-yalWONdVyzGJ270l45Qzfu_Ml6z-7_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/P4RVO9aIIVA/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1V7-yalWONdVyzGJ270l45Qzfu_Ml6z-7_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, cognitive architecture, edtech history, instructional, instructional principles, learning process",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis video is an introduction to cognitive load theory, working and short-term memory, and instructional bottlenecks. Students discuss previous education technology experiences.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "P4RVO9aIIVA"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-3_360p_16_9.mp4",
+      "file_size": 150534236,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "03. How People Learn: Situated Learning",
+      "uid": "2cc805d2-d179-497f-8412-2e7460a1fb67",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1D-7nvaObwWrpyzMEuYNwAlSNaZO8eQ7T_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/MXTA8HlhnuM/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1D-7nvaObwWrpyzMEuYNwAlSNaZO8eQ7T_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, cognitive load theory, direct instruction, education technology, situated learning",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis video explores two major educational theories: Cognitive Load Theory (CLT) and Situated Learning. Through classroom discussion, the class examines how both theories can coexist and even complement one another.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "MXTA8HlhnuM"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-7_360p_16_9.mp4",
+      "file_size": 115474700,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "07. EdTech Before the Internet",
+      "uid": "1fe0e394-0b9c-4298-876f-5c3a8ccb826f",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1U9VupztX_yCeamRt02ASGvvLQzXGw30O_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/68XZ_P9MKM8/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1U9VupztX_yCeamRt02ASGvvLQzXGw30O_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "authority levels, cms-595-learning-media-and-technology-spring-2024, policymaking, technology infrastructure, third-party payer problem",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis session begins by thinking of the stakeholders for education technology: teachers, administrators, parents, developers, etc. Historical examples of education technology, such as projectors/TVs in classrooms, school-wide broadcasting systems, and textbooks. A key insight is the \"third-party payer problem\" in education technology, where the primary users (students and teachers) often don't make purchasing decisions.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "68XZ_P9MKM8"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-9_360p_16_9.mp4",
+      "file_size": 138556421,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "09. Massive Open Online Courses (MOOCs)",
+      "uid": "b2bd51c0-a750-4058-908e-925c88098342",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1v0EVh2NEVov8yRGdX3Nf7suARgoRwE4M_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/pPbJGG1JtVw/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1v0EVh2NEVov8yRGdX3Nf7suARgoRwE4M_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, disrupting higher education, edtech matthew effect, mooc, routine assessment",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis video outlines three genres of large-scale learning: instructor-guided, algorithm-guided, and peer-guided. The discussion concludes with an introduction to Massive Open Online Courses (MOOCs) and their challenges.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+        "youtube_id": "pPbJGG1JtVw"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-10_360p_16_9.mp4",
+      "file_size": 190823779,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "10. Intelligent Tutors",
+      "uid": "dc3bef35-6a3e-4dfa-bb9b-0f8662f6a0de",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1za86ZNlocZTvHjMSbhtu8uMqWmUF7Ngj_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/jY-kLDI8nBU/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1za86ZNlocZTvHjMSbhtu8uMqWmUF7Ngj_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "algorithm-guided learning, autograders, cms-595-learning-media-and-technology-spring-2024, intelligent tutors, new science of learning",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis discussion explores how MOOC revolution aimed to disrupt education with accessible, data-driven learning, but largely fell short. It highlights challenges in personalized learning and the limitations of systems.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "jY-kLDI8nBU"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-12_360p_16_9.mp4",
+      "file_size": 135327888,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "12. Interest-Driven Learning",
+      "uid": "db6a2015-fc98-4f6f-a32b-64238a9e54df",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1Ebei2CikUA7glTtA35oZP7EN_dN7RHm6_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/QC8q4oYKwBI/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1Ebei2CikUA7glTtA35oZP7EN_dN7RHm6_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, learning infrastructures, learning management systems, peer-guided learning",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis session discusses the question of why, when there's all this amazing learning that happens in people's informal learning experiences, is it so hard to bring those practices into school environments? Participants discuss the tension between centralized, standardized educational platforms and more decentralized, student-owned learning environments.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+        "youtube_id": "QC8q4oYKwBI"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-14_360p_16_9.mp4",
+      "file_size": 120828819,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "14. Learning Games",
+      "uid": "27831c66-1bc2-4f72-97cc-d232c6c97fe8",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1GXNxFdzcrVmKfuff1-MtuK172VPoSEIl_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/x0RamxvyDe0/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1GXNxFdzcrVmKfuff1-MtuK172VPoSEIl_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cmoocs, cms-595-learning-media-and-technology-spring-2024, intelligent tutors, learning at scale, learning games, moocs, resonant games",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis video begins with a discussion of participant's childhood learning games. The discussion expands to board games and their transferable skills. Finally, the role of gamification versus \"resonant games\" is examined.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "x0RamxvyDe0"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-16_360p_16_9.mp4",
+      "file_size": 125866205,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "16. Start-Up and the Curse of the Familiar",
+      "uid": "29f398fb-2870-479a-b28f-cdf0304f5c8c",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1VH8tbN4mou6KmkDjiCAwp5iORShcdBTK_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/LQ-WcLwrU6c/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1VH8tbN4mou6KmkDjiCAwp5iORShcdBTK_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, community-driven educational practices, connectivist moocs, novel approaches",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis session explores how connectivist MOOCs aimed to disrupt education but were rejected due to their unfamiliarity. Overcoming this “curse of the familiar” involves starting with familiar tech and building strong educator communities.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "LQ-WcLwrU6c"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-18_360p_16_9.mp4",
+      "file_size": 129660507,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "18. Trap of Routine Assessment",
+      "uid": "13abec41-8b01-459e-888b-0708e034a4ff",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/137d5P-gj0G3AVrZfxzlgWFaXa00JFQfQ_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/8hvDT6zKp98/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/137d5P-gj0G3AVrZfxzlgWFaXa00JFQfQ_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "ai education, cms-595-learning-media-and-technology-spring-2024, complex communication, expert thinking, standardized testing",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis discussion explores how the shift in the job market encourages education systems to prioritize critical thinking, creativity, and complex problem-solving. While AI can assist in some areas of assessment, it struggles with capturing the nuances of good writing, persuasive communication, and emotional intelligence. Ultimately, while AI will enhance efficiency in routine tasks, human judgment and creativity will continue to be essential, particularly in areas requiring nuanced decision-making and contextual insight.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "8hvDT6zKp98"
+      }
+    },
+    {
+      "body": "",
+      "content_type": "resource",
+      "draft": false,
+      "file": "/courses/cms-595-learning-media-and-technology-spring-2024/mit-cms595-s24-session-20_360p_16_9.mp4",
+      "file_size": 178766492,
+      "file_type": "video/mp4",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "title": "20. The Toxic Power of Data and Experiment",
+      "uid": "7eeae02c-8a8a-4e61-b8bb-b73a251328e7",
+      "video_files": {
+        "archive_url": "",
+        "video_captions_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1DhKSGUZNPSNOKZxi6aAOho5_820XkU3Z_transcript.webvtt",
+            "language": "en"
+          }
+        ],
+        "video_thumbnail_file": "https://img.youtube.com/vi/tnnuIwgXAt8/default.jpg",
+        "video_transcript_resources": [
+          {
+            "file": "/courses/cms-595-learning-media-and-technology-spring-2024/1DhKSGUZNPSNOKZxi6aAOho5_820XkU3Z_transcript.pdf",
+            "language": "en"
+          }
+        ]
+      },
+      "video_metadata": {
+        "video_speakers": "",
+        "video_tags": "cms-595-learning-media-and-technology-spring-2024, data collection in education, intractable dilemma, routine assessment, trap of the familiar",
+        "youtube_description": "MIT CMS.595 Learning, Media, and Technology, Spring 2024\nInstructor: Justin Reich\n\nView the complete course: https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK\n\nThis video discusses the vast data collected in schools. Topics include data usage policies and the ethics of student consent in educational research. The tension between product improvement through experimentation and user autonomy are also explored.\n\nLicense: Creative Commons BY-NC-SA\u2028More information at https://ocw.mit.edu/terms\u2028More courses at https://ocw.mit.edu\u2028Support OCW at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion on OCW’s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n",
+        "youtube_id": "tnnuIwgXAt8"
+      }
+    }
+  ]
+}
+
